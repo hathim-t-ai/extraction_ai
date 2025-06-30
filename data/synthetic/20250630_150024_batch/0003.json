@@ -1,0 +1,162 @@
+{
+  "account_number": "OUTQ43715225485905",
+  "currency": "AED",
+  "period_start": "2024-12-26",
+  "period_end": "2025-01-01",
+  "transactions": [
+    {
+      "date": "2024-12-26",
+      "description": "ATM CASH",
+      "debit": "9839.38",
+      "credit": null,
+      "balance": "40979.34"
+    },
+    {
+      "date": "2024-12-26",
+      "description": "NEFT INB SUPPLIER",
+      "debit": "3309.48",
+      "credit": null,
+      "balance": "30443.91"
+    },
+    {
+      "date": "2024-12-26",
+      "description": "UPI/IPAY584125\nCARD FEE",
+      "debit": null,
+      "credit": "1357.86",
+      "balance": "20350.23"
+    },
+    {
+      "date": "2024-12-27",
+      "description": "CHEQUE DEPOSIT",
+      "debit": "9579.70",
+      "credit": null,
+      "balance": "23625.05"
+    },
+    {
+      "date": "2024-12-27",
+      "description": "CHEQUE DEPOSIT",
+      "debit": null,
+      "credit": "1214.46",
+      "balance": "24839.51"
+    },
+    {
+      "date": "2024-12-27",
+      "description": "SALARY",
+      "debit": null,
+      "credit": "5341.70",
+      "balance": "18992.37"
+    },
+    {
+      "date": "2024-12-28",
+      "description": "POS DUBAI MALL\nNEFT INB SUPPLIER",
+      "debit": null,
+      "credit": "806.70",
+      "balance": "33753.39"
+    },
+    {
+      "date": "2024-12-29",
+      "description": "POS DUBAI MALL",
+      "debit": "6756.60",
+      "credit": null,
+      "balance": "53624.27"
+    },
+    {
+      "date": "2024-12-29",
+      "description": "CARD FEE",
+      "debit": "6298.02",
+      "credit": null,
+      "balance": "34681.32"
+    },
+    {
+      "date": "2024-12-29",
+      "description": "ATM CASH\nCARD FEE",
+      "debit": "1476.57",
+      "credit": null,
+      "balance": "33204.75"
+    },
+    {
+      "date": "2024-12-29",
+      "description": "UTILITY BILL",
+      "debit": null,
+      "credit": "5479.17",
+      "balance": "39819.13"
+    },
+    {
+      "date": "2024-12-29",
+      "description": "CHEQUE DEPOSIT\nUTILITY BILL",
+      "debit": "2473.15",
+      "credit": null,
+      "balance": "37345.98"
+    },
+    {
+      "date": "2024-12-29",
+      "description": "UTILITY BILL",
+      "debit": "6791.74",
+      "credit": null,
+      "balance": "13650.67"
+    },
+    {
+      "date": "2024-12-30",
+      "description": "FX CHARGE",
+      "debit": null,
+      "credit": "3039.45",
+      "balance": "60380.87"
+    },
+    {
+      "date": "2024-12-30",
+      "description": "CHEQUE DEPOSIT",
+      "debit": null,
+      "credit": "9500.45",
+      "balance": "34339.96"
+    },
+    {
+      "date": "2024-12-31",
+      "description": "ATM CASH",
+      "debit": "5155.00",
+      "credit": null,
+      "balance": "48469.27"
+    },
+    {
+      "date": "2024-12-31",
+      "description": "UPI/IPAY848206\nFX CHARGE",
+      "debit": "4399.29",
+      "credit": null,
+      "balance": "32946.69"
+    },
+    {
+      "date": "2025-01-01",
+      "description": "NEFT INB SUPPLIER\nPOS DUBAI MALL",
+      "debit": null,
+      "credit": "2349.45",
+      "balance": "50818.72"
+    },
+    {
+      "date": "2025-01-01",
+      "description": "SALARY",
+      "debit": "9048.48",
+      "credit": null,
+      "balance": "21395.43"
+    },
+    {
+      "date": "2025-01-01",
+      "description": "FX CHARGE\nUPI/IPAY600149",
+      "debit": null,
+      "credit": "5757.33",
+      "balance": "27152.76"
+    },
+    {
+      "date": "2025-01-01",
+      "description": "CHEQUE DEPOSIT",
+      "debit": "8916.52",
+      "credit": null,
+      "balance": "18236.24"
+    },
+    {
+      "date": "2025-01-01",
+      "description": "UTILITY BILL\nSALARY",
+      "debit": null,
+      "credit": "2206.17",
+      "balance": "20442.41"
+    }
+  ]
+}

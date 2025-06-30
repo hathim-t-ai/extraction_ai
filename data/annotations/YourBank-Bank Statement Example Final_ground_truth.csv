@@ -1,0 +1,15 @@
+date,description,currency,amount,balance
+1 February,Card payment - High St Petrol Station,,-24.5,39975.5
+1 February,Direct debit - Green Mobile Phone Bill,,-20.0,39955.5
+3 February,"Cash Withdrawal - YourBank, Anytown High Street, timed 17:30 31 Jan",,-30.0,39925.5
+4 February,YourJob BiWeekly Payment,,2575.0,42500.5
+11 February,"Direct Deposit - YourBank, Anytown High Street, timed 17:30 31 Jan",,300.0,42800.5
+16 February,"Cash Withdrawal - RandomBank, Randomford, timed 9.52 14 Feb",,-50.0,42750.5
+17 February,Card payment - High St Petrol Station,,-40.0,42710.5
+17 February,Direct Debit - Home Insurance,,-78.34,42632.16
+18 February,YourJob BiWeekly Payment,,2575.0,45207.16
+18 February,Randomford's Deli,,-15.0,45195.16
+24 February,Anytown's Jewelers,,-150.0,45042.16
+24 February,Direct Deposit,,25.0,45067.16
+28 February,Monthly Apartment Rent,,-987.33,44079.83
+28 February,nan,GBP,0.0,44079.83

@@ -1,0 +1,122 @@
+Text Reference for Manual Annotation: Hilal Bank Feb 2025 BankStatement.pdf
+============================================================
+INSTRUCTIONS:
+1. Delete the example rows in the CSV template
+2. Add real transaction data from the PDF below
+3. Format: date (YYYY-MM-DD), description, amount (+/-), balance
+4. Amount: positive for credits, negative for debits
+============================================================
+
+--- Page 1 ---
+:اﻟﻔﺮعBranch: AHB Digital Bank
+:رﻗﻢ ﺗﻌﺮﻳﻒ اﻟﻤﺘﻌﺎﻣﻞCustomer ID: 7400288
+ 
+ﻛﺸﻒ ﻣﻮﺣّﺪ ﻟﻠﺤﺴﺎﺑﺎت
+Consolidated Statement of Accounts
+HATHIM AMEER IBRAHIMIBRAHIM
+Villa/Flat No : 209
+Building Number :
+Address : MOHD MORSHID BLDG
+Dubai City
+Dubai City
+United Arab Emirates
+ﻳﻤﻜﻨﻚ أن ﺗﺼﺒﺢ ﻣﻠﻴﻮﻧﻴﺮاً ﻛﻞ ﺷﻬﺮ، وﻓﺮ
+5000 درﻫﻢ ﻓﻲ ﺣﺴﺎب اﻟﺘﻮﻓﻴﺮ اﻟﺨﺎص ﺑﻚ
+واﺣﺼﻞ ﻋﻠﻰ ﻓﺮﺻﺔ ﻟﺮﺑﺢ ﻣﻠﻴﻮن درﻫﻢ ﻓﻲ
+اﻟﺴﺤﺐ اﻟﺸﻬﺮي، ﺗﻄﺒﻖ اﻟﺸﺮوط واﻷﺣﻜﺎم
+  You could be a millionaire every month.
+Save AED 5,000 on your savings account
+and get a chance to win AED 1,000,000 in
+our monthly draw. T&C apply. 
+28/02/2025 ﻣﻠﺨﺺ اﻟﺤﺴﺎﺑﺎت ﻟﻐﺎﻳﺔ
+Summary of Accounts as on 28/02/2025
+رﻗﻢ اﻟﺤﺴﺎب
+Account Number
+ﺗﻔﺎﺻﻴﻞ اﻟﺤﺴﺎب
+Account Description
+اﻟﻌﻤﻠﺔ
+Currency
+اﻟﺮﺻﻴﺪ
+Balance
+اﻟﺮﺻﻴﺪ ﺑﺎﻟﺪرﻫﻢ
+Balance (AED)
+ 017400288001
+ Savings Account
+ AED
+ 3,520.00
+ 3,520.00
+This statement shall be considered correct unless it
+is contested within 30 days from its date. For any
+enquiries and complaints, you can write to us on
+email (wecare@alhilal.abudhabi) or contact us by
+phone on 600 522 229 (within the UAE), or +971 600
+522 229 (outside the UAE). Our customer service
+team will respond within 1 business day.
+ﻳﻌﺘﺒﺮ ﻫﺬا اﻟﻜﺸﻒ ﺻﺤﻴﺤﺎً ﻣﺎ ﻟﻢ ﻳﺘﻢ اﻻﻋﺘﺮاض
+ ﻋﻠﻴﻪ ﺧﻼل30 ﻳﻮﻣﺎً ﻣﻦ ﺗﺎرﻳﺦ ﺻﺪوره، ﻷي
+اﺳﺘﻔﺴﺎرات أو ﺷﻜﺎوى، ﻳﻤﻜﻦ إرﺳﺎل ﺑﺮﻳﺪ إﻟﻜﺘﺮوﻧﻲ
+) إﻟﻰwecare@alhilal.abudhabi( أو اﻻﺗﺼﺎل ﺑﻨﺎ
+ ﻋﻠﻰ اﻟﺮﻗﻢ229
+ 
+522
+ 
+600 )داﺧﻞ اﻟﺪوﻟﺔ(، أو ﻋﻠﻰ
+229
+ 
+522
+ 
+600
+ 
+971 )ﺧﺎرج اﻟﺪوﻟﺔ(، ﺳﻴﺘﻮاﺻﻞ ﻣﻌﻚ+
+.ﻓﺮﻳﻖ ﺧﺪﻣﺔ اﻟﻤﺘﻌﺎﻣﻠﻴﻦ ﺧﻼل ﻳﻮم ﻋﻤﻞ واﺣﺪ
+ 
+ 
+ .ﻣﺼﺮف اﻟﻬﻼل ش.م.ع. ﻣﺮﺧﺺ وﻣﻨﻈﻢ ﻣﻦ ﻗﺒﻞ اﻟﻤﺼﺮف اﻟﻤﺮﻛﺰي ﻟﺪوﻟﺔ اﻹﻣﺎرات اﻟﻌﺮﺑﻴﺔ اﻟﻤﺘﺤﺪة 
+Al Hilal Bank PJSC is licensed and regulated by the Central Bank of the United Arab Emirates.
+ 
+
+--- Page 2 ---
+ ﺗﻔﺎﺻﻴﻞ اﻟﻤﻌﺎﻣﻼت ﻟﻠﻔﺘﺮة اﻟﻤﻤﺘﺪة ﻣﻦ  إﻟﻰ28/02/2025
+01/02/2025
+Transactions Details for the period from 01/02/2025 to 28/02/2025
+Account Details: Savings Account
+:ﺗﻔﺎﺻﻴﻞ اﻟﺤﺴﺎب
+IBAN: AE67 0530 0000 1740 0288 001
+:رﻗﻢ اﻵﻳﺒﺎن
+Currency: AED
+:اﻟﻌﻤﻠﺔ
+Branch : Al Hilal Digital
+:اﻟﻔﺮع
+اﻟﺘﺎرﻳﺦ
+Date
+اﻟﺘﻔﺎﺻﻴﻞ
+Description
+ﺗﺎرﻳﺦ اﻟﻘﻴﺪ
+Value Date
+ﺧﺼﻢ
+Debit
+إﻳﺪاع
+Credit
+اﻟﺮﺻﻴﺪ
+Balance
+Opening Balance
+3,520.50
+24/02/2025 From: MOHAMMED SAAD MOHAMMED 
+AKRAM Hnb
+24/02/2025
+0.00
+12,000.00 15,520.50
+24/02/2025 Hathim Ameer Ibrahim
+24/02/2025
+12,000.00
+0.00
+3,520.00
+اﻟﻤﺠﻤﻮع
+Total
+12,000.50 12,000.00 3,520.00
+ﻧﻬﺎﻳﺔ اﻟﻜﺸﻒ
+End Of Statement
+.ﻣﺼﺮف اﻟﻬﻼل ش.م.ع. ﻣﺮﺧﺺ وﻣﻨﻈﻢ ﻣﻦ ﻗﺒﻞ اﻟﻤﺼﺮف اﻟﻤﺮﻛﺰي ﻟﺪوﻟﺔ اﻹﻣﺎرات اﻟﻌﺮﺑﻴﺔ اﻟﻤﺘﺤﺪة 
+Al Hilal Bank PJSC is licensed and regulated by the Central Bank of the United Arab Emirates.
+ ﻫﺬا اﻟﻜﺸﻒ اﻟﻜﺘﺮوﻧﻲ وﻻ ﻳﺘﻄﻠﺐ أي ﺗﻮﻗﻴﻊ
+This is a digital statement and does not require a signature

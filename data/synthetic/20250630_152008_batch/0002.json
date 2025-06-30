@@ -1,0 +1,218 @@
+{
+  "account_number": "LKKO14505935974126",
+  "currency": "AED",
+  "period_start": "2025-05-19",
+  "period_end": "2025-06-01",
+  "transactions": [
+    {
+      "date": "2025-05-19",
+      "description": "CHEQUE DEPOSIT",
+      "debit": null,
+      "credit": "572.60",
+      "balance": "65667.49"
+    },
+    {
+      "date": "2025-05-19",
+      "description": "POS DUBAI MALL\nUPI/IPAY795613",
+      "debit": null,
+      "credit": "5546.47",
+      "balance": "39246.61"
+    },
+    {
+      "date": "2025-05-20",
+      "description": "NEFT INB SUPPLIER",
+      "debit": "7282.41",
+      "credit": null,
+      "balance": "60380.68"
+    },
+    {
+      "date": "2025-05-20",
+      "description": "NEFT INB SUPPLIER\nFX CHARGE",
+      "debit": null,
+      "credit": "7424.42",
+      "balance": "46671.03"
+    },
+    {
+      "date": "2025-05-20",
+      "description": "POS DUBAI MALL\nUPI/IPAY146228",
+      "debit": null,
+      "credit": "8293.65",
+      "balance": "63493.96"
+    },
+    {
+      "date": "2025-05-20",
+      "description": "FX CHARGE",
+      "debit": null,
+      "credit": "6910.51",
+      "balance": "75921.72"
+    },
+    {
+      "date": "2025-05-21",
+      "description": "POS DUBAI MALL",
+      "debit": "4814.10",
+      "credit": null,
+      "balance": "63872.19"
+    },
+    {
+      "date": "2025-05-21",
+      "description": "CHEQUE DEPOSIT",
+      "debit": "2177.79",
+      "credit": null,
+      "balance": "65094.89"
+    },
+    {
+      "date": "2025-05-21",
+      "description": "ATM CASH\nNEFT INB SUPPLIER",
+      "debit": "5078.78",
+      "credit": null,
+      "balance": "60588.71"
+    },
+    {
+      "date": "2025-05-21",
+      "description": "ATM CASH",
+      "debit": null,
+      "credit": "5517.25",
+      "balance": "69011.21"
+    },
+    {
+      "date": "2025-05-21",
+      "description": "NEFT INB SUPPLIER",
+      "debit": null,
+      "credit": "3322.52",
+      "balance": "66840.57"
+    },
+    {
+      "date": "2025-05-22",
+      "description": "UTILITY BILL\nNEFT INB SUPPLIER",
+      "debit": "4486.69",
+      "credit": null,
+      "balance": "55893.99"
+    },
+    {
+      "date": "2025-05-22",
+      "description": "UPI/IPAY378517",
+      "debit": null,
+      "credit": "3142.52",
+      "balance": "48254.18"
+    },
+    {
+      "date": "2025-05-22",
+      "description": "SALARY",
+      "debit": null,
+      "credit": "8529.28",
+      "balance": "55200.31"
+    },
+    {
+      "date": "2025-05-22",
+      "description": "NEFT INB SUPPLIER",
+      "debit": "9184.60",
+      "credit": null,
+      "balance": "50642.89"
+    },
+    {
+      "date": "2025-05-22",
+      "description": "ATM CASH\nUPI/IPAY444207",
+      "debit": "1932.10",
+      "credit": null,
+      "balance": "48710.79"
+    },
+    {
+      "date": "2025-05-23",
+      "description": "UTILITY BILL",
+      "debit": "7013.08",
+      "credit": null,
+      "balance": "59827.49"
+    },
+    {
+      "date": "2025-05-24",
+      "description": "CHEQUE DEPOSIT",
+      "debit": "4382.41",
+      "credit": null,
+      "balance": "33700.14"
+    },
+    {
+      "date": "2025-05-24",
+      "description": "CHEQUE DEPOSIT",
+      "debit": "2496.05",
+      "credit": null,
+      "balance": "77724.11"
+    },
+    {
+      "date": "2025-05-25",
+      "description": "UPI/IPAY922157",
+      "debit": "3904.83",
+      "credit": null,
+      "balance": "59967.36"
+    },
+    {
+      "date": "2025-05-25",
+      "description": "UTILITY BILL",
+      "debit": null,
+      "credit": "7305.32",
+      "balance": "67272.68"
+    },
+    {
+      "date": "2025-05-25",
+      "description": "SALARY",
+      "debit": "8902.98",
+      "credit": null,
+      "balance": "51685.73"
+    },
+    {
+      "date": "2025-05-26",
+      "description": "ATM CASH\nATM CASH",
+      "debit": "7518.89",
+      "credit": null,
+      "balance": "40735.29"
+    },
+    {
+      "date": "2025-05-27",
+      "description": "NEFT INB SUPPLIER",
+      "debit": "2652.74",
+      "credit": null,
+      "balance": "38082.55"
+    },
+    {
+      "date": "2025-05-28",
+      "description": "UPI/IPAY692683",
+      "debit": "6574.07",
+      "credit": null,
+      "balance": "45111.66"
+    },
+    {
+      "date": "2025-05-28",
+      "description": "SALARY",
+      "debit": null,
+      "credit": "4298.44",
+      "balance": "80220.16"
+    },
+    {
+      "date": "2025-05-29",
+      "description": "NEFT INB SUPPLIER",
+      "debit": null,
+      "credit": "8360.44",
+      "balance": "68686.29"
+    },
+    {
+      "date": "2025-06-01",
+      "description": "SALARY",
+      "debit": null,
+      "credit": "4431.86",
+      "balance": "60325.85"
+    },
+    {
+      "date": "2025-06-01",
+      "description": "NEFT INB SUPPLIER",
+      "debit": "6206.99",
+      "credit": null,
+      "balance": "71517.12"
+    },
+    {
+      "date": "2025-06-01",
+      "description": "SALARY",
+      "debit": "7999.07",
+      "credit": null,
+      "balance": "63518.05"
+    }
+  ]
+}

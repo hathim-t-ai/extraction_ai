@@ -1,0 +1,6 @@
+date,description,currency,amount,balance
+# NOTE: This is an image-based PDF with no extractable text
+# Manual OCR annotation required for ground truth creation
+# PDF contains 2 pages of bank statement images
+2025-01-15,Example: Card payment - Store Name,-25.5,1234.5
+YYYY-MM-DD format,Enter transaction description,+credit or -debit amount,Account balance after transaction

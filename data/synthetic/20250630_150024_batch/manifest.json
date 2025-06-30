@@ -1,0 +1,27 @@
+{
+  "0001.pdf": {
+    "sha256": "68f72c60a5d8666c54b186f268de5238facdf662dff81107901e3e6c0d89e31f",
+    "json": "0001.json",
+    "csv": "0001.csv"
+  },
+  "0002.pdf": {
+    "sha256": "8c7a50ab67dfbff59586933deee7ad72d7deb60f4b5a0f73bc52837713e0af99",
+    "json": "0002.json",
+    "csv": "0002.csv"
+  },
+  "0003.pdf": {
+    "sha256": "b33574b56b1bd879a8ee0c00cfe07586ff0e3555bd8146eccd03447b954f2393",
+    "json": "0003.json",
+    "csv": "0003.csv"
+  },
+  "0004.pdf": {
+    "sha256": "456ea5c8a70dda0895e26a8fa1022fdab718e73ee32142935e6f1f4569ab82e7",
+    "json": "0004.json",
+    "csv": "0004.csv"
+  },
+  "0005.pdf": {
+    "sha256": "8d37d40f839cb6527ba2ddcdb7390b9df7f5505d7c3aa252ba2f127fea0eaad2",
+    "json": "0005.json",
+    "csv": "0005.csv"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "account_number": "QPSD08857034883291",
+  "currency": "AED",
+  "period_start": "2024-12-27",
+  "period_end": "2025-01-01",
+  "transactions": [
+    {
+      "date": "2024-12-27",
+      "description": "UPI/IPAY822858",
+      "debit": "4085.77",
+      "credit": null,
+      "balance": "94612.20"
+    },
+    {
+      "date": "2024-12-27",
+      "description": "ATM CASH",
+      "debit": "7069.85",
+      "credit": null,
+      "balance": "87542.35"
+    },
+    {
+      "date": "2024-12-27",
+      "description": "UPI/IPAY723948",
+      "debit": "7926.49",
+      "credit": null,
+      "balance": "74720.71"
+    },
+    {
+      "date": "2024-12-28",
+      "description": "POS DUBAI MALL\nCHEQUE DEPOSIT",
+      "debit": null,
+      "credit": "2647.20",
+      "balance": "98697.97"
+    },
+    {
+      "date": "2024-12-29",
+      "description": "UTILITY BILL",
+      "debit": null,
+      "credit": "8577.47",
+      "balance": "104489.34"
+    },
+    {
+      "date": "2024-12-30",
+      "description": "POS DUBAI MALL",
+      "debit": "2248.87",
+      "credit": null,
+      "balance": "82647.20"
+    },
+    {
+      "date": "2024-12-30",
+      "description": "UPI/IPAY833723",
+      "debit": "6887.09",
+      "credit": null,
+      "balance": "67833.62"
+    },
+    {
+      "date": "2024-12-31",
+      "description": "CARD FEE\nFX CHARGE",
+      "debit": null,
+      "credit": "4378.15",
+      "balance": "72211.77"
+    },
+    {
+      "date": "2024-12-31",
+      "description": "SALARY",
+      "debit": "914.18",
+      "credit": null,
+      "balance": "71297.59"
+    },
+    {
+      "date": "2024-12-31",
+      "description": "CARD FEE",
+      "debit": null,
+      "credit": "9160.81",
+      "balance": "86221.29"
+    },
+    {
+      "date": "2025-01-01",
+      "description": "NEFT INB SUPPLIER",
+      "debit": "2646.28",
+      "credit": null,
+      "balance": "84896.07"
+    },
+    {
+      "date": "2025-01-01",
+      "description": "UTILITY BILL",
+      "debit": null,
+      "credit": "5762.89",
+      "balance": "77060.48"
+    },
+    {
+      "date": "2025-01-01",
+      "description": "FX CHARGE",
+      "debit": null,
+      "credit": "9690.58",
+      "balance": "95911.87"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "account_number": "OTHB07677942155652",
+  "currency": "AED",
+  "period_start": "2025-03-22",
+  "period_end": "2025-04-01",
+  "transactions": [
+    {
+      "date": "2025-03-22",
+      "description": "UTILITY BILL",
+      "debit": null,
+      "credit": "1911.37",
+      "balance": "88896.55"
+    },
+    {
+      "date": "2025-03-22",
+      "description": "FX CHARGE\nUTILITY BILL",
+      "debit": "2216.74",
+      "credit": null,
+      "balance": "93586.21"
+    },
+    {
+      "date": "2025-03-23",
+      "description": "NEFT INB SUPPLIER\nUTILITY BILL",
+      "debit": null,
+      "credit": "9508.82",
+      "balance": "104835.85"
+    },
+    {
+      "date": "2025-03-23",
+      "description": "POS DUBAI MALL",
+      "debit": "741.75",
+      "credit": null,
+      "balance": "112769.38"
+    },
+    {
+      "date": "2025-03-24",
+      "description": "ATM CASH",
+      "debit": null,
+      "credit": "9491.31",
+      "balance": "122260.69"
+    },
+    {
+      "date": "2025-03-25",
+      "description": "CHEQUE DEPOSIT\nPOS DUBAI MALL",
+      "debit": "3609.45",
+      "credit": null,
+      "balance": "110992.49"
+    },
+    {
+      "date": "2025-03-26",
+      "description": "ATM CASH",
+      "debit": null,
+      "credit": "9766.09",
+      "balance": "114601.94"
+    },
+    {
+      "date": "2025-03-26",
+      "description": "POS DUBAI MALL",
+      "debit": "546.21",
+      "credit": null,
+      "balance": "110446.28"
+    },
+    {
+      "date": "2025-03-28",
+      "description": "UPI/IPAY717113",
+      "debit": "4427.77",
+      "credit": null,
+      "balance": "123896.49"
+    },
+    {
+      "date": "2025-03-29",
+      "description": "FX CHARGE\nPOS DUBAI MALL",
+      "debit": null,
+      "credit": "6682.22",
+      "balance": "94963.71"
+    },
+    {
+      "date": "2025-03-29",
+      "description": "UPI/IPAY456871\nCHEQUE DEPOSIT",
+      "debit": "7978.53",
+      "credit": null,
+      "balance": "86985.18"
+    },
+    {
+      "date": "2025-03-29",
+      "description": "FX CHARGE",
+      "debit": "2514.79",
+      "credit": null,
+      "balance": "95327.03"
+    },
+    {
+      "date": "2025-03-29",
+      "description": "UTILITY BILL\nATM CASH",
+      "debit": "1844.45",
+      "credit": null,
+      "balance": "113511.13"
+    },
+    {
+      "date": "2025-03-30",
+      "description": "UTILITY BILL",
+      "debit": null,
+      "credit": "6906.40",
+      "balance": "95802.95"
+    },
+    {
+      "date": "2025-03-30",
+      "description": "FX CHARGE",
+      "debit": null,
+      "credit": "4255.61",
+      "balance": "97841.82"
+    },
+    {
+      "date": "2025-03-30",
+      "description": "CHEQUE DEPOSIT",
+      "debit": null,
+      "credit": "6063.57",
+      "balance": "128324.26"
+    },
+    {
+      "date": "2025-04-01",
+      "description": "UTILITY BILL",
+      "debit": null,
+      "credit": "4909.30",
+      "balance": "115355.58"
+    }
+  ]
+}

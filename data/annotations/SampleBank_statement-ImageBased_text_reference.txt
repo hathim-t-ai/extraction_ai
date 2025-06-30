@@ -1,0 +1,12 @@
+Text Reference for Manual Annotation: SampleBank_statement-ImageBased.pdf
+============================================================
+INSTRUCTIONS:
+1. Delete the example rows in the CSV template
+2. Add real transaction data from the PDF below
+3. Format: date (YYYY-MM-DD), description, amount (+/-), balance
+4. Amount: positive for credits, negative for debits
+============================================================
+
+--- Page 1 ---
+
+--- Page 2 ---

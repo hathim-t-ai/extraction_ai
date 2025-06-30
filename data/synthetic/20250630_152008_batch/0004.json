@@ -1,0 +1,106 @@
+{
+  "account_number": "SUSU12049787560231",
+  "currency": "AED",
+  "period_start": "2025-05-11",
+  "period_end": "2025-06-01",
+  "transactions": [
+    {
+      "date": "2025-05-11",
+      "description": "ATM CASH\nSALARY",
+      "debit": null,
+      "credit": "521.80",
+      "balance": "53039.63"
+    },
+    {
+      "date": "2025-05-11",
+      "description": "NEFT INB SUPPLIER",
+      "debit": null,
+      "credit": "1994.41",
+      "balance": "55034.04"
+    },
+    {
+      "date": "2025-05-14",
+      "description": "ATM CASH",
+      "debit": null,
+      "credit": "3016.53",
+      "balance": "52559.26"
+    },
+    {
+      "date": "2025-05-15",
+      "description": "UPI/IPAY328552",
+      "debit": "1144.78",
+      "credit": null,
+      "balance": "53889.26"
+    },
+    {
+      "date": "2025-05-20",
+      "description": "CARD FEE",
+      "debit": "257.76",
+      "credit": null,
+      "balance": "47558.63"
+    },
+    {
+      "date": "2025-05-22",
+      "description": "POS DUBAI MALL",
+      "debit": "6072.87",
+      "credit": null,
+      "balance": "47816.39"
+    },
+    {
+      "date": "2025-05-23",
+      "description": "ATM CASH\nUTILITY BILL",
+      "debit": "9512.09",
+      "credit": null,
+      "balance": "52517.83"
+    },
+    {
+      "date": "2025-05-23",
+      "description": "NEFT INB SUPPLIER",
+      "debit": null,
+      "credit": "1984.10",
+      "balance": "49542.73"
+    },
+    {
+      "date": "2025-05-24",
+      "description": "POS DUBAI MALL",
+      "debit": null,
+      "credit": "6356.22",
+      "balance": "62515.68"
+    },
+    {
+      "date": "2025-05-24",
+      "description": "CHEQUE DEPOSIT\nUTILITY BILL",
+      "debit": "5217.95",
+      "credit": null,
+      "balance": "57297.73"
+    },
+    {
+      "date": "2025-05-25",
+      "description": "FX CHARGE\nFX CHARGE",
+      "debit": "2602.30",
+      "credit": null,
+      "balance": "62029.92"
+    },
+    {
+      "date": "2025-05-25",
+      "description": "NEFT INB SUPPLIER",
+      "debit": "7310.53",
+      "credit": null,
+      "balance": "49987.20"
+    },
+    {
+      "date": "2025-05-27",
+      "description": "ATM CASH",
+      "debit": null,
+      "credit": "127.51",
+      "balance": "56159.46"
+    },
+    {
+      "date": "2025-05-29",
+      "description": "ATM CASH",
+      "debit": null,
+      "credit": "3472.69",
+      "balance": "56031.95"
+    }
+  ]
+}

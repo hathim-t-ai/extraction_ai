@@ -1,0 +1,239 @@
+{
+  "account_number": "FFZA11426831029705",
+  "currency": "AED",
+  "period_start": "2024-12-20",
+  "period_end": "2025-01-01",
+  "transactions": [
+    {
+      "date": "2024-12-20",
+      "description": "UTILITY BILL\nATM CASH",
+      "debit": "5674.00",
+      "credit": null,
+      "balance": "2189.74"
+    },
+    {
+      "date": "2024-12-21",
+      "description": "CHEQUE DEPOSIT\nSALARY",
+      "debit": null,
+      "credit": "318.80",
+      "balance": "10944.34"
+    },
+    {
+      "date": "2024-12-21",
+      "description": "UPI/IPAY103402",
+      "debit": "1582.42",
+      "credit": null,
+      "balance": "-17175.84"
+    },
+    {
+      "date": "2024-12-21",
+      "description": "NEFT INB SUPPLIER",
+      "debit": null,
+      "credit": "8787.34",
+      "balance": "7863.74"
+    },
+    {
+      "date": "2024-12-21",
+      "description": "UPI/IPAY174299",
+      "debit": null,
+      "credit": "8596.49",
+      "balance": "15732.78"
+    },
+    {
+      "date": "2024-12-22",
+      "description": "ATM CASH",
+      "debit": "2095.86",
+      "credit": null,
+      "balance": "-23090.49"
+    },
+    {
+      "date": "2024-12-22",
+      "description": "CARD FEE",
+      "debit": "5614.12",
+      "credit": null,
+      "balance": "-9158.25"
+    },
+    {
+      "date": "2024-12-22",
+      "description": "CHEQUE DEPOSIT",
+      "debit": "8724.46",
+      "credit": null,
+      "balance": "-5276.24"
+    },
+    {
+      "date": "2024-12-23",
+      "description": "FX CHARGE",
+      "debit": null,
+      "credit": "3801.88",
+      "balance": "-20994.63"
+    },
+    {
+      "date": "2024-12-23",
+      "description": "NEFT INB SUPPLIER\nFX CHARGE",
+      "debit": null,
+      "credit": "8050.65",
+      "balance": "-7501.05"
+    },
+    {
+      "date": "2024-12-23",
+      "description": "UPI/IPAY774079",
+      "debit": null,
+      "credit": "3956.92",
+      "balance": "-3544.13"
+    },
+    {
+      "date": "2024-12-23",
+      "description": "CARD FEE\nFX CHARGE",
+      "debit": null,
+      "credit": "8075.16",
+      "balance": "18415.14"
+    },
+    {
+      "date": "2024-12-24",
+      "description": "CHEQUE DEPOSIT",
+      "debit": "1396.24",
+      "credit": null,
+      "balance": "10625.54"
+    },
+    {
+      "date": "2024-12-25",
+      "description": "ATM CASH",
+      "debit": "2153.92",
+      "credit": null,
+      "balance": "-6401.90"
+    },
+    {
+      "date": "2024-12-26",
+      "description": "SALARY\nUTILITY BILL",
+      "debit": "8475.10",
+      "credit": null,
+      "balance": "-14877.00"
+    },
+    {
+      "date": "2024-12-26",
+      "description": "CHEQUE DEPOSIT\nSALARY",
+      "debit": "9961.22",
+      "credit": null,
+      "balance": "-22410.84"
+    },
+    {
+      "date": "2024-12-27",
+      "description": "FX CHARGE\nSALARY",
+      "debit": null,
+      "credit": "4515.41",
+      "balance": "1251.48"
+    },
+    {
+      "date": "2024-12-28",
+      "description": "UTILITY BILL",
+      "debit": "6499.19",
+      "credit": null,
+      "balance": "4445.15"
+    },
+    {
+      "date": "2024-12-28",
+      "description": "FX CHARGE",
+      "debit": "9223.03",
+      "credit": null,
+      "balance": "-24100.03"
+    },
+    {
+      "date": "2024-12-28",
+      "description": "UPI/IPAY211579",
+      "debit": null,
+      "credit": "5077.31",
+      "balance": "-12098.53"
+    },
+    {
+      "date": "2024-12-29",
+      "description": "CARD FEE",
+      "debit": "8693.13",
+      "credit": null,
+      "balance": "-4247.98"
+    },
+    {
+      "date": "2024-12-29",
+      "description": "UPI/IPAY793384\nATM CASH",
+      "debit": "696.48",
+      "credit": null,
+      "balance": "-24796.51"
+    },
+    {
+      "date": "2024-12-29",
+      "description": "CARD FEE\nUPI/IPAY356702",
+      "debit": null,
+      "credit": "5341.86",
+      "balance": "-17748.63"
+    },
+    {
+      "date": "2024-12-29",
+      "description": "ATM CASH",
+      "debit": "2193.99",
+      "credit": null,
+      "balance": "-11352.24"
+    },
+    {
+      "date": "2024-12-29",
+      "description": "SALARY\nNEFT INB SUPPLIER",
+      "debit": null,
+      "credit": "5884.81",
+      "balance": "7136.29"
+    },
+    {
+      "date": "2024-12-30",
+      "description": "SALARY",
+      "debit": null,
+      "credit": "2196.93",
+      "balance": "-15551.70"
+    },
+    {
+      "date": "2024-12-30",
+      "description": "FX CHARGE",
+      "debit": null,
+      "credit": "6817.42",
+      "balance": "-15593.42"
+    },
+    {
+      "date": "2024-12-30",
+      "description": "CHEQUE DEPOSIT",
+      "debit": null,
+      "credit": "1989.91",
+      "balance": "-10108.62"
+    },
+    {
+      "date": "2024-12-30",
+      "description": "UTILITY BILL",
+      "debit": "5392.80",
+      "credit": null,
+      "balance": "10339.98"
+    },
+    {
+      "date": "2025-01-01",
+      "description": "CARD FEE\nATM CASH",
+      "debit": "1097.38",
+      "credit": null,
+      "balance": "-12449.62"
+    },
+    {
+      "date": "2025-01-01",
+      "description": "SALARY",
+      "debit": null,
+      "credit": "9185.02",
+      "balance": "-923.60"
+    },
+    {
+      "date": "2025-01-01",
+      "description": "CHEQUE DEPOSIT",
+      "debit": null,
+      "credit": "1258.48",
+      "balance": "3448.22"
+    },
+    {
+      "date": "2025-01-01",
+      "description": "FX CHARGE",
+      "debit": null,
+      "credit": "2012.31",
+      "balance": "-3263.93"
+    }
+  ]
+}

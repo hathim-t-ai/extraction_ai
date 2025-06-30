@@ -1,0 +1,278 @@
+Text Reference for Manual Annotation: CBD_MARCH 2025.pdf
+============================================================
+INSTRUCTIONS:
+1. Delete the example rows in the CSV template
+2. Add real transaction data from the PDF below
+3. Format: date (YYYY-MM-DD), description, amount (+/-), balance
+4. Amount: positive for credits, negative for debits
+============================================================
+
+--- Page 1 ---
+اﻹﺋﺘﻤﺎن ﺑﻄﺎﻗﺔ - ﺣﺴﺎب ﻛﺸﻒ 
+Statement of Account - Credit Card
+HATHIM 
+AL FATTAN HOUSE BUILDING NO 1 
+DUBAI
+Ref No: 2206780/17
+ 
+ 
+For customers with auto debit instruction, the amount of AED 0.00 will be
+debited from your account on the Payment Due Date.
+ﺗﺎرﯾﺦ ﻓﻲ ﺣﺴﺎﺑﻚ ﻣﻦ درھﻢ 0.00 ﻣﺒﻠﻎ ﺧﺼﻢ ﺳﯿﺘﻢ، اﻟﺘﻠﻘﺎﺋﻲ اﻟﺨﺼﻢ ﺗﻌﻠﯿﻤﺎت ﻟﺪﯾﮭﻢ اﻟﺬﯾﻦ ﻟﻠﻌﻤﻼء
+اﻟﺪﻓﻊ. اﺳﺘﺤﻘﺎق
+اﻟﺒﻄﺎﻗﺔ رﻗﻢ
+Card Number                  445135******4260
+اﻟﺒﻄﺎﻗﺔ ﻧﻮع
+Card Type                        CBD ONE
+Statement Date
+12-03-2025اﻟﺤﺴﺎب ﻛﺸﻒ ﺗﺎرﯾﺦ
+Statement Period
+From: 2025-02-13 
+   To: 2025-03-12اﻟﺤﺴﺎب ﻛﺸﻒ ﻓﺘﺮة
+Payment Due Date
+03-04-2025اﻟﺪﻓﻊ اﺳﺘﺤﻘﺎق ﺗﺎرﯾﺦ
+Minimum Amount Due 
+(to avoid Late Payment Fee)
+102.99اﻟﻤﺴﺘﺤﻖ ﻟﻠﻤﺒﻠﻎ اﻷدﻧﻰ اﻟﺤﺪ 
+(اﻟﺘﺄﺧﯿﺮ رﺳﻮم ﻟﺘﻔﺎدي)
+Total Amount Due* 
+(to avoid Finance Charges)
+2,059.70
+*ﻟﻠﺪﻓﻊ اﻟﻤﺴﺘﺤﻖ اﻟﺮﺻﯿﺪ إﺟﻤﺎﻟﻲ 
+(اﻟﻔﺎﺋﺪة ﻟﺘﻔﺎدي)
+Total Outstanding Balance
+2,059.70اﻟﻤﺴﺘﺤﻖ اﻟﺮﺻﯿﺪ إﺟﻤﺎﻟﻲ
+Total Credit Limit
+30,000.00اﻟﻤﺘﺎح اﻹﺋﺘﻤﺎن ﺣﺪ
+Available Credit Limit
+27,940.30اﻟﻤﺘﻮﻓﺮ اﻹﺋﺘﻤﺎن ﺣﺪ
+Available Cash Limit
+27,000.00اﻟﻤﺘﻮﻓﺮ اﻟﻨﻘﺪي اﻟﺴﺤﺐ ﺣﺪ
+* Finance Charges will be applicable on any Cash Advance /
+Quasi Cash transactions from Transaction Date till payment is
+received in full.
+ﻣﻦ اﻟﻤﻌﺎﻣﻼت ﺷﺒﮫ/اﻟﻨﻘﺪﯾﺔ اﻟﺴﻠﻔﺔ ﻋﻤﻠﯿﺎت ﻣﻦ أي ﻋﻠﻰ اﻟﺘﻤﻮﯾﻞ رﺳﻮم ﺗﻄﺒﯿﻖ ﺳﯿﺘﻢ
+ﺑﺎﻟﻜﺎﻣﻞ اﻟﺪﻓﻌﺔ اﺳﺘﻼم ﺣﺘﻰ اﻟﻤﻌﺎﻣﻠﺔ ﺗﺎرﯾﺦ
+Summary (in AED)
+(اﻹﻣﺎراﺗﻲ ﺑﺎﻟﺪرھﻢ )ﻣﻠﺨﺺ
+اﻻﻓﺘﺘﺎﺣﻲ اﻟﺮﺻﯿﺪ 
+Opening Balance
+(-) أﺧﺮى دﻓﻌﺎت / اﻟﻤﺴﺘﻠﻤﺔ اﻟﺪﻓﻌﺎت 
+(اﻟﺪاﺧﻠﯿﺔ اﻟﺘﻌﺪﯾﻼت اﻟﻰ ﺑﺎﻹﺿﺎﻓﺔ) 
+Payments Received / Other Credits (-) 
+(Including internal adjustments)
+(+) ﺧﺼﻮﻣﺎت / ﻧﻘﺪ / ﺟﺪﯾﺪة ﻣﺸﺘﺮﯾﺎت 
+(اﻟﺪاﺧﻠﯿﺔ اﻟﺘﻌﺪﯾﻼت اﻟﻰ ﺑﺎﻹﺿﺎﻓﺔ) 
+New Purchases / Cash / Debits (+) 
+(Including internal adjustments)
+اﻟﺮﺻﯿﺪ إﺟﻤﺎﻟﻲ 
+Total Outstanding Balance
+912.58
+912.58
+2,059.70
+2,059.70
+اﻟﻤﻌﺎﻣﻠﺔ ﺗﺎرﯾﺦ 
+Transaction Date
+اﻟﻘﯿﺪ ﺗﺎرﯾﺦ 
+Posting Date
+اﻟﻤﻌﺎﻣﻠﺔ ﺗﻔﺎﺻﯿﻞ 
+Transaction Description
+ﺑﺎﻟﺪرھﻢ اﻟﻤﺒﻠﻎ 
+Amount in AED
+445135******4260 -HATHIM
+17-02-2025
+17-02-2025
+VOX REEL NOVO CRITE NOT MET JAN 2025
+104.00      
+27-02-2025
+27-02-2025
+PAYMENT RECEIVED - FTS & SWIFT
+912.58 CR
+27-02-2025
+01-03-2025
+YUKI NO HANA JAPANESE DUBAI AE
+30.00      
+27-02-2025
+01-03-2025
+GLOBAL VILLAGE PARTNER DUBAI AE
+7.00      
+27-02-2025
+01-03-2025
+GLOBAL VILLAGE PARTNER DUBAI AE
+100.00      
+27-02-2025
+01-03-2025
+GLOBAL VILLAGE PARTNER DUBAI AE
+170.00      
+27-02-2025
+01-03-2025
+GLOBAL VILLAGE PARTNER DUBAI AE
+59.00      
+27-02-2025
+01-03-2025
+GLOBAL VILLAGE PARTNER DUBAI AE
+30.00      
+27-02-2025
+01-03-2025
+GLOBAL VILLAGE PARTNER DUBAI AE
+250.00      
+27-02-2025
+01-03-2025
+GLOBAL VILLAGE PARTNER DUBAI AE
+280.00      
+27-02-2025
+01-03-2025
+GLOBAL VILLAGE PARTNER DUBAI AE
+150.00      
+27-02-2025
+01-03-2025
+GLOBAL VILLAGE PARTNER DUBAI AE
+38.00      
+27-02-2025
+01-03-2025
+GLOBAL VILLAGE PARTNER DUBAI AE
+40.00      
+27-02-2025
+01-03-2025
+GLOBAL VILLAGE PARTNER DUBAI AE
+40.00      
+03-03-2025
+04-03-2025
+DEEELINE.CO ABU DHABI AE
+325.00      
+03-03-2025
+05-03-2025
+TRADITIONAL GULF MEN T DUBAI AE
+360.00      
+05-03-2025
+06-03-2025
+WWW.PERPLEXITY.AI WWW.PERPLEXIT CA   [USD 20.00]
+76.70      
+******* END OF STATEMENT*******
+Commercial Bank of Dubai PSC, Dubai, UAE, licensed by the Central Bank of the UAE. Ittihad Street, Port Saeed,
+Deira, Dubai, P.O.Box: 2668, Dubai, UAE. Telephone: 600 575 556 For feedback/complaints, please email us at
+customercare@cbd.ae. Website: www.cbd.ae
+،دﯾﺮة، ﺑﻮرﺳﻌﯿﺪ، اﻻﺗﺤﺎد ﺷﺎرع اﻟﻤﺮﻛﺰي. اﻟﻤﺘﺤﺪة اﻟﻌﺮﺑﯿﺔ اﻹﻣﺎرات ﻣﺼﺮف ﻣﻦ ﻣُﺮﺧَﺺ ﺑﻨﻚ ھﻮ اﻟﻤﺘّﺤﺪة اﻟﻌﺮﺑﯿّﺔ اﻹﻣﺎرات، دﺑﻲ ش.م.ع. اﻟﺘﺠﺎري دﺑﻲ ﺑﻨﻚ
+ | customercare@cbd.ae : ﻋﻠﻰ اﻹﻟﻜﺘﺮوﻧﻲ اﻟﺒﺮﯾﺪ ﻋﺒﺮ ﻣُﺮاﺳﻠﺘﻨﺎ ﯾﺮﺟﻰ، اﻟﺸﻜﺎوى/ ﻟﻠﺘﻌﻠﯿﻘﺎت 600 575 556 : ھﺎﺗﻒ | إ.ع.م.، دﺑﻲ، 2668 : ص.ب.، دﺑﻲ
+www.cbd.ae : اﻹﻟﻜﺘﺮوﻧﻲ اﻟﻤﻮﻗﻊ
+
+--- Page 2 ---
+General Terms and Important Information –You should knowﻣﻌﺮﻓﺘﮭﺎ ﻋﻠﯿﻚ واﺟﺐ - ﻣﮭﻤﺔ وﻣﻌﻠﻮﻣﺎت ﻋﺎﻣﺔ ﺷﺮوط
+‘Statement of Account (SOA)’ means the monthly or periodic statement summarizing all Card
+Transactions effected in the Card Account and mentioning the Total Amount Due to be paid by the Payment
+Due Date to avoid any Fees and Finance Charges. Statement of Account is generated or printed and sent to
+Cardholder’s registered contact details either electronically or in printed form.
+وﯾﺬﻛﺮ اﻟﺒﻄﺎﻗﺔ ﺣﺴﺎب ﻓﻲ ﺗﻤﺖ اﻟﺘﻲ اﻟﺒﻄﺎﻗﺔ ﻣﻌﺎﻣﻼت ﺟﻤﯿﻊ ﯾﻠﺨﺺ اﻟﺬي اﻟﺪوري أو اﻟﺸﮭﺮي اﻟﻜﺸﻒ ﺑﮫ ﯾُﻘﺼﺪ (" SOA  )اﻟﺤﺴﺎب ﻛﺸﻒ"
+اﻟﺤﺴﺎب ﻛﺸﻒ إﺻﺪار وﯾﺘﻢ، ھﺬا ﺗﻤﻮﯾﻞ. وﻣﺼﺎرﯾﻒ رﺳﻮم أي ﻟﺘﺠﻨﺐ اﻟﺪﻓﻊ اﺳﺘﺤﻘﺎق ﺗﺎرﯾﺦ ﺑﺤﻠﻮل دﻓﻌﮫ ﯾﺘﻮﺟﺐ اﻟﺬي اﻟﻤﺴﺘﺤﻖ اﻟﻤﺒﻠﻎ إﺟﻤﺎﻟﻲ
+ﻣﻄﺒﻮﻋﺎ. أو ا ً إﻟﻜﺘﺮوﻧﻲ إﻣﺎ اﻟﺒﻄﺎﻗﺔ ﺑﺤﺎﻣﻞ اﻟﺨﺎﺻﺔ اﻟﻤﺴﺠﻠﺔ اﻻﺗﺼﺎل ﺑﯿﺎﻧﺎت إﻟﻰ اﻟﮫ ً وإرس طﺒﺎﻋﺘﮫ أو
+‘Statement Date’ means the date specified in a Statement of Account on which the Statement of Account
+is generated or printed and issued to the Principal Cardholder
+ﺣﺎﻣﻞ إﻟﻰ وإرﺳﺎﻟﮫ طﺒﺎﻋﺘﮫ أو اﻟﺤﺴﺎب ﻛﺸﻒ إﺻﺪار ﻓﯿﮫ ﯾﺘﻢ اﻟﺬي اﻟﺤﺴﺎب ﻛﺸﻒ ﻓﻲ اﻟﻤﺤﺪد اﻟﺘﺎرﯾﺦ ﺑﮫ ﯾُﻘﺼﺪ "اﻟﺤﺴﺎب ﻛﺸﻒ ﺗﺎرﯾﺦ"
+اﻟﺮﺋﯿﺴﻲ. اﻟﺒﻄﺎﻗﺔ
+‘Statement Period’ means the time period between the dates of issuance of two (2) consecutive
+Statement Dates.ﻣﺘﺘﺎﻟﯿﯿﻦ ﺣﺴﺎب ﻛﺸﻔﻲ ) 2  )إﺻﺪار ﺗﺎرﯾﺨﻲ ﺑﯿﻦ اﻟﻮاﻗﻌﺔ اﻟﺰﻣﻨﯿﺔ اﻟﻔﺘﺮة ﺑﮭﺎ ﯾُﻘﺼﺪ "اﻟﺤﺴﺎب ﻛﺸﻒ ﻓﺘﺮة"
+‘Payment Due Date’ means the date specified in a Statement of Account by which the payment of Total
+Amount Due or at least the Minimum Amount Due is to be received by the Bank and posted to the Card
+Account to keep the Card Account in good standing.
+اﻟﺤﺪ اﻷﻗﻞ ﻋﻠﻰ أو اﻟﻤﺴﺘﺤﻖ اﻟﻤﺒﻠﻎ إﺟﻤﺎﻟﻲ اﺳﺘﻼم ﻓﯿﮫ ﯾﺴﺘﺤﻖ اﻟﺬي اﻟﺤﺴﺎب ﻛﺸﻒ ﻓﻲ اﻟﻤﺤﺪد اﻟﺘﺎرﯾﺦ ﺑﮫ ﯾُﻘﺼﺪ "اﻟﺪﻓﻊ اﺳﺘﺤﻘﺎق ﺗﺎرﯾﺦ"
+ﺟﯿﺪ وﺿﻊ ﻓﻲ اﻟﺒﻄﺎﻗﺔ ﺣﺴﺎب ﻋﻠﻰ ﻟﻠﺤﻔﺎظ اﻟﺒﻄﺎﻗﺔ ﺣﺴﺎب ﻓﻲ وﻗﯿﺪه اﻟﺒﻨﻚ ﻗﺒﻞ ﻣﻦ اﻟﻤﺴﺘﺤﻖ ﻟﻠﻤﺒﻠﻎ اﻷدﻧﻰ
+‘Posting Date’ means the date specified in a Statement of Account when a Card Transaction is received
+by the Bank and posted to the Card Account.اﻟﺒﻄﺎﻗﺔ. ﺣﺴﺎب ﻓﻲ وﻗﯿﺪھﺎ اﻟﺒﻄﺎﻗﺔ ﻟﻤﻌﺎﻣﻠﺔ اﻟﺒﻨﻚ اﺳﺘﻼم ﻋﻨﺪ اﻟﺤﺴﺎب ﻛﺸﻒ ﻓﻲ اﻟﻤﺤﺪد اﻟﺘﺎرﯾﺦ ﺑﮫ ﯾُﻘﺼﺪ "اﻟﻘﯿﺪ ﺗﺎرﯾﺦ"
+‘Minimum Amount Due’ means the minimum amount the Cardholder needs to pay by the Payment Due
+Date to avoid any Late Payment Fee being levied on the Card Account. The Minimum Amount Due includes
+five percent (5%) of the Total Amount Due (excluding installment plans), installment amount billed in the
+current month, overlimit amount and past due amounts which are overdue.
+ﻓﺮض ﻟﺘﺠﻨﺐ اﻟﺪﻓﻊ اﺳﺘﺤﻘﺎق ﺗﺎرﯾﺦ ﺑﺤﻠﻮل دﻓﻌﮫ إﻟﻰ اﻟﺒﻄﺎﻗﺔ ﺣﺎﻣﻞ ﯾﺤﺘﺎج اﻟﺬي ﻟﻠﻤﺒﻠﻎ اﻷدﻧﻰ اﻟﺤﺪ ﺑﮫ ﯾُﻘﺼﺪ "اﻟﻤﺴﺘﺤﻖ ﻟﻠﻤﺒﻠﻎ اﻷدﻧﻰ اﻟﺤﺪ"
+ﺑﺎﺳﺘﺜﻨﺎء )اﻟﻤﺴﺘﺤﻖ اﻟﻤﺒﻠﻎ إﺟﻤﺎﻟﻲ ﻣﻦ ) 5٪  )ﺑﺎﻟﻤﺎﺋﺔ ﺧﻤﺴﺔ اﻟﻤﺴﺘﺤﻖ ﻟﻠﻤﺒﻠﻎ اﻷدﻧﻰ اﻟﺤﺪ وﯾﺘﻀﻤﻦ اﻟﺒﻄﺎﻗﺔ. ﺣﺴﺎب ﻓﻲ اﻟﺪﻓﻊ ﻟﺘﺄﺧﺮ رﺳﻮم أي
+اﺳﺘﺤﻘﺎﻗﮭﺎ. ﻣﻮﻋﺪ ﻓﺎت اﻟﺘﻲ اﻟﺴﺎﺑﻘﺔ اﻟﻤﺴﺘﺤﻘﺔ واﻟﻤﺒﺎﻟﻎ، اﻟﺒﻄﺎﻗﺔ ﺣﺪ ﻋﻦ اﻟﺰاﺋﺪ واﻟﻤﺒﻠﻎ، اﻟﺤﺎﻟﻲ اﻟﺸﮭﺮ ﻓﻲ اﻟﻤﻔﻮﺗﺮ اﻟﻘﺴﻂ وﻣﺒﻠﻎ(، اﻟﺘﻘﺴﯿﻂ ﺧﻄﻂ
+‘Total Amount Due’ means the total amount to be paid by the Cardholder to the Bank by the Payment
+Due Date to avoid any Fee(s) and/or Finance Charge being levied on the Card Account. Total Amount Due
+is comprised of any Previous Balance and New Balance.
+أي ﻓﺮض ﻟﺘﺠﻨﺐ اﻟﺪﻓﻊ اﺳﺘﺤﻘﺎق ﺗﺎرﯾﺦ ﺑﺤﻠﻮل ﻟﻠﺒﻨﻚ دﻓﻌﮫ اﻟﺒﻄﺎﻗﺔ ﺣﺎﻣﻞ ﻋﻠﻰ ﯾﺘﻌﯿﻦ اﻟﺬي اﻟﻤﺒﻠﻎ إﺟﻤﺎﻟﻲ ﺑﮫ ﯾُﻘﺼﺪ" اﻟﻤﺴﺘﺤﻖ اﻟﻤﺒﻠﻎ إﺟﻤﺎﻟﻲ"
+ﺟﺪﯾﺪ ورﺻﯿﺪ ﺳﺎﺑﻖ رﺻﯿﺪ أي ﻣﻦ اﻟﻤﺴﺘﺤﻖ اﻟﻤﺒﻠﻎ إﺟﻤﺎﻟﻲ وﯾﺘﻜﻮن، ھﺬا اﻟﺒﻄﺎﻗﺔ. ﺣﺴﺎب ﻋﻠﻰ ﺗﻤﻮﯾﻞ ﻣﺼﺎرﯾﻒ أو/و( رﺳﻮم )رﺳﻮم
+‘Total Outstanding Balance’ means that total outstanding amount which is due for payment on the Card
+Account as of the current date and shall include Total Amount Due as of the last generated Statement of
+Account, remaining installments of all active installment plans and Card Transactions which are posted in
+the Card Account after the generation of the last Statement of Account.
+،اﻟﺤﺎﻟﻲ اﻟﺘﺎرﯾﺦ ﻣﻦ ا ً اﻋﺘﺒﺎر اﻟﺒﻄﺎﻗﺔ ﺣﺴﺎب ً ﻓﻲ اﻟﻤﺴﺪد ﻏﯿﺮ اﻟﻤﺴﺘﺤﻖ اﻟﻤﺒﻠﻎ إﺟﻤﺎﻟﻲ ﺑﮫ ﯾُﻘﺼﺪ "اﻟﻤﺴﺪد ﻏﯿﺮ اﻟﻤﺴﺘﺤﻖ اﻟﺮﺻﯿﺪ إﺟﻤﺎﻟﻲ"
+وﻣﻌﺎﻣﻼت اﻟﻨﺸﻄﺔ اﻟﺘﻘﺴﯿﻂ ﺧﻄﻂ ﻟﺠﻤﯿﻊ اﻟﻤﺘﺒﻘﯿﺔ واﻷﻗﺴﺎط، إﺻﺪاره ﺗﻢ ﺣﺴﺎب ﻛﺸﻒ آﺧﺮ ﻣﻦ اﻋﺘﺒﺎرا اﻟﻤﺴﺘﺤﻖ اﻟﻤﺒﻠﻎ إﺟﻤﺎﻟﻲ ﯾﺸﻤﻞ أن وﯾﺠﺐ
+ﺣﺴﺎب ﻛﺸﻒ آﺧﺮ إﺻﺪار ﺑﻌﺪ اﻟﺒﻄﺎﻗﺔ ﺣﺴﺎب ﻓﻲ ﻗﯿﺪھﺎ ﯾﺘﻢ اﻟﺘﻲ اﻟﺒﻄﺎﻗﺔ
+‘Transaction Date’ means the date specified in a Statement of Account on which a Card Transaction
+took place.اﻟﺒﻄﺎﻗﺔ. ﻣﻌﺎﻣﻠﺔ ﻓﯿﮫ ﺗﻤﺖ اﻟﺬي اﻟﺤﺴﺎب ﻛﺸﻒ ﻓﻲ اﻟﻤﺤﺪد اﻟﺘﺎرﯾﺦ ﺑﮫ ﯾُﻘﺼﺪ "اﻟﻤﻌﺎﻣﻠﺔ ﺗﺎرﯾﺦ"
+Grace Period (Interest Free Period)
+All Retail Purchase transactions are free of Finance Charges from the Transaction Date of each
+transaction until the Statement Date and subsequently to the Payment Due Date.
+Grace Period shall be applicable to Cardholders who pay the Total Amount Due in full by the Payment
+Due Date.
+(ﻓﻮاﺋﺪ ﺑﺪون ﻓﺘﺮة )اﻟﺴﻤﺎح ﻓﺘﺮة
+اﻟﺤﺴﺎب ﻛﺸﻒ ﺗﺎرﯾﺦ وﺣﺘﻰ ﻣﻌﺎﻣﻠﺔ ﻛﻞ ﺗﺎرﯾﺦ ﻣﻦ اﻋﺘﺒﺎرا اﻟﺘﻤﻮﯾﻞ ﻣﺼﺎرﯾﻒ ﻣﻦ ﺧﺎﻟﯿﺔ ﺑﺎﻟﺘﺠﺰﺋﺔ اﻟﺸﺮاء ﻣﻌﺎﻣﻼت ﺟﻤﯿﻊ ﺗﻜﻮن
+اﻟﺪﻓﻊ. اﺳﺘﺤﻘﺎق ﺗﺎرﯾﺦ ﺣﺘﻰ ذﻟﻚ وﺑﻌﺪ
+اﻟﺪﻓﻊ. اﺳﺘﺤﻘﺎق ﺗﺎرﯾﺦ ﺑﺤﻠﻮل ﺑﺎﻟﻜﺎﻣﻞ اﻟﻤﺴﺘﺤﻖ اﻟﻤﺒﻠﻎ إﺟﻤﺎﻟﻲ ﯾﺪﻓﻌﻮن اﻟﺬﯾﻦ اﻟﺒﻄﺎﻗﺎت ﺣﺎﻣﻠﻲ ﻋﻠﻰ اﻟﺴﻤﺎح ﻓﺘﺮة ﺗﺴﺮي
+Finance Charges:
+In event of no payment or payment received is less than the Total Amount Due by the Payment Due
+Date, interest will be charged on the daily closing balance from the date of each transaction and will
+reflect in the next statement. For such Card Account the Grace Period on all new Retail Purchase
+transactions will not be applicable until the Total Amount Due as mentioned in the SOA is paid in full by
+the Payment Due Date.
+Finance Charges are applicable on all Cash Advance transactions from the Transaction Date till the
+payment is received in full. Grace Period is not applicable for Cash Advance transactions
+Monthly rate of interest on Retail Purchase: 3.85%
+Monthly rate of interest on Cash Advance: 3.85%
+:اﻟﺘﻤﻮﯾﻞ ﻣﺼﺎرﯾﻒ
+ﻋﻠﻰ اﻟﻔﺎﺋﺪة ﺗﻔﺮض، اﻟﺪﻓﻊ اﺳﺘﺤﻘﺎق ﺗﺎرﯾﺦ ﺑﺤﻠﻮل اﻟﻤﺴﺘﺤﻖ اﻟﻤﺒﻠﻎ إﺟﻤﺎﻟﻲ ﻋﻦ ﺗﻘﻞ دﻓﻌﺔ اﺳﺘﻼم أو دﻓﻌﺔ أي اﺳﺘﻼم ﻋﺪم ﺣﺎﻟﺔ ي
+ﻟﻦ، ھﺬا اﻟﺒﻄﺎﻗﺔ ﻟﺤﺴﺎب وﺑﺎﻟﻨﺴﺒﺔ اﻟﺘﺎﻟﻲ. اﻟﺤﺴﺎب ﻛﺸﻒ ﻓﻲ وﺗﻈﮭﺮ ﻣﻌﺎﻣﻠﺔ ﻛﻞ ﺗﺎرﯾﺦ ﻣﻦ اﻋﺘﺒﺎرا اﻟﯿﻮﻣﻲ اﻟﺨﺘﺎﻣﻲ اﻟﺮﺻﯿﺪ
+ﻓﻲ اﻟﻤﺬﻛﻮر ﺑﺎﻟﻜﺎﻣﻞ اﻟﻤﺴﺘﺤﻖ اﻟﻤﺒﻠﻎ إﺟﻤﺎﻟﻲ دﻓﻊ ﯾﺘﻢ ﺣﺘﻰ اﻟﺠﺪﯾﺪة ﺑﺎﻟﺘﺠﺰﺋﺔ اﻟﺸﺮاء ﻣﻌﺎﻣﻼت ﺟﻤﯿﻊ ﻋﻠﻰ اﻟﺴﻤﺎح ﻓﺘﺮة ﺗﺴﺮي
+اﻟﺪﻓﻊ. اﺳﺘﺤﻘﺎق ﺗﺎرﯾﺦ ﺑﺤﻠﻮل اﻟﺤﺴﺎب ﻛﺸﻒ
+وﻻ، ھﺬا ﺑﺎﻟﻜﺎﻣﻞ. اﻟﺪﻓﻌﺔ اﺳﺘﻼم وﺣﺘﻰ اﻟﻤﻌﺎﻣﻠﺔ ﺗﺎرﯾﺦ ﻣﻦ اﻋﺘﺒﺎرا اﻟﻨﻘﺪﯾﺔ اﻟﺴﻠﻔﺔ ﻣﻌﺎﻣﻼت ﺟﻤﯿﻊ ﻋﻠﻰ اﻟﺘﻤﻮﯾﻞ ﻣﺼﺎرﯾﻒ ﺗﻄﺒﻖ
+اﻟﻨﻘﺪﯾﺔ. اﻟﺴﻠﻔﺔ ﻣﻌﺎﻣﻼت ﻋﻠﻰ اﻟﺴﻤﺎح ﻓﺘﺮة ﺗﺴﺮي
+%3.85 : ﺑﺎﻟﺘﺠﺰﺋﺔ اﻟﺸﺮاء ﻣﻌﺎﻣﻼت ﻋﻠﻰ اﻟﺸﮭﺮي اﻟﻔﺎﺋﺪة ﻣﻌﺪل
+%3.85 : اﻟﻨﻘﺪﯾﺔ اﻟﺴﻠﻔﺔ ﻋﻠﻰ اﻟﺸﮭﺮي اﻟﻔﺎﺋﺪة ﻣﻌﺪل
+Payment Flexibility
+You have the flexibility to choose to pay the Minimum Amount Due as mentioned in this SOA by the
+Payment Due Date.
+اﻟﺪﻓﻊ ﻣﺮوﻧﺔ
+اﻟﺪﻓﻊ. اﺳﺘﺤﻘﺎق ﺗﺎرﯾﺦ ﺑﺤﻠﻮل اﻟﺤﺴﺎب ﻛﺸﻒ ﻓﻲ اﻟﻤﺬﻛﻮر اﻟﻤﺴﺘﺤﻖ ﻟﻠﻤﺒﻠﻎ اﻷدﻧﻰ اﻟﺤﺪ دﻓﻊ ﻻﺧﺘﯿﺎر اﻟﻤﺮوﻧﺔ دﯾﻚ
+WARNING:
+By choosing to pay only the Minimum Amount Due, Finance Charges will be charged monthly at the
+rate mentioned in this SOA on the unpaid balances as of Statement Date.
+To find out the number of months it will take to settle your Total Outstanding Balance & the Total
+Interest levied when you pay only the Minimum Amount Due, visit www.cbd.ae/cc-calculator
+Please note, you will pay more in interest charges and it will take you a longer period to pay the Total
+Outstanding Balance on your Credit Card.
+:ﺗﺤﺬﯾﺮ
+ﻋﻠﻰ اﻟﺤﺴﺎب ﻛﺸﻒ ﻓﻲ اﻟﻤﺬﻛﻮر ﺑﺎﻟﻤﻌﺪل ﺷﮭﺮﯾًﺎ ﺗﻤﻮﯾﻞ ﻣﺼﺎرﯾﻒ ﺗُﻔﺮض، اﻟﻤﺴﺘﺤﻖ اﻟﻤﺒﻠﻎ ﻣﻦ ﻓﻘﻂ اﻷدﻧﻰ اﻟﺤﺪ دﻓﻊ ﺑﺎﺧﺘﯿﺎر
+اﻟﺤﺴﺎب. ﻛﺸﻒ ﺗﺎرﯾﺦ ﻣﻦ اﻋﺘﺒﺎرًا اﻟﻤﺪﻓﻮﻋﺔ ﻏﯿﺮ اﻷرﺻﺪة
+اﻟﺤﺪ ﻓﻘﻂ ﺗﺪﻓﻊ ﻋﻨﺪﻣﺎ اﻟﻤﻔﺮوﺿﺔ اﻟﻔﺎﺋﺪة وإﺟﻤﺎﻟﻲ اﻟﻤﺴﺪد ﻏﯿﺮ رﺻﯿﺪك إﺟﻤﺎﻟﻲ ﻟﺘﺴﻮﯾﺔ ﺳﺘﺴﺘﻐﺮﻗﮭﺎ اﻟﺘﻲ اﻷﺷﮭﺮ ﻋﺪد ﻣﻌﺮﻓﺔ
+www.cbd.ae/cc-calculator زﯾﺎرة ﯾﺮﺟﻰ، اﻟﻤﺴﺘﺤﻖ اﻟﻤﺒﻠﻎ ﻣﻦ اﻷدﻧﻰ
+ﺑﻄﺎﻗﺘﻚ ﻋﻠﻰ اﻟﻤﺴﺪد ﻏﯿﺮ اﻟﺮﺻﯿﺪ إﺟﻤﺎﻟﻲ ﻟﺪﻓﻊ أطﻮل وﻗﺘﺎً اﻷﻣﺮ وﺳﯿﺴﺘﻐﺮق اﻟﻔﺎﺋﺪة رﺳﻮم ﻣﻦ اﻟﻤﺰﯾﺪ ﺳﺘﺪﻓﻊ أﻧﻚ اﻟﻌﻠﻢ ﯾﺮﺟﻰ
+اﻻﺋﺘﻤﺎﻧﯿﺔ.
+Payment Allocation
+All payments received in the Card Account shall be applied as per the order of priority mentioned in our
+General Credit Card Terms and Conditions available at www.cbd.ae
+اﻟﺪﻓﻊ ﺗﺨﺼﯿﺺ
+اﻻﺋﺘﻤﺎن ﻟﺒﻄﺎﻗﺎت اﻟﻌﺎﻣﺔ واﻷﺣﻜﺎم اﻟﺸﺮوط ﻓﻲ اﻟﻤﺬﻛﻮر اﻷوﻟﻮﯾﺔ ﺗﺮﺗﯿﺐ ﺣﺴﺐ اﻟﺒﻄﺎﻗﺔ ﺣﺴﺎب ﻓﻲ اﻟﻤﻮدﻋﺔ اﻟﺪﻓﻌﺎت ﺟﻤﯿﻊ ﺗﻄﺒﯿﻖ ﺳﯿﺘﻢ
+www.cbd.ae ﻋﻠﻰ اﻟﻤﻌﺮوﺿﺔ
+Foreign Exchange Rate
+The currency conversion rate for transactions performed in currencies other than AED, (i.e. transactions
+performed outside the geography of UAE or online/e-commerce transactions executed in UAE but
+processed in foreign currency) are determined by Visa and Mastercard as applicable on the date of
+transaction. The Bank has no influence on the exchange rate applied for conversion to AED.
+اﻷﺟﻨﺒﯿﺔ اﻟﻌﻤﻼت ﺻﺮف ﺳﻌﺮ
+دوﻟﺔ ﺟﻐﺮاﻓﯿﺔ ﺧﺎرج ﺗﺘﻢ اﻟﺘﻲ اﻟﻤﻌﺎﻣﻼت أي )اﻹﻣﺎراﺗﻲ اﻟﺪرھﻢ ﻋﻤﻠﺔ ﻏﯿﺮ أﺧﺮى ﺑﻌﻤﻼت ﺗﺘﻢ اﻟﺘﻲ ﻟﻠﻤﻌﺎﻣﻼت اﻟﻌﻤﻼت ﺗﺤﻮﯾﻞ ﺳﻌﺮ ﺗﺤﺪﯾﺪ ﯾﺘﻢ
+وﻟﻜﻦ اﻟﻤﺘﺤﺪة اﻟﻌﺮﺑﯿﺔ اﻹﻣﺎرات دوﻟﺔ داﺧﻞ اﻟﻤﻨﻔﺬة اﻹﻟﻜﺘﺮوﻧﯿﺔ اﻟﺘﺠﺎرﯾﮫ اﻟﻤﻌﺎﻣﻼت / اﻹﻧﺘﺮﻧﺖ ﻋﺒﺮ اﻟﻤﻌﺎﻣﻼت أو اﻟﻤﺘﺤﺪة اﻟﻌﺮﺑﯿﺔ اﻹﻣﺎرات
+اﻟﺼﺮف ﺳﻌﺮ ﻋﻠﻰ ﺗﺄﺛﯿﺮ أي ﻟﻠﺒﻨﻚ ﻟﯿﺲ اﻟﻤﻌﺎﻣﻠﺔ. ﺗﺎرﯾﺦ ﻓﻲ اﻻﻗﺘﻀﺎء ﺣﺴﺐ، ﻛﺎرد وﻣﺎﺳﺘﺮ ﻓﯿﺰا ﺑﻮاﺳﻄﺔ( اﻷﺟﻨﺒﯿﺔ ﺑﺎﻟﻌﻤﻠﺔ ﻣﻌﺎﻟﺠﺘﮭﺎ ﺗﺘﻢ
+اﻹﻣﺎراﺗﻲ. اﻟﺪرھﻢ ﻋﻤﻠﺔ إﻟﻰ ﻟﻠﺘﺤﻮﯾﻞ ﺑﮫ اﻟﻤﻌﻤﻮل
+Customer Service
+For any inquiries, complaints or any disputes on the transactions mentioned in this SOA should be reported
+to the Bank within 14 days from the Statement Date by contacting our customer service support:
+ 600 575 556 [09:00 am to 05:00 pm]  
+ customercare@cbd.ae
+اﻟﻌﻤﻼء ﺧﺪﻣﺔ
+ﺗﺎرﯾﺦ ﻣﻦ ﯾﻮﻣًﺎ 14 ﻏﻀﻮن ﻓﻲ ھﺬا اﻟﺤﺴﺎب ﻛﺸﻒ ﻓﻲ اﻟﻤﺬﻛﻮرة اﻟﻤﻌﺎﻣﻼت ﺣﻮل ﻧﺰاع أي أو ﺷﻜﺎوى أو اﺳﺘﻔﺴﺎرات أي ﺑﺸﺄن اﻟﺒﻨﻚ إﺑﻼغ ﺟﺐ
+: ﻟﺪﯾﻨﺎ اﻟﻌﻤﻼء ﺧﺪﻣﺔ ﺑﺪﻋﻢ اﻻﺗﺼﺎل طﺮﯾﻖ ﻋﻦ اﻟﺤﺴﺎب ﻛﺸﻒ
+Commercial Bank of Dubai PSC, Dubai, UAE, licensed by the Central Bank of the UAE. Ittihad Street, Port Saeed,
+Deira, Dubai, P.O.Box: 2668, Dubai, UAE. Telephone: 600 575 556 For feedback/complaints, please email us at
+customercare@cbd.ae. Website: www.cbd.ae
+،دﯾﺮة، ﺑﻮرﺳﻌﯿﺪ، اﻻﺗﺤﺎد ﺷﺎرع اﻟﻤﺮﻛﺰي. اﻟﻤﺘﺤﺪة اﻟﻌﺮﺑﯿﺔ اﻹﻣﺎرات ﻣﺼﺮف ﻣﻦ ﻣُﺮﺧَﺺ ﺑﻨﻚ ھﻮ اﻟﻤﺘّﺤﺪة اﻟﻌﺮﺑﯿّﺔ اﻹﻣﺎرات، دﺑﻲ ش.م.ع. اﻟﺘﺠﺎري دﺑﻲ ﺑﻨﻚ
+ | customercare@cbd.ae : ﻋﻠﻰ اﻹﻟﻜﺘﺮوﻧﻲ اﻟﺒﺮﯾﺪ ﻋﺒﺮ ﻣُﺮاﺳﻠﺘﻨﺎ ﯾﺮﺟﻰ، اﻟﺸﻜﺎوى/ ﻟﻠﺘﻌﻠﯿﻘﺎت 600 575 556 : ھﺎﺗﻒ | إ.ع.م.، دﺑﻲ، 2668 : ص.ب.، دﺑﻲ
+www.cbd.ae : اﻹﻟﻜﺘﺮوﻧﻲ اﻟﻤﻮﻗﻊ

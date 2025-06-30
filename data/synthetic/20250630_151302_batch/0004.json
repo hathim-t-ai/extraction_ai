@@ -1,0 +1,148 @@
+{
+  "account_number": "FTNV88534033860671",
+  "currency": "AED",
+  "period_start": "2025-03-10",
+  "period_end": "2025-04-01",
+  "transactions": [
+    {
+      "date": "2025-03-10",
+      "description": "UTILITY BILL",
+      "debit": null,
+      "credit": "1911.37",
+      "balance": "35745.60"
+    },
+    {
+      "date": "2025-03-10",
+      "description": "FX CHARGE\nUTILITY BILL",
+      "debit": "2216.74",
+      "credit": null,
+      "balance": "40435.26"
+    },
+    {
+      "date": "2025-03-12",
+      "description": "CARD FEE",
+      "debit": "4508.57",
+      "credit": null,
+      "balance": "51147.23"
+    },
+    {
+      "date": "2025-03-13",
+      "description": "ATM CASH",
+      "debit": null,
+      "credit": "3016.53",
+      "balance": "58227.86"
+    },
+    {
+      "date": "2025-03-15",
+      "description": "CARD FEE",
+      "debit": null,
+      "credit": "1081.88",
+      "balance": "53227.23"
+    },
+    {
+      "date": "2025-03-16",
+      "description": "ATM CASH\nNEFT INB SUPPLIER",
+      "debit": null,
+      "credit": "6213.74",
+      "balance": "44476.14"
+    },
+    {
+      "date": "2025-03-17",
+      "description": "SALARY\nNEFT INB SUPPLIER",
+      "debit": null,
+      "credit": "7812.55",
+      "balance": "38262.40"
+    },
+    {
+      "date": "2025-03-18",
+      "description": "FX CHARGE",
+      "debit": null,
+      "credit": "4703.60",
+      "balance": "30449.85"
+    },
+    {
+      "date": "2025-03-18",
+      "description": "CHEQUE DEPOSIT",
+      "debit": "8803.32",
+      "credit": null,
+      "balance": "33834.23"
+    },
+    {
+      "date": "2025-03-20",
+      "description": "CARD FEE",
+      "debit": null,
+      "credit": "3791.88",
+      "balance": "25746.25"
+    },
+    {
+      "date": "2025-03-20",
+      "description": "FX CHARGE",
+      "debit": "8509.68",
+      "credit": null,
+      "balance": "42637.55"
+    },
+    {
+      "date": "2025-03-22",
+      "description": "NEFT INB SUPPLIER",
+      "debit": null,
+      "credit": "1984.10",
+      "balance": "55211.33"
+    },
+    {
+      "date": "2025-03-23",
+      "description": "POS DUBAI MALL",
+      "debit": null,
+      "credit": "6356.22",
+      "balance": "68184.28"
+    },
+    {
+      "date": "2025-03-23",
+      "description": "CHEQUE DEPOSIT\nUTILITY BILL",
+      "debit": "5217.95",
+      "credit": null,
+      "balance": "62966.33"
+    },
+    {
+      "date": "2025-03-24",
+      "description": "ATM CASH",
+      "debit": null,
+      "credit": "7669.21",
+      "balance": "52145.35"
+    },
+    {
+      "date": "2025-03-24",
+      "description": "NEFT INB SUPPLIER",
+      "debit": "7310.53",
+      "credit": null,
+      "balance": "55655.80"
+    },
+    {
+      "date": "2025-03-26",
+      "description": "ATM CASH",
+      "debit": null,
+      "credit": "127.51",
+      "balance": "61828.06"
+    },
+    {
+      "date": "2025-03-27",
+      "description": "UTILITY BILL",
+      "debit": null,
+      "credit": "6906.40",
+      "balance": "42652.00"
+    },
+    {
+      "date": "2025-03-27",
+      "description": "FX CHARGE",
+      "debit": null,
+      "credit": "4255.61",
+      "balance": "44690.87"
+    },
+    {
+      "date": "2025-03-28",
+      "description": "ATM CASH",
+      "debit": null,
+      "credit": "3472.69",
+      "balance": "61700.55"
+    }
+  ]
+}

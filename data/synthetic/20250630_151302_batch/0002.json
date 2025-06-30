@@ -1,0 +1,267 @@
+{
+  "account_number": "EQKJ08254825598805",
+  "currency": "AED",
+  "period_start": "2025-02-13",
+  "period_end": "2025-03-04",
+  "transactions": [
+    {
+      "date": "2025-02-13",
+      "description": "POS DUBAI MALL\nUPI/IPAY795613",
+      "debit": null,
+      "credit": "5546.47",
+      "balance": "-2487.76"
+    },
+    {
+      "date": "2025-02-13",
+      "description": "NEFT INB SUPPLIER",
+      "debit": null,
+      "credit": "8065.30",
+      "balance": "29633.46"
+    },
+    {
+      "date": "2025-02-14",
+      "description": "FX CHARGE\nATM CASH",
+      "debit": null,
+      "credit": "9841.67",
+      "balance": "51540.80"
+    },
+    {
+      "date": "2025-02-14",
+      "description": "CHEQUE DEPOSIT",
+      "debit": null,
+      "credit": "572.60",
+      "balance": "23933.12"
+    },
+    {
+      "date": "2025-02-14",
+      "description": "CARD FEE",
+      "debit": "4346.20",
+      "credit": null,
+      "balance": "20410.82"
+    },
+    {
+      "date": "2025-02-15",
+      "description": "POS DUBAI MALL\nUPI/IPAY146228",
+      "debit": null,
+      "credit": "8293.65",
+      "balance": "21759.59"
+    },
+    {
+      "date": "2025-02-15",
+      "description": "FX CHARGE",
+      "debit": null,
+      "credit": "6910.51",
+      "balance": "34187.35"
+    },
+    {
+      "date": "2025-02-16",
+      "description": "ATM CASH\nNEFT INB SUPPLIER",
+      "debit": "9992.83",
+      "credit": null,
+      "balance": "26951.92"
+    },
+    {
+      "date": "2025-02-16",
+      "description": "NEFT INB SUPPLIER\nFX CHARGE",
+      "debit": null,
+      "credit": "7424.42",
+      "balance": "4936.66"
+    },
+    {
+      "date": "2025-02-16",
+      "description": "UPI/IPAY708792",
+      "debit": null,
+      "credit": "2612.89",
+      "balance": "24757.02"
+    },
+    {
+      "date": "2025-02-17",
+      "description": "CHEQUE DEPOSIT",
+      "debit": "2177.79",
+      "credit": null,
+      "balance": "23360.52"
+    },
+    {
+      "date": "2025-02-18",
+      "description": "POS DUBAI MALL",
+      "debit": "4814.10",
+      "credit": null,
+      "balance": "22137.82"
+    },
+    {
+      "date": "2025-02-18",
+      "description": "ATM CASH\nNEFT INB SUPPLIER",
+      "debit": "5078.78",
+      "credit": null,
+      "balance": "18854.34"
+    },
+    {
+      "date": "2025-02-18",
+      "description": "ATM CASH",
+      "debit": null,
+      "credit": "5517.25",
+      "balance": "27276.84"
+    },
+    {
+      "date": "2025-02-19",
+      "description": "UPI/IPAY378517",
+      "debit": null,
+      "credit": "3142.52",
+      "balance": "6519.81"
+    },
+    {
+      "date": "2025-02-19",
+      "description": "SALARY",
+      "debit": null,
+      "credit": "8529.28",
+      "balance": "13465.94"
+    },
+    {
+      "date": "2025-02-20",
+      "description": "UPI/IPAY246991",
+      "debit": "5363.32",
+      "credit": null,
+      "balance": "46177.48"
+    },
+    {
+      "date": "2025-02-20",
+      "description": "SALARY",
+      "debit": "7873.96",
+      "credit": null,
+      "balance": "28244.90"
+    },
+    {
+      "date": "2025-02-20",
+      "description": "ATM CASH\nUPI/IPAY444207",
+      "debit": "1932.10",
+      "credit": null,
+      "balance": "18146.75"
+    },
+    {
+      "date": "2025-02-22",
+      "description": "UPI/IPAY442027",
+      "debit": null,
+      "credit": "6669.26",
+      "balance": "26813.92"
+    },
+    {
+      "date": "2025-02-24",
+      "description": "CHEQUE DEPOSIT",
+      "debit": "4382.41",
+      "credit": null,
+      "balance": "-8034.23"
+    },
+    {
+      "date": "2025-02-24",
+      "description": "CHEQUE DEPOSIT",
+      "debit": "2496.05",
+      "credit": null,
+      "balance": "35989.74"
+    },
+    {
+      "date": "2025-02-24",
+      "description": "SALARY",
+      "debit": null,
+      "credit": "3997.38",
+      "balance": "22144.13"
+    },
+    {
+      "date": "2025-02-24",
+      "description": "ATM CASH",
+      "debit": "9488.80",
+      "credit": null,
+      "balance": "20144.66"
+    },
+    {
+      "date": "2025-02-25",
+      "description": "UPI/IPAY922157",
+      "debit": "3904.83",
+      "credit": null,
+      "balance": "18232.99"
+    },
+    {
+      "date": "2025-02-25",
+      "description": "SALARY",
+      "debit": "8902.98",
+      "credit": null,
+      "balance": "9951.36"
+    },
+    {
+      "date": "2025-02-26",
+      "description": "UTILITY BILL",
+      "debit": null,
+      "credit": "7305.32",
+      "balance": "25538.31"
+    },
+    {
+      "date": "2025-02-26",
+      "description": "POS DUBAI MALL",
+      "debit": null,
+      "credit": "7495.03",
+      "balance": "43484.77"
+    },
+    {
+      "date": "2025-02-26",
+      "description": "CARD FEE",
+      "debit": "7365.91",
+      "credit": null,
+      "balance": "36118.86"
+    },
+    {
+      "date": "2025-02-27",
+      "description": "CHEQUE DEPOSIT",
+      "debit": "9232.73",
+      "credit": null,
+      "balance": "36944.75"
+    },
+    {
+      "date": "2025-02-27",
+      "description": "ATM CASH\nATM CASH",
+      "debit": "7518.89",
+      "credit": null,
+      "balance": "-999.08"
+    },
+    {
+      "date": "2025-02-28",
+      "description": "NEFT INB SUPPLIER",
+      "debit": "8166.05",
+      "credit": null,
+      "balance": "20078.85"
+    },
+    {
+      "date": "2025-03-02",
+      "description": "NEFT INB SUPPLIER",
+      "debit": "2652.74",
+      "credit": null,
+      "balance": "-3651.82"
+    },
+    {
+      "date": "2025-03-02",
+      "description": "POS DUBAI MALL",
+      "debit": "4205.04",
+      "credit": null,
+      "balance": "22608.88"
+    },
+    {
+      "date": "2025-03-03",
+      "description": "SALARY",
+      "debit": null,
+      "credit": "4298.44",
+      "balance": "38485.79"
+    },
+    {
+      "date": "2025-03-04",
+      "description": "UPI/IPAY692683",
+      "debit": "6574.07",
+      "credit": null,
+      "balance": "3377.29"
+    },
+    {
+      "date": "2025-03-04",
+      "description": "SALARY\nCARD FEE",
+      "debit": null,
+      "credit": "1157.34",
+      "balance": "21568.16"
+    }
+  ]
+}

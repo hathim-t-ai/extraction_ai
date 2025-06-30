@@ -1,0 +1,197 @@
+{
+  "account_number": "DDKT13472551443791",
+  "currency": "AED",
+  "period_start": "2024-12-10",
+  "period_end": "2025-01-01",
+  "transactions": [
+    {
+      "date": "2024-12-10",
+      "description": "CARD FEE",
+      "debit": null,
+      "credit": "2986.83",
+      "balance": "93293.10"
+    },
+    {
+      "date": "2024-12-12",
+      "description": "NEFT INB SUPPLIER",
+      "debit": "3309.48",
+      "credit": null,
+      "balance": "98004.46"
+    },
+    {
+      "date": "2024-12-13",
+      "description": "CHEQUE DEPOSIT",
+      "debit": null,
+      "credit": "3457.53",
+      "balance": "102745.65"
+    },
+    {
+      "date": "2024-12-13",
+      "description": "CARD FEE\nSALARY",
+      "debit": "5766.30",
+      "credit": null,
+      "balance": "96979.35"
+    },
+    {
+      "date": "2024-12-15",
+      "description": "CARD FEE",
+      "debit": null,
+      "credit": "9195.50",
+      "balance": "103093.45"
+    },
+    {
+      "date": "2024-12-17",
+      "description": "UTILITY BILL\nATM CASH",
+      "debit": null,
+      "credit": "1474.39",
+      "balance": "108539.89"
+    },
+    {
+      "date": "2024-12-17",
+      "description": "CHEQUE DEPOSIT",
+      "debit": "9579.70",
+      "credit": null,
+      "balance": "91185.60"
+    },
+    {
+      "date": "2024-12-17",
+      "description": "CHEQUE DEPOSIT",
+      "debit": null,
+      "credit": "1214.46",
+      "balance": "92400.06"
+    },
+    {
+      "date": "2024-12-17",
+      "description": "CARD FEE",
+      "debit": "4856.93",
+      "credit": null,
+      "balance": "93897.95"
+    },
+    {
+      "date": "2024-12-19",
+      "description": "UPI/IPAY442027",
+      "debit": null,
+      "credit": "6669.26",
+      "balance": "99544.79"
+    },
+    {
+      "date": "2024-12-19",
+      "description": "NEFT INB SUPPLIER\nUPI/IPAY451470",
+      "debit": null,
+      "credit": "6329.78",
+      "balance": "107065.50"
+    },
+    {
+      "date": "2024-12-20",
+      "description": "UPI/IPAY373903\nSALARY",
+      "debit": null,
+      "credit": "1154.30",
+      "balance": "99288.12"
+    },
+    {
+      "date": "2024-12-20",
+      "description": "POS DUBAI MALL\nNEFT INB SUPPLIER",
+      "debit": null,
+      "credit": "806.70",
+      "balance": "101313.94"
+    },
+    {
+      "date": "2024-12-21",
+      "description": "ATM CASH",
+      "debit": "9488.80",
+      "credit": null,
+      "balance": "92875.53"
+    },
+    {
+      "date": "2024-12-23",
+      "description": "UTILITY BILL",
+      "debit": null,
+      "credit": "6067.01",
+      "balance": "105468.11"
+    },
+    {
+      "date": "2024-12-23",
+      "description": "UTILITY BILL",
+      "debit": null,
+      "credit": "5479.17",
+      "balance": "107379.68"
+    },
+    {
+      "date": "2024-12-23",
+      "description": "CARD FEE\nUTILITY BILL",
+      "debit": "7698.19",
+      "credit": null,
+      "balance": "90306.27"
+    },
+    {
+      "date": "2024-12-24",
+      "description": "CARD FEE",
+      "debit": "6298.02",
+      "credit": null,
+      "balance": "102241.87"
+    },
+    {
+      "date": "2024-12-24",
+      "description": "CHEQUE DEPOSIT\nUTILITY BILL",
+      "debit": "2473.15",
+      "credit": null,
+      "balance": "104906.53"
+    },
+    {
+      "date": "2024-12-25",
+      "description": "ATM CASH\nCARD FEE",
+      "debit": "1476.57",
+      "credit": null,
+      "balance": "100765.30"
+    },
+    {
+      "date": "2024-12-26",
+      "description": "NEFT INB SUPPLIER",
+      "debit": null,
+      "credit": "5384.98",
+      "balance": "102364.33"
+    },
+    {
+      "date": "2024-12-27",
+      "description": "POS DUBAI MALL",
+      "debit": "4205.04",
+      "credit": null,
+      "balance": "95339.75"
+    },
+    {
+      "date": "2024-12-27",
+      "description": "CHEQUE DEPOSIT",
+      "debit": null,
+      "credit": "9500.45",
+      "balance": "101900.51"
+    },
+    {
+      "date": "2024-12-27",
+      "description": "UTILITY BILL",
+      "debit": null,
+      "credit": "5461.78",
+      "balance": "98754.88"
+    },
+    {
+      "date": "2024-12-29",
+      "description": "UPI/IPAY974224\nNEFT INB SUPPLIER",
+      "debit": null,
+      "credit": "4061.35",
+      "balance": "99401.10"
+    },
+    {
+      "date": "2024-12-30",
+      "description": "UPI/IPAY848206\nFX CHARGE",
+      "debit": "4399.29",
+      "credit": null,
+      "balance": "100507.24"
+    },
+    {
+      "date": "2024-12-31",
+      "description": "ATM CASH",
+      "debit": "4732.39",
+      "credit": null,
+      "balance": "100735.72"
+    }
+  ]
+}

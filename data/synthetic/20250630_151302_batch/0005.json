@@ -1,0 +1,141 @@
+{
+  "account_number": "FEGJ05694307927293",
+  "currency": "AED",
+  "period_start": "2024-12-04",
+  "period_end": "2025-01-01",
+  "transactions": [
+    {
+      "date": "2024-12-04",
+      "description": "NEFT INB SUPPLIER\nUPI/IPAY592738",
+      "debit": "6894.02",
+      "credit": null,
+      "balance": "12552.92"
+    },
+    {
+      "date": "2024-12-05",
+      "description": "UPI/IPAY885339",
+      "debit": "3076.81",
+      "credit": null,
+      "balance": "13254.91"
+    },
+    {
+      "date": "2024-12-07",
+      "description": "ATM CASH",
+      "debit": null,
+      "credit": "6476.70",
+      "balance": "16331.72"
+    },
+    {
+      "date": "2024-12-08",
+      "description": "NEFT INB SUPPLIER\nATM CASH",
+      "debit": "5628.83",
+      "credit": null,
+      "balance": "10143.03"
+    },
+    {
+      "date": "2024-12-10",
+      "description": "CHEQUE DEPOSIT",
+      "debit": "4842.50",
+      "credit": null,
+      "balance": "33865.16"
+    },
+    {
+      "date": "2024-12-12",
+      "description": "CHEQUE DEPOSIT\nPOS DUBAI MALL",
+      "debit": "7213.12",
+      "credit": null,
+      "balance": "38707.66"
+    },
+    {
+      "date": "2024-12-12",
+      "description": "POS DUBAI MALL",
+      "debit": null,
+      "credit": "1571.41",
+      "balance": "19446.94"
+    },
+    {
+      "date": "2024-12-13",
+      "description": "SALARY\nCHEQUE DEPOSIT",
+      "debit": "5341.82",
+      "credit": null,
+      "balance": "27517.18"
+    },
+    {
+      "date": "2024-12-13",
+      "description": "SALARY",
+      "debit": null,
+      "credit": "1263.67",
+      "balance": "28780.85"
+    },
+    {
+      "date": "2024-12-16",
+      "description": "UPI/IPAY717113",
+      "debit": "4427.77",
+      "credit": null,
+      "balance": "11778.83"
+    },
+    {
+      "date": "2024-12-18",
+      "description": "UPI/IPAY833723",
+      "debit": "6887.09",
+      "credit": null,
+      "balance": "6367.82"
+    },
+    {
+      "date": "2024-12-20",
+      "description": "CARD FEE\nFX CHARGE",
+      "debit": null,
+      "credit": "4378.15",
+      "balance": "10745.97"
+    },
+    {
+      "date": "2024-12-21",
+      "description": "CHEQUE DEPOSIT",
+      "debit": null,
+      "credit": "6063.57",
+      "balance": "16206.60"
+    },
+    {
+      "date": "2024-12-22",
+      "description": "SALARY\nUPI/IPAY457256",
+      "debit": "4787.66",
+      "credit": null,
+      "balance": "23993.19"
+    },
+    {
+      "date": "2024-12-22",
+      "description": "NEFT INB SUPPLIER\nNEFT INB SUPPLIER",
+      "debit": null,
+      "credit": "6096.70",
+      "balance": "17875.53"
+    },
+    {
+      "date": "2024-12-23",
+      "description": "FX CHARGE\nPOS DUBAI MALL",
+      "debit": "1006.16",
+      "credit": null,
+      "balance": "32859.00"
+    },
+    {
+      "date": "2024-12-26",
+      "description": "UPI/IPAY174637",
+      "debit": "8596.21",
+      "credit": null,
+      "balance": "3956.71"
+    },
+    {
+      "date": "2024-12-29",
+      "description": "CARD FEE",
+      "debit": null,
+      "credit": "5898.31",
+      "balance": "9855.02"
+    },
+    {
+      "date": "2024-12-31",
+      "description": "SALARY",
+      "debit": "8221.33",
+      "credit": null,
+      "balance": "15771.86"
+    }
+  ]
+}

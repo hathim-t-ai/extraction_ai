@@ -1,0 +1,12 @@
+{
+  "0001.pdf": {
+    "sha256": "29b33fa9e33dc856cae6eee5d2308c428cbe8cb53ef49d19ee691b01ca0b62b6",
+    "json": "0001.json",
+    "csv": "0001.csv"
+  },
+  "0002.pdf": {
+    "sha256": "b682908f49f6fefc1b03e15a89cc417e6f97563248ad115f18b98b630f99a2d9",
+    "json": "0002.json",
+    "csv": "0002.csv"
+  }
+}

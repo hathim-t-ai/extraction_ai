@@ -1,0 +1,32 @@
+{
+  "0001.pdf": {
+    "sha256": "ecf9c1e8e96cac5b9d49d83328df82e1c8d735e0a1087074bf93c4ba9c32feb8",
+    "json": "0001.json",
+    "csv": "0001.csv"
+  },
+  "0002.pdf": {
+    "sha256": "2adc901bd943b8625d4f643cae2fcd7660c2e53f1f1e5c2d800c4a49c9b1e84a",
+    "json": "0002.json",
+    "csv": "0002.csv"
+  },
+  "0003.pdf": {
+    "sha256": "1c2752e1122a9b823cddf7be1439a7032e32a4b85a78e9f2688439642d88d8c2",
+    "json": "0003.json",
+    "csv": "0003.csv"
+  },
+  "0004.pdf": {
+    "sha256": "6ff366f711657fc4a40abfca7dd8b36ac3171e08bb7a48f15ed6923a465f3ea2",
+    "json": "0004.json",
+    "csv": "0004.csv"
+  },
+  "0005.pdf": {
+    "sha256": "250e2b0f9fc0d6ddd4438a88a03e622f90bd2167443d4e343441e3371085be71",
+    "json": "0005.json",
+    "csv": "0005.csv"
+  },
+  "0006.pdf": {
+    "sha256": "7faf7b715a3a7ff9fb7e702f81e5da0252fb30d1ff95216185cd4cb3b4ea39a4",
+    "json": "0006.json",
+    "csv": "0006.csv"
+  }
+}

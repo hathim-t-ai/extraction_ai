@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <style>
+    body { font-family: 'Arial', sans-serif; margin: 36px; }
+    h1 { color: #ef4e23; font-weight: 700; }
+    table { width: 100%; border-collapse: collapse; font-size: 9pt; }
+    th { text-align: left; background:#f2f2f2; padding:4px; }
+    td { padding:4px; border-bottom:1px solid #ddd; }
+    td.num { text-align:right; }
+  </style>
+</head>
+<body>
+  <h1>Axis Bank – {{ statement.currency }} Account</h1>
+  <p>Statement Period: {{ statement.periodStart }} – {{ statement.periodEnd }}</p>
+  <p>Account #: {{ statement.accountNumber }}</p>
+
+  <table>
+    <thead>
+      <tr>
+        <th style="width:12%;">Date</th>
+        <th style="width:48%;">Description</th>
+        <th style="width:13%; text-align:right;">Debit</th>
+        <th style="width:13%; text-align:right;">Credit</th>
+        <th style="width:14%; text-align:right;">Balance</th>
+      </tr>
+    </thead>
+    <tbody>
+    {% for txn in statement.transactions %}
+      <tr>
+        <td>{{ txn.date.strftime('%d-%m-%Y') }}</td>
+        <td>{{ txn.description.replace('\n','<br/>') }}</td>
+        <td class="num">{{ txn.debit or '' }}</td>
+        <td class="num">{{ txn.credit or '' }}</td>
+        <td class="num">{{ txn.balance }}</td>
+      </tr>
+    {% endfor %}
+    </tbody>
+  </table>
+  <p style="font-size:7pt;">System generated statement – no signature required.</p>
+</body>
+</html> 

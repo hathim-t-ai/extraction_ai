@@ -1,0 +1,92 @@
+{
+  "account_number": "EYAH88592961215762",
+  "currency": "AED",
+  "period_start": "2024-12-29",
+  "period_end": "2025-01-01",
+  "transactions": [
+    {
+      "date": "2024-12-29",
+      "description": "CARD FEE\nCHEQUE DEPOSIT",
+      "debit": "3145.86",
+      "credit": null,
+      "balance": "32327.07"
+    },
+    {
+      "date": "2024-12-29",
+      "description": "CHEQUE DEPOSIT\nFX CHARGE",
+      "debit": null,
+      "credit": "5426.39",
+      "balance": "37753.46"
+    },
+    {
+      "date": "2024-12-29",
+      "description": "UPI/IPAY851413\nCARD FEE",
+      "debit": null,
+      "credit": "1540.56",
+      "balance": "51604.07"
+    },
+    {
+      "date": "2024-12-30",
+      "description": "SALARY",
+      "debit": null,
+      "credit": "8359.75",
+      "balance": "34146.17"
+    },
+    {
+      "date": "2024-12-30",
+      "description": "ATM CASH\nUTILITY BILL",
+      "debit": "137.73",
+      "credit": null,
+      "balance": "50063.51"
+    },
+    {
+      "date": "2024-12-31",
+      "description": "UTILITY BILL",
+      "debit": null,
+      "credit": "7631.33",
+      "balance": "41777.50"
+    },
+    {
+      "date": "2024-12-31",
+      "description": "ATM CASH",
+      "debit": "5853.71",
+      "credit": null,
+      "balance": "35923.79"
+    },
+    {
+      "date": "2025-01-01",
+      "description": "POS DUBAI MALL\nFX CHARGE",
+      "debit": "3333.75",
+      "credit": null,
+      "balance": "32590.04"
+    },
+    {
+      "date": "2025-01-01",
+      "description": "CHEQUE DEPOSIT",
+      "debit": null,
+      "credit": "2882.89",
+      "balance": "35472.93"
+    },
+    {
+      "date": "2025-01-01",
+      "description": "POS DUBAI MALL\nUPI/IPAY313446",
+      "debit": null,
+      "credit": "7600.15",
+      "balance": "45353.61"
+    },
+    {
+      "date": "2025-01-01",
+      "description": "NEFT INB SUPPLIER",
+      "debit": null,
+      "credit": "4847.63",
+      "balance": "50201.24"
+    },
+    {
+      "date": "2025-01-01",
+      "description": "NEFT INB SUPPLIER\nCHEQUE DEPOSIT",
+      "debit": null,
+      "credit": "2438.07",
+      "balance": "54042.14"
+    }
+  ]
+}

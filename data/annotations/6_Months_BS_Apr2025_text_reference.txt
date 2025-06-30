@@ -1,0 +1,212 @@
+Text Reference for Manual Annotation: 6_Months_BS_Apr2025.pdf
+============================================================
+INSTRUCTIONS:
+1. Delete the example rows in the CSV template
+2. Add real transaction data from the PDF below
+3. Format: date (YYYY-MM-DD), description, amount (+/-), balance
+4. Amount: positive for credits, negative for debits
+============================================================
+
+--- Page 1 ---
+ 
+Date
+23/04/2025اﻟﺘﺎرﻳﺦ 
+Branch
+JUMEIRAH BRANCHاﻟﻔﺮع 
+Tel. no.
++971553403990اﻟﻬﺎﺗﻒ رﻗﻢFax. no.اﻟﻔﺎﻛﺲ 
+Pages
+11
+ 
+No. 1
+ اﻟﺮﻗﻢ 
+Currency
+AEDاﻟﻌﻤﻠﺔ 
+Account No.
+1015816965601اﻟﺤﺴﺎب رﻗﻢ 
+Interest Payout
+Monthlyاﻟﻔﺎﺋﺪة ة 
+IBAN
+AE890260001015816965601اﻵﻳﺒﺎن رﻗﻢ 
+Account type
+CURRENT ACCOUNTاﻟﺤﺴﺎب ﻧﻮع 
+ﺣﺴﺎب ﻛﺸﻒ
+Statement of Account
+ 
+HATHIM AMEER IBRAHIM
+Customer TRN: 
+501,0,CURRENCY HOUSE BLDG
+0,DIFC,.
+DXB
+POST BOX 112865
+DUBAI
+UNITED ARAB EMIRATES
+STATEMENT OF ACCOUNT FOR THE PERIOD OF 23-10-2024 to 23-04-2025
+Page 1 of 11
+اﻟﺘﺎرﻳﺦ
+Date
+اﻟﺘﻔﺎﺻﻴﻞ
+Description
+ﻣﺪﻳﻦ
+Debit
+داﺋﻦ
+Credit
+اﻟﺮﺻﻴﺪ
+Balance
+14/04/2025
+MOBILE BANKING TRANSFER TO
+AE840260001102533406901 REFNO:-2F72D12A0870
+SUPPORT
+200.00
+2,483.80 Cr
+10/04/2025
+RMA 202504100006B98111625108910
+202504100006B98111 625108910
+AE650530000026445681015 582D80993588
+2,785.00
+2,683.80 Cr
+07/04/2025
+TT REF: AEL2504070012241 AED 953.86 DELOITTE
+PROFE SSIONAL SERVICES (DIF
+/REF/AEL2504070012241 EXPMAR 03 EXP EXP
+953.86
+5,468.80 Cr
+02/04/2025
+CARD NO.498778XXXXXX8084 Value Added
+Tax(VAT) @ 5 % 5570 208142 ABU DHABI UAEAE ABU
+DHABI AE
+0.10
+4,514.94 Cr
+02/04/2025
+CARD NO.498778XXXXXX8084 -04-2025 20:51:04 5570
+208142 ABU DHABI UAEAE ABU DHABI AE
+2.00
+4,515.04 Cr
+02/04/2025
+-04-2025 20:51:04 ABU DHABI UAEAE ABU DHABI AE
+5570 208142
+4,000.00
+4,517.04 Cr
+01/04/2025
+TT REF: 4911400091JO USD 171@3.653 DRIVEWEALTH,
+LL C BASP000136-1743521931160-R5CID
+624.66
+8,517.04 Cr
+.اﻟﺤﺴﺎب ﻛﺸﻒ ﺗﺎرﻳﺦ ﻣﻦ ًﻳﻮﻣﺎ 30 ﺧﻼل اﻟﺒﻨﻚ إﻟﻰ ﻓﻴﻪ اﻟﻤﺒﻴﻨﺔ اﻟﺒﻨﻮد ﻣﻦ أي ﻋﻠﻰ اﻋﺘﺮاض أو إﺷﻌﺎر إرﺳﺎل ﻳﺘﻢ ﻟﻢ إذا ًﺻﺤﻴﺤﺎ اﻟﺤﺴﺎب ﻛﺸﻒ ﻳﻌﺘﺒﺮ
+Conﬁrmation of the correctness of the statement as rendered will be assumed if no notice of disagreement with any of the entries is received by the bank within 30 days of the date of the statement.
+Emirates NBD Bank (P.J.S.C.) is licensed by the Central Bank of the UAE
+Head Oﬃce: Baniyas Road, Deira, PO Box 777, Dubai UAE
+Tel: +971 600 54 0000, www.emiratesnbd.com
+Registered Details: Emirates NBD Bank (PJSC), 
+Paid Up Capital AED 6,316,598,000/-
+Commercial Registration No. 1013450
+Tax Registration Number 100035307600003
+This is an electronically generated statement, hence, does not require
+a signature
+.اﻟﻤﺮﻛﺰي اﻟﻤﺘﺤﺪة اﻟﻌﺮﺑﻴﺔ اﻹﻣﺎرات ﻣﺼﺮف ﻗﺒﻞ ﻣﻦ ﻣﺮﺧﺺ ﺑﻨﻚ ﻫﻮ .ع.م.ش اﻟﻮﻃﻨﻲ دﺑﻲ اﻹﻣﺎرات ﺑﻨﻚ
+اﻹﻣﺎرات ،دﺑﻲ 777، .ب .ص ،دﻳﺮة ،ﻳﺎس ﺑﻨﻲ ﺷﺎرع :اﻟﺮﺋﻴﺴﻲ اﻟﻤﻜﺘﺐ :اﻟﺮﺋﻴﺴﻲ اﻟﻤﻜﺘﺐ
+www.emiratesnbd.com/ar ,+971 600 54 0000 :ﻫﺎﺗﻒ
+ ،(ع.م.ش) اﻟﻮﻃﻨﻲ دﺑﻲ اﻹﻣﺎرات ﺑﻨﻚ :اﻟﺒﻨﻚ ﺳﺠﻞ ﺗﻔﺎﺻﻴﻞ
+درﻫﻢ 6,316,598,000 اﻟﻤﺪﻓﻮع اﻟﻤﺎل رأس
+ 1013450 رﻗﻢ ﺗﺠﺎري ﺳﺠﻞ
+ 100035307600003 اﻟﻀﺮرﻳﺒﻲ اﻟﺘﺴﺠﻴﻞ رﻗﻢ
+.ﺗﻮﻗﻴﻊ أي ﻋﻠﻴﻪ ﻳﻜﻮن أن ﻳﺘﻄﻠﺐ ﻻ وﺑﺎﻟﺘﺎﻟﻲ ،إﻟﻜﺘﺮوﻧﻲ ﺑﺸﻜﻞ ﻫﺬا اﻟﺤﺴﺎب ﻛﺸﻒ إﻧﺸﺎء ّﺗﻢ
+
+--- Page 2 ---
+HATHIM AMEER IBRAHIM
+AE890260001015816965601
+Page 2 of 11
+اﻟﺘﺎرﻳﺦ
+Date
+اﻟﺘﻔﺎﺻﻴﻞ
+Description
+ﻣﺪﻳﻦ
+Debit
+داﺋﻦ
+Credit
+اﻟﺮﺻﻴﺪ
+Balance
+01/04/2025
+MOBILE BANKING TRANSFER FROM MOHAMMED
+IMRAN VALIYA PED AE780260001014322813301
+REFNO:-0CE104C91E06 G TF
+100.00
+7,892.38 Cr
+30/03/2025
+CARD NO.498778XXXXXX8084 Value Added
+Tax(VAT) @ 5 % S8NB7659 214563 DUBAI AE DUBAI
+AE
+0.10
+7,792.38 Cr
+30/03/2025
+CARD NO.498778XXXXXX8084 -03-2025 16:49:05
+S8NB7659 214563 DUBAI AE DUBAI AE
+2.00
+7,792.48 Cr
+30/03/2025
+-03-2025 16:49:05 DUBAI AE DUBAI AE S8NB7659
+214563
+200.00
+7,794.48 Cr
+30/03/2025
+CARD NO.498778XXXXXX8084 Value Added
+Tax(VAT) @ 5 % S8NB7659 974428 DUBAI AE DUBAI
+AE
+0.10
+7,994.48 Cr
+30/03/2025
+CARD NO.498778XXXXXX8084 -03-2025 16:47:56
+S8NB7659 974428 DUBAI AE DUBAI AE
+2.00
+7,994.58 Cr
+30/03/2025
+-03-2025 16:47:56 DUBAI AE DUBAI AE S8NB7659
+974428
+300.00
+7,996.58 Cr
+30/03/2025
+MOBILE BANKING TRANSFER FROM ATEF EBRAHIM
+ANWAR AE 950260000959047915701
+REFNO:-617DB876F312
+500.00
+8,296.58 Cr
+24/03/2025
+RMA TT REF: EPHCOR083063M0P2 AED 2059.7
+BB10BDA39 50A HATHIM
+2,059.70
+7,796.58 Cr
+24/03/2025
+RMA TT REF: EPHCOR083063LY43 AED 1378.98
+1E39770B 8570 HATHIM AMEER
+1,378.98
+9,856.28 Cr
+24/03/2025
+CC NO.-418887XXXXXX1233 RMA REF NO.-
+EBI2A206FCD4B8 4
+12,525.11
+11,235.26 Cr
+24/03/2025
+TT REF: AEL2503240014466 AED 21615 DELOITTE
+PROFES SIONAL SERVICES (DIF /REF/SAL/MAR2025
+MAR25PAYROLL SALAR Y TRF B/O DELOITTE CORP
+21,615.00
+23,760.37 Cr
+.اﻟﺤﺴﺎب ﻛﺸﻒ ﺗﺎرﻳﺦ ﻣﻦ ًﻳﻮﻣﺎ 30 ﺧﻼل اﻟﺒﻨﻚ إﻟﻰ ﻓﻴﻪ اﻟﻤﺒﻴﻨﺔ اﻟﺒﻨﻮد ﻣﻦ أي ﻋﻠﻰ اﻋﺘﺮاض أو إﺷﻌﺎر إرﺳﺎل ﻳﺘﻢ ﻟﻢ إذا ًﺻﺤﻴﺤﺎ اﻟﺤﺴﺎب ﻛﺸﻒ ﻳﻌﺘﺒﺮ
+Conﬁrmation of the correctness of the statement as rendered will be assumed if no notice of disagreement with any of the entries is received by the bank within 30 days of the date of the statement.
+Emirates NBD Bank (P.J.S.C.) is licensed by the Central Bank of the UAE
+Head Oﬃce: Baniyas Road, Deira, PO Box 777, Dubai UAE
+Tel: +971 600 54 0000, www.emiratesnbd.com
+Registered Details: Emirates NBD Bank (PJSC), 
+Paid Up Capital AED 6,316,598,000/-
+Commercial Registration No. 1013450
+Tax Registration Number 100035307600003
+This is an electronically generated statement, hence, does not require
+a signature
+.اﻟﻤﺮﻛﺰي اﻟﻤﺘﺤﺪة اﻟﻌﺮﺑﻴﺔ اﻹﻣﺎرات ﻣﺼﺮف ﻗﺒﻞ ﻣﻦ ﻣﺮﺧﺺ ﺑﻨﻚ ﻫﻮ .ع.م.ش اﻟﻮﻃﻨﻲ دﺑﻲ اﻹﻣﺎرات ﺑﻨﻚ
+اﻹﻣﺎرات ،دﺑﻲ 777، .ب .ص ،دﻳﺮة ،ﻳﺎس ﺑﻨﻲ ﺷﺎرع :اﻟﺮﺋﻴﺴﻲ اﻟﻤﻜﺘﺐ :اﻟﺮﺋﻴﺴﻲ اﻟﻤﻜﺘﺐ
+www.emiratesnbd.com/ar ,+971 600 54 0000 :ﻫﺎﺗﻒ
+ ،(ع.م.ش) اﻟﻮﻃﻨﻲ دﺑﻲ اﻹﻣﺎرات ﺑﻨﻚ :اﻟﺒﻨﻚ ﺳﺠﻞ ﺗﻔﺎﺻﻴﻞ
+درﻫﻢ 6,316,598,000 اﻟﻤﺪﻓﻮع اﻟﻤﺎل رأس
+ 1013450 رﻗﻢ ﺗﺠﺎري ﺳﺠﻞ
+ 100035307600003 اﻟﻀﺮرﻳﺒﻲ اﻟﺘﺴﺠﻴﻞ رﻗﻢ
+.ﺗﻮﻗﻴﻊ أي ﻋﻠﻴﻪ ﻳﻜﻮن أن ﻳﺘﻄﻠﺐ ﻻ وﺑﺎﻟﺘﺎﻟﻲ ،إﻟﻜﺘﺮوﻧﻲ ﺑﺸﻜﻞ ﻫﺬا اﻟﺤﺴﺎب ﻛﺸﻒ إﻧﺸﺎء ّﺗﻢ

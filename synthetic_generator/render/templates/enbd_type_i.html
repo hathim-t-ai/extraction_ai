@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <style>
+    /* Emirates NBD statement – type I */
+    body { font-family: 'Helvetica', 'Arial', sans-serif; margin: 40px; }
+    h1 { color: #cc0000; font-weight: 700; text-align:center; margin-bottom: 8px; }
+    p.meta { margin: 2px 0; font-size: 10pt; }
+    table { width: 100%; border-collapse: collapse; font-size: 9.5pt; margin-top: 12px; }
+    th, td { padding: 4px 6px; border: 1px solid #aaa; }
+    th { background: #f0f0f0; text-align:left; }
+    td.num { text-align:right; }
+  </style>
+</head>
+<body>
+  <h1>Emirates NBD – {{ statement.currency }} Account</h1>
+  <p class="meta">Period: {{ statement.periodStart }} – {{ statement.periodEnd }}</p>
+  <p class="meta">IBAN: {{ statement.accountNumber }}</p>
+
+  <table>
+    <thead>
+      <tr>
+        <th style="width:12%;">Date</th>
+        <th style="width:46%;">Description</th>
+        <th style="width:14%; text-align:right;">Debit</th>
+        <th style="width:14%; text-align:right;">Credit</th>
+        <th style="width:14%; text-align:right;">Balance</th>
+      </tr>
+    </thead>
+    <tbody>
+    {% for txn in statement.transactions %}
+      <tr>
+        <td>{{ txn.date.strftime('%d/%m/%Y') }}</td>
+        <td>{{ txn.description.replace('\n','<br/>') }}</td>
+        <td class="num">{{ txn.debit or '' }}</td>
+        <td class="num">{{ txn.credit or '' }}</td>
+        <td class="num">{{ txn.balance }}</td>
+      </tr>
+    {% endfor %}
+    </tbody>
+  </table>
+
+  <p style="font-size:7.5pt; margin-top:12px;">This is a system-generated statement and does not require a signature.</p>
+</body>
+</html> 
