@@ -1,0 +1,33 @@
+account_holder_address,"PO Box 111311 Staybridge hot No1119
+Dubai South Dubai South
+DUBAI, UAE
+UAE"
+account_holder_name,OLGA MILICHENKOVA
+account_number,164-100-5705675-00-1
+bank_currency,AED
+closing_balance,81.15
+iban_number,ΑΕ-36-035-164-100-5705675-00-1
+opening_balance,1281.49
+page_number,3.0
+statement_end_date,10 SEP 2023
+statement_start_date,11 AUG 2023
+ParsingEngine,AI
+
+transactions
+balance,credit,description,transaction_date,debit
+2581.49,1300.0,ATM Cash Deposit P32-7191 CDM MOE Branch ATM CASH DEPOSIT,21 AUG 2023,
+2436.53,,POS Settlement Majid Al Futtaim Dubai AED 144.96,21 AUG 2023,144.96
+2371.58,,POS Settlement NOON.COM DUBAI AED 64.95,21 AUG 2023,64.95
+2295.65,,POS Settlement Amazon.ae Dubai AED 75.93,21 AUG 2023,75.93
+2272.1,,POS Settlement NOON.COM DUBAI AED 23.55,22 AUG 2023,23.55
+2247.11,,POS Settlement APPLE.COM BILL ITUNES.COM AED 24.99,22 AUG 2023,24.99
+2202.16,,POS Settlement CARREFOUR-MOE DUBAI AED 44.95,23 AUG 2023,44.95
+2172.16,,POS Settlement SDG DubaiPay DUBAI AED 30,24 AUG 2023,30.0
+2102.16,,POS Settlement EPPCO-SITE 1029 DUBAI AED 70,24 AUG 2023,70.0
+2044.14,,POS Settlement www.instashop.com Dubai AED 58.02,24 AUG 2023,58.02
+2249.36,205.22,POS Settlement,24 AUG 2023,
+2241.36,,POS Settlement ES TRAINING DMCC Dubai AED8,25 AUG 2023,8.0
+221.36,,POS Settlement PTB ES Dubai Dubai AED 2020,25 AUG 2023,2020.0
+211.36,,POS Settlement SDG DubaiPay DUBAI AED 10,26 AUG 2023,10.0
+201.36,,POS Settlement SDG DubaiPay DUBAI AED 10,26 AUG 2023,10.0
+81.15,,POS Settlement www.instashop.com Dubai A,28 AUG 2023,120.21

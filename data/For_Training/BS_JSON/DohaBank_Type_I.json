@@ -1,0 +1,310 @@
+{
+  "transactions": [
+    {
+      "Date": "01/05/2023",
+      "Doc#": "0",
+      "Description": "CREDIT CARD PAYMENT (A.R) - 4342#2121",
+      "Value Date": "01/05/2023",
+      "Debit ( - )": "3006.13",
+      "Credit ( + )": "0.0",
+      "Balance": "7372.89"
+    },
+    {
+      "Date": "01/05/2023",
+      "Doc#": "99992900",
+      "Description": "PURCHASE - UNIVERSITY OF DOHA TESDOHA QA 00289999000501051933 000001038002 0501 012900#470",
+      "Value Date": "01/05/2023",
+      "Debit ( - )": "1030.0",
+      "Credit ( + )": "0.0",
+      "Balance": "6342.89"
+    },
+    {
+      "Date": "01/05/2023",
+      "Doc#": "99995526",
+      "Description": "PURCHASE - AL MEERA SAILIYA NORTDOHA QA 0028999900 0501141129 000001253019 0501 005526#470",
+      "Value Date": "01/05/2023",
+      "Debit ( - )": "52.08",
+      "Credit ( + )": "0.0",
+      "Balance": "6290.81"
+    },
+    {
+      "Date": "01/05/2023",
+      "Doc#": "99999488",
+      "Description": "PURCHASE - DOHA MODERN BAKERIES DOHDOHA QA 0028999900 0501143639 312114590359 0501 009488#470",
+      "Value Date": "01/05/2023",
+      "Debit ( - )": "40.0",
+      "Credit ( + )": "0.0",
+      "Balance": "6250.81"
+    },
+    {
+      "Date": "02/05/2023",
+      "Doc#": "99999408",
+      "Description": "PURCHASE - ALMEERA AL SAILIYA MARDOHA QA 0028999900 0502080930 000001113013 0502 029408#470",
+      "Value Date": "02/05/2023",
+      "Debit ( - )": "81.0",
+      "Credit ( + )": "0.0",
+      "Balance": "6169.81"
+    },
+    {
+      "Date": "02/05/2023",
+      "Doc#": "0",
+      "Description": "Q-MONTHLY SALARY- SIF13291801BBQ202305011020-28-2-METAL PALACE FOR ALUMINUM AND METAL#996",
+      "Value Date": "02/05/2023",
+      "Debit ( - )": "0.0",
+      "Credit ( + )": "4000.0",
+      "Balance": "10169.81"
+    },
+    {
+      "Date": "03/05/2023",
+      "Doc#": "0",
+      "Description": "QATCH-BILL SETT - FT231230K0QS-5-AHMED AHMED IDRISS#1439",
+      "Value Date": "03/05/2023",
+      "Debit ( - )": "0.0",
+      "Credit ( + )": "100.0",
+      "Balance": "10269.81"
+    },
+    {
+      "Date": "07/05/2023",
+      "Doc#": "99990498",
+      "Description": "PURCHASE - ALMEERA AL SAILIYA MARDOHA QA 00289999000505093845 000001818016 0505 030498#470",
+      "Value Date": "07/05/2023",
+      "Debit ( - )": "93.0",
+      "Credit ( + )": "0.0",
+      "Balance": "10176.81"
+    },
+    {
+      "Date": "07/05/2023",
+      "Doc#": "99992641",
+      "Description": "PURCHASE - ROMANA HYPERMARKET SALDOHA QA 0028999900 0505102143 000001125031 0505 002641#470",
+      "Value Date": "07/05/2023",
+      "Debit ( - )": "33.0",
+      "Credit ( + )": "0.0",
+      "Balance": "10143.81"
+    },
+    {
+      "Date": "07/05/2023",
+      "Doc#": "99994876",
+      "Description": "PURCHASE - WOQOD AL SALILIYAPS DOHA QA 0028999900 0506125802 000001451006 0506 024876#470",
+      "Value Date": "07/05/2023",
+      "Debit ( - )": "50.0",
+      "Credit ( + )": "0.0",
+      "Balance": "10093.81"
+    },
+    {
+      "Date": "07/05/2023",
+      "Doc#": "21286682",
+      "Description": "PURCHASE - ALI INTL TRDG. DOHA QA 0050999900 0506132919 312613266682 0506 266682#470",
+      "Value Date": "07/05/2023",
+      "Debit ( - )": "85.0",
+      "Credit ( + )": "0.0",
+      "Balance": "10008.81"
+    },
+    {
+      "Date": "07/05/2023",
+      "Doc#": "21287804",
+      "Description": "PURCHASE - ALI INTL TRDG. DOHA QA 0050999900 0506133920 312613267804 0506 267804#470",
+      "Value Date": "07/05/2023",
+      "Debit ( - )": "6.0",
+      "Credit ( + )": "0.0",
+      "Balance": "10002.81"
+    },
+    {
+      "Date": "07/05/2023",
+      "Doc#": "99992478",
+      "Description": "PURCHASE - WOQOD AL SALILIYAPS DOHA QA 0028999900 0506141315 000001451030 0506 002478#470",
+      "Value Date": "07/05/2023",
+      "Debit ( - )": "100.0",
+      "Credit ( + )": "0.0",
+      "Balance": "9902.81"
+    },
+    {
+      "Date": "10/05/2023",
+      "Doc#": "99992742",
+      "Description": "PURCHASE-WOQOD AL SALILIYAPS DOHA QA 0028999900 0510053443 000001436034 0510 012742#470",
+      "Value Date": "10/05/2023",
+      "Debit ( - )": "40.0",
+      "Credit ( + )": "0.0",
+      "Balance": "9862.81"
+    },
+    {
+      "Date": "14/05/2023",
+      "Doc#": "99991002",
+      "Description": "PURCHASE - WOQOD AL SALILIYAPS DOHA QA 0028999900 0513101450 000001260038 0513 011002#470",
+      "Value Date": "14/05/2023",
+      "Debit ( - )": "100.0",
+      "Credit ( + )": "0.0",
+      "Balance": "9762.81"
+    },
+    {
+      "Date": "20/06/2023",
+      "Doc#": "99994038",
+      "Description": "PURCHASE - WOQOD AL SALILIYAPS DOHA QA 00289999000620063850 000001560026 0620 014038#470",
+      "Value Date": "20/06/2023",
+      "Debit ( - )": "100.0",
+      "Credit ( + )": "0.0",
+      "Balance": "7972.0"
+    },
+    {
+      "Date": "21/06/2023",
+      "Doc#": "99993027",
+      "Description": "PURCHASE- PANELTECH ELECTRICALS DOHA QA 0028999900 0621065244 317206000103 0621 013027#470",
+      "Value Date": "21/06/2023",
+      "Debit ( - )": "170.0",
+      "Credit ( + )": "0.0",
+      "Balance": "7802.0"
+    },
+    {
+      "Date": "22/06/2023",
+      "Doc#": "21288618",
+      "Description": "PURCHASE - ALI INTL TRDG. DOHA QA 0050999900 0622065509 317306838618 0622 838618#470",
+      "Value Date": "22/06/2023",
+      "Debit ( - )": "12.0",
+      "Credit ( + )": "0.0",
+      "Balance": "7790.0"
+    },
+    {
+      "Date": "25/06/2023",
+      "Doc#": "99996407",
+      "Description": "PURCHASE - WOQOD AL SALILIYAPS DOHA QA 00289999000624051011 000001322014 0624 006407#470",
+      "Value Date": "25/06/2023",
+      "Debit ( - )": "100.0",
+      "Credit ( + )": "0.0",
+      "Balance": "7690.0"
+    },
+    {
+      "Date": "25/06/2023",
+      "Doc#": "99992676",
+      "Description": "PURCHASE - AL MEERA SAILIYA NORTDOHA QA 0028999900 0625093320 000001318004 0625 032676#470",
+      "Value Date": "25/06/2023",
+      "Debit ( - )": "276.65",
+      "Credit ( + )": "0.0",
+      "Balance": "7413.35"
+    },
+    {
+      "Date": "02/07/2023",
+      "Doc#": "0",
+      "Description": "CREDIT CARD PAYMENT (A.R) - 4342#2121",
+      "Value Date": "02/07/2023",
+      "Debit ( - )": "521.05",
+      "Credit ( + )": "0.0",
+      "Balance": "6892.3"
+    },
+    {
+      "Date": "02/07/2023",
+      "Doc#": "0",
+      "Description": "DBANK TRANSFER A/C TO A/C - FROM: QA35 DOHB 0226 0303 9160 0100 10000 TO: QA31 DOHB 0227 0026 7580 0100 1000 0 - | MOBILE BANKING P2P||MOBILE BANKING - QR CODE#477",
+      "Value Date": "02/07/2023",
+      "Debit ( - )": "0.0",
+      "Credit ( + )": "800.0",
+      "Balance": "7692.3"
+    },
+    {
+      "Date": "02/07/2023",
+      "Doc#": "99994379",
+      "Description": "PURCHASE - WOQOD AL WAJBA 2 PS DOHA QA 0028999900 0627092027 000001902030 0627 004379#470",
+      "Value Date": "02/07/2023",
+      "Debit ( - )": "100.0",
+      "Credit ( + )": "0.0",
+      "Balance": "7592.3"
+    },
+    {
+      "Date": "02/07/2023",
+      "Doc#": "99992028",
+      "Description": "PURCHASE-ALBAYAT ALASIL DOHA QA 0028999900 0627101628 317810006580 0627 012028#470",
+      "Value Date": "02/07/2023",
+      "Debit ( - )": "95.6",
+      "Credit ( + )": "0.0",
+      "Balance": "7496.7"
+    },
+    {
+      "Date": "02/07/2023",
+      "Doc#": "99995366",
+      "Description": "PURCHASE - HAJER FOOD TRADING DOHDOHA QA 0028999900 0627104039 317810572487 0627 015366#470",
+      "Value Date": "02/07/2023",
+      "Debit ( - )": "226.0",
+      "Credit ( + )": "0.0",
+      "Balance": "7270.7"
+    },
+    {
+      "Date": "02/07/2023",
+      "Doc#": "0",
+      "Description": "QATCH-BILL SETT - FT23179237ZB-5-JAMAL ABDULNASSER ALI HASSEIN SWAILEH#1439",
+      "Value Date": "02/07/2023",
+      "Debit ( - )": "0.0",
+      "Credit ( + )": "150.0",
+      "Balance": "7420.7"
+    },
+    {
+      "Date": "02/07/2023",
+      "Doc#": "99990565",
+      "Description": "PURCHASE - JUNGLE ZONE DOHA QA 00289999000628150713 317915049316 0628 020565#470",
+      "Value Date": "02/07/2023",
+      "Debit ( - )": "150.0",
+      "Credit ( + )": "0.0",
+      "Balance": "7270.7"
+    },
+    {
+      "Date": "02/07/2023",
+      "Doc#": "99992533",
+      "Description": "PURCHASE - WOQOD AL SALILIYAPS DOHA QA 00289999000630181820 000001075037 0630 022533#470",
+      "Value Date": "02/07/2023",
+      "Debit ( - )": "50.0",
+      "Credit ( + )": "0.0",
+      "Balance": "7220.7"
+    },
+    {
+      "Date": "02/07/2023",
+      "Doc#": "99998840",
+      "Description": "PURCHASE - GELATO DIVINO HOTEL PADOHA QA 0028999900 0630190359 000001461014 0630 028840#470",
+      "Value Date": "02/07/2023",
+      "Debit ( - )": "74.0",
+      "Credit ( + )": "0.0",
+      "Balance": "7146.7"
+    },
+    {
+      "Date": "02/07/2023",
+      "Doc#": "34680383",
+      "Description": "PURCHASE - BASKIN ROBBINS-HYATT PLAZDOHA QA 0050999900 0630191655 318119530383 0630 530383#470",
+      "Value Date": "02/07/2023",
+      "Debit ( - )": "13.0",
+      "Credit ( + )": "0.0",
+      "Balance": "7133.7"
+    },
+    {
+      "Date": "02/07/2023",
+      "Doc#": "99992365",
+      "Description": "PURCHASE - JUNGLE ZONE DOHA QA 0028999900 0630193153 318119050164 0630 032365#470",
+      "Value Date": "02/07/2023",
+      "Debit ( - )": "50.0",
+      "Credit ( + )": "0.0",
+      "Balance": "7083.7"
+    },
+    {
+      "Date": "02/07/2023",
+      "Doc#": "99996013",
+      "Description": "PURCHASE - CARREFOUR - MALL OF QADOHA QA 0028999900 0701103957 000001007149 0701 006013#470",
+      "Value Date": "02/07/2023",
+      "Debit ( - )": "7.75",
+      "Credit ( + )": "0.0",
+      "Balance": "7075.95"
+    },
+    {
+      "Date": "02/07/2023",
+      "Doc#": "99993035",
+      "Description": "PURCHASE - SOFTEL ELECTRONICS DOHA QATQA 0028999900 0702171108 000001299159 0702 003035#470",
+      "Value Date": "02/07/2023",
+      "Debit ( - )": "24.0",
+      "Credit ( + )": "0.0",
+      "Balance": "7051.95"
+    },
+    {
+      "Date": "02/07/2023",
+      "Doc#": "99999441",
+      "Description": "PURCHASE - IBN RUSHD PHARMACY DOHA QA 0028999900 0702174941 000001121007 0702 009441#470",
+      "Value Date": "02/07/2023",
+      "Debit ( - )": "125.0",
+      "Credit ( + )": "0.0",
+      "Balance": "6926.95"
+    }
+  ]
+}

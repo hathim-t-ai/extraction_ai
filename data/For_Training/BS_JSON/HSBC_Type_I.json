@@ -1,0 +1,81 @@
+{
+  "transactions": [
+    {
+      "Date": "04 Aug 2024",
+      "Transaction Details": "SALARY\nJUL 2024F",
+      "Deposits": "1600.0",
+      "Withdrawals": "",
+      "Balance": "20015.5"
+    },
+    {
+      "Date": "",
+      "Transaction Details": "HIB-21305BX2884\nNAYANA SR\n239266765600\nCRP\nREF YIB1-09950",
+      "Deposits": "",
+      "Withdrawals": "3210.0",
+      "Balance": "16805.5"
+    },
+    {
+      "Date": "",
+      "Transaction Details": "AEV280460KAWBOE8\nHIB-213058X284\nNAYANA SR\n5213140112010\nCRP\nREF YIB1-09951",
+      "Deposits": "",
+      "Withdrawals": "2800.0",
+      "Balance": "14005.5"
+    },
+    {
+      "Date": "",
+      "Transaction Details": "04 May 2024 ATMA803 15:1509\nREF A803-00042",
+      "Deposits": "",
+      "Withdrawals": "7000.0",
+      "Balance": "7005.5"
+    },
+    {
+      "Date": "04 Sep 2024",
+      "Transaction Details": "SALARY\nApr 2024 F",
+      "Deposits": "1750.0",
+      "Withdrawals": "",
+      "Balance": "8775.5"
+    },
+    {
+      "Date": "25 Sep 2024",
+      "Transaction Details": "REPAY 011-165-159\nREF ZLSI-02768",
+      "Deposits": "",
+      "Withdrawals": "1000.0",
+      "Balance": "7775.5"
+    },
+    {
+      "Date": "",
+      "Transaction Details": "HIB-21305BX2884 NAYANA SR 239266765600 CRP REF YIB1-050",
+      "Deposits": "",
+      "Withdrawals": "210.0",
+      "Balance": "7545.5"
+    },
+    {
+      "Date": "",
+      "Transaction Details": "AEV280460KAWBOE8 HIB-213058X500 NAYANA SR 5213140112010 CRP REF YIB1-09951",
+      "Deposits": "",
+      "Withdrawals": "800.0",
+      "Balance": "6745.5"
+    },
+    {
+      "Date": "",
+      "Transaction Details": "03 Jun 24 ATMA803 18:18 09 REF A803-00042",
+      "Deposits": "",
+      "Withdrawals": "1000.0",
+      "Balance": "5745.5"
+    },
+    {
+      "Date": "04 Oct 2024",
+      "Transaction Details": "SALARY May 2024 F",
+      "Deposits": "1800.0",
+      "Withdrawals": "",
+      "Balance": "7545.5"
+    },
+    {
+      "Date": "04 Oct 2024",
+      "Transaction Details": "REPAY 011-5165-159 REF ZLSI-027681",
+      "Deposits": "",
+      "Withdrawals": "1000.0",
+      "Balance": "6545.5"
+    }
+  ]
+}

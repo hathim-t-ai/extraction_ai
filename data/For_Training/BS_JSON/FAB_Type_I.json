@@ -1,0 +1,388 @@
+{
+  "transactions": [
+    {
+      "DATE": "11 AUG 2023",
+      "VALUE DATE": "11 AUG 2023",
+      "DESCRIPTION": "ATM Cash Deposit P32-7191 CDM MOE Branch ATM CASH DEPOSIT",
+      "DEBIT": "",
+      "CREDIT": "7000.0",
+      "BALANCE": "7384.86"
+    },
+    {
+      "DATE": "11 AUG 2023",
+      "VALUE DATE": "08 AUG 2023",
+      "DESCRIPTION": "POS Settlement NAMSHI DUBAI AED 224.25",
+      "DEBIT": "224.25",
+      "CREDIT": "",
+      "BALANCE": "7160.61"
+    },
+    {
+      "DATE": "11 AUG 2023",
+      "VALUE DATE": "10 AUG 2023",
+      "DESCRIPTION": "POS Settlement ES TRAINING DMCC Dubai AΑΕ D 24",
+      "DEBIT": "24.0",
+      "CREDIT": "",
+      "BALANCE": "7136.61"
+    },
+    {
+      "DATE": "11 AUG 2023",
+      "VALUE DATE": "09 AUG 2023",
+      "DESCRIPTION": "POS Settlement SDG DubaiPay DUBAI AED 30",
+      "DEBIT": "30.0",
+      "CREDIT": "",
+      "BALANCE": "7106.61"
+    },
+    {
+      "DATE": "11 AUG 2023",
+      "VALUE DATE": "09 AUG 2023",
+      "DESCRIPTION": "POS Settlement APPLE.COM BILL ITUNES.COM AED 19.99",
+      "DEBIT": "19.99",
+      "CREDIT": "",
+      "BALANCE": "7086.62"
+    },
+    {
+      "DATE": "12 AUG 2023",
+      "VALUE DATE": "10 AUG 2023",
+      "DESCRIPTION": "POS Settlement DELIVEROO ABU DHABI AED 77.55",
+      "DEBIT": "77.55",
+      "CREDIT": "",
+      "BALANCE": "7009.07"
+    },
+    {
+      "DATE": "12 AUG 2023",
+      "VALUE DATE": "10 AUG 2023",
+      "DESCRIPTION": "POS Settlement EPPCO SITE 5558 DUBAI AED 6.25",
+      "DEBIT": "6.25",
+      "CREDIT": "",
+      "BALANCE": "7002.82"
+    },
+    {
+      "DATE": "14 AUG 2023",
+      "VALUE DATE": "11 AUG 2023",
+      "DESCRIPTION": "POS Settlement CARREFOUR-MOE DUBAI AED 82.35",
+      "DEBIT": "82.35",
+      "CREDIT": "",
+      "BALANCE": "6920.47"
+    },
+    {
+      "DATE": "14 AUG 2023",
+      "VALUE DATE": "11 AUG 2023",
+      "DESCRIPTION": "POS Settlement SMART DUBAI GOVERNMENT DUBAI AED 50",
+      "DEBIT": "50.0",
+      "CREDIT": "",
+      "BALANCE": "6870.47"
+    },
+    {
+      "DATE": "14 AUG 2023",
+      "VALUE DATE": "11 AUG 2023",
+      "DESCRIPTION": "POS Settlement www.instashop.com Dubai AED 45.37",
+      "DEBIT": "45.37",
+      "CREDIT": "",
+      "BALANCE": "6825.1"
+    },
+    {
+      "DATE": "14 AUG 2023",
+      "VALUE DATE": "12 AUG 2023",
+      "DESCRIPTION": "POS Settlement DELIVEROO ABU DHABI AED 33.95",
+      "DEBIT": "33.95",
+      "CREDIT": "",
+      "BALANCE": "6791.15"
+    },
+    {
+      "DATE": "15 AUG 2023",
+      "VALUE DATE": "14 AUG 2023",
+      "DESCRIPTION": "POS Settlement DELIVEROO ABU DHABI AED 71.45",
+      "DEBIT": "71.45",
+      "CREDIT": "",
+      "BALANCE": "6719.7"
+    },
+    {
+      "DATE": "15 AUG 2023",
+      "VALUE DATE": "13 AUG 2023",
+      "DESCRIPTION": "POS Settlement NAMSHI DUBAI AED 305.13",
+      "DEBIT": "305.13",
+      "CREDIT": "",
+      "BALANCE": "6414.57"
+    },
+    {
+      "DATE": "15 AUG 2023",
+      "VALUE DATE": "12 AUG 2023",
+      "DESCRIPTION": "POS Settlement NAMSHI DUBAI AED 463.46",
+      "DEBIT": "463.46",
+      "CREDIT": "",
+      "BALANCE": "5951.11"
+    },
+    {
+      "DATE": "16 AUG 2023",
+      "VALUE DATE": "14 AUG 2023",
+      "DESCRIPTION": "POS Settlement DAY TO DAY HYPERMARKET DUBAI AED 130.75",
+      "DEBIT": "130.75",
+      "CREDIT": "",
+      "BALANCE": "5820.36"
+    },
+    {
+      "DATE": "16 AUG 2023",
+      "VALUE DATE": "14 AUG 2023",
+      "DESCRIPTION": "POS Settlement NAMSHI DUBAI AED 205.16",
+      "DEBIT": "205.16",
+      "CREDIT": "",
+      "BALANCE": "5615.2"
+    },
+    {
+      "DATE": "16 AUG 2023",
+      "VALUE DATE": "14 AUG 2023",
+      "DESCRIPTION": "POS Settlement NOON.COM DUBAI AED 18.76",
+      "DEBIT": "18.76",
+      "CREDIT": "",
+      "BALANCE": "5596.44"
+    },
+    {
+      "DATE": "16 AUG 2023",
+      "VALUE DATE": "16 AUG 2023",
+      "DESCRIPTION": "IPI Transfer FAB Ref: CI93918W16533291 0\nutward IPI Payment BeneIBAN: AE2604000003\n32914367001",
+      "DEBIT": "3713.0",
+      "CREDIT": "",
+      "BALANCE": "1883.44"
+    },
+    {
+      "DATE": "17 AUG 2023",
+      "VALUE DATE": "15 AUG 2023",
+      "DESCRIPTION": "POS Settlement EPPCO SITE 5558 DUBAI AED\n8.55",
+      "DEBIT": "8.55",
+      "CREDIT": "",
+      "BALANCE": "1874.89"
+    },
+    {
+      "DATE": "17 AUG 2023",
+      "VALUE DATE": "16 AUG 2023",
+      "DESCRIPTION": "POS Settlement CARS TAXI SERVICES CO DUB\nAI AED 50",
+      "DEBIT": "50.0",
+      "CREDIT": "",
+      "BALANCE": "1824.89"
+    },
+    {
+      "DATE": "17 AUG 2023",
+      "VALUE DATE": "16 AUG 2023",
+      "DESCRIPTION": "POS Settlement DUBAI TAXI DUBAI AED 71",
+      "DEBIT": "71.0",
+      "CREDIT": "",
+      "BALANCE": "1753.89"
+    },
+    {
+      "DATE": "17 AUG 2023",
+      "VALUE DATE": "15 AUG 2023",
+      "DESCRIPTION": "POS Settlement SERVICE SOUK DMCC DUBAI Α\nED 89.25",
+      "DEBIT": "89.25",
+      "CREDIT": "",
+      "BALANCE": "1664.64"
+    },
+    {
+      "DATE": "17 AUG 2023",
+      "VALUE DATE": "15 AUG 2023",
+      "DESCRIPTION": "POS Settlement www.instashop.com Dubai A\nED 45.73",
+      "DEBIT": "45.73",
+      "CREDIT": "",
+      "BALANCE": "1618.91"
+    },
+    {
+      "DATE": "17 AUG 2023",
+      "VALUE DATE": "15 AUG 2023",
+      "DESCRIPTION": "POS Settlement ES TRAINING DMCC Dubai AΑΕ\nD6",
+      "DEBIT": "6.0",
+      "CREDIT": "",
+      "BALANCE": "1612.91"
+    },
+    {
+      "DATE": "17 AUG 2023",
+      "VALUE DATE": "15 AUG 2023",
+      "DESCRIPTION": "POS Settlement SDG DubaiPay DUBAI AED 50",
+      "DEBIT": "50.0",
+      "CREDIT": "",
+      "BALANCE": "1562.91"
+    },
+    {
+      "DATE": "17 AUG 2023",
+      "VALUE DATE": "15 AUG 2023",
+      "DESCRIPTION": "POS Settlement",
+      "DEBIT": "",
+      "CREDIT": "235.78",
+      "BALANCE": "1798.69"
+    },
+    {
+      "DATE": "18 AUG 2023",
+      "VALUE DATE": "16 AUG 2023",
+      "DESCRIPTION": "POS Settlement PLP EVENTS Dubai AED 60",
+      "DEBIT": "60.0",
+      "CREDIT": "",
+      "BALANCE": "1738.69"
+    },
+    {
+      "DATE": "19 AUG 2023",
+      "VALUE DATE": "79 AUG 2023",
+      "DESCRIPTION": "POS Settlement BIG BUY MARKET DMCC Dubai\nAED 87.16",
+      "DEBIT": "87.16",
+      "CREDIT": "",
+      "BALANCE": "1651.53"
+    },
+    {
+      "DATE": "19 AUG 2023",
+      "VALUE DATE": "18 AUG 2023",
+      "DESCRIPTION": "POS Settlement ES TRAINING DMCC Dubai AE\nD6",
+      "DEBIT": "6.0",
+      "CREDIT": "",
+      "BALANCE": "1645.53"
+    },
+    {
+      "DATE": "19 AUG 2023",
+      "VALUE DATE": "17 AUG 2023",
+      "DESCRIPTION": "POS Settlement DU APPLE PAY DUBAI AED 31\n3.95",
+      "DEBIT": "313.95",
+      "CREDIT": "",
+      "BALANCE": "1331.58"
+    },
+    {
+      "DATE": "19 AUG 2023",
+      "VALUE DATE": "17 AUG 2023",
+      "DESCRIPTION": "POS Settlement",
+      "DEBIT": "",
+      "CREDIT": "99.91",
+      "BALANCE": "1431.49"
+    },
+    {
+      "DATE": "20 AUG 2023",
+      "VALUE DATE": "20 AUG 2023",
+      "DESCRIPTION": "IPI Transfer FAB Ref: CI4396E49GH50428 Outward IP Payment BeneIBAN: AE4202600010\n15840351401",
+      "DEBIT": "150.0",
+      "CREDIT": "",
+      "BALANCE": "1281.49"
+    },
+    {
+      "DATE": "21 AUG 2023",
+      "VALUE DATE": "21 AUG 2023",
+      "DESCRIPTION": "ATM Cash Deposit P32-7191 CDM MOE Branch ATM CASH DEPOSIT",
+      "DEBIT": "",
+      "CREDIT": "1300.0",
+      "BALANCE": "2581.49"
+    },
+    {
+      "DATE": "21 AUG 2023",
+      "VALUE DATE": "18 AUG 2023",
+      "DESCRIPTION": "POS Settlement Majid Al Futtaim Dubai AED 144.96",
+      "DEBIT": "144.96",
+      "CREDIT": "",
+      "BALANCE": "2436.53"
+    },
+    {
+      "DATE": "21 AUG 2023",
+      "VALUE DATE": "19 AUG 2023",
+      "DESCRIPTION": "POS Settlement NOON.COM DUBAI AED 64.95",
+      "DEBIT": "64.95",
+      "CREDIT": "",
+      "BALANCE": "2371.58"
+    },
+    {
+      "DATE": "21 AUG 2023",
+      "VALUE DATE": "19 AUG 2023",
+      "DESCRIPTION": "POS Settlement Amazon.ae Dubai AED 75.93",
+      "DEBIT": "75.93",
+      "CREDIT": "",
+      "BALANCE": "2295.65"
+    },
+    {
+      "DATE": "22 AUG 2023",
+      "VALUE DATE": "19 AUG 2023",
+      "DESCRIPTION": "POS Settlement NOON.COM DUBAI AED 23.55",
+      "DEBIT": "23.55",
+      "CREDIT": "",
+      "BALANCE": "2272.1"
+    },
+    {
+      "DATE": "22 AUG 2023",
+      "VALUE DATE": "20 AUG 2023",
+      "DESCRIPTION": "POS Settlement APPLE.COM BILL ITUNES.COM AED 24.99",
+      "DEBIT": "24.99",
+      "CREDIT": "",
+      "BALANCE": "2247.11"
+    },
+    {
+      "DATE": "23 AUG 2023",
+      "VALUE DATE": "21 AUG 2023",
+      "DESCRIPTION": "POS Settlement CARREFOUR-MOE DUBAI AED 44.95",
+      "DEBIT": "44.95",
+      "CREDIT": "",
+      "BALANCE": "2202.16"
+    },
+    {
+      "DATE": "24 AUG 2023",
+      "VALUE DATE": "22 AUG 2023",
+      "DESCRIPTION": "POS Settlement SDG DubaiPay DUBAI AED 30",
+      "DEBIT": "30.0",
+      "CREDIT": "",
+      "BALANCE": "2172.16"
+    },
+    {
+      "DATE": "24 AUG 2023",
+      "VALUE DATE": "22 AUG 2023",
+      "DESCRIPTION": "POS Settlement EPPCO-SITE 1029 DUBAI AED 70",
+      "DEBIT": "70.0",
+      "CREDIT": "",
+      "BALANCE": "2102.16"
+    },
+    {
+      "DATE": "24 AUG 2023",
+      "VALUE DATE": "22 AUG 2023",
+      "DESCRIPTION": "POS Settlement www.instashop.com Dubai AED 58.02",
+      "DEBIT": "58.02",
+      "CREDIT": "",
+      "BALANCE": "2044.14"
+    },
+    {
+      "DATE": "24 AUG 2023",
+      "VALUE DATE": "22 AUG 2023",
+      "DESCRIPTION": "POS Settlement",
+      "DEBIT": "",
+      "CREDIT": "205.22",
+      "BALANCE": "2249.36"
+    },
+    {
+      "DATE": "25 AUG 2023",
+      "VALUE DATE": "23 AUG 2023",
+      "DESCRIPTION": "POS Settlement ES TRAINING DMCC Dubai AED8",
+      "DEBIT": "8.0",
+      "CREDIT": "",
+      "BALANCE": "2241.36"
+    },
+    {
+      "DATE": "25 AUG 2023",
+      "VALUE DATE": "23 AUG 2023",
+      "DESCRIPTION": "POS Settlement PTB ES Dubai Dubai AED 2020",
+      "DEBIT": "2020.0",
+      "CREDIT": "",
+      "BALANCE": "221.36"
+    },
+    {
+      "DATE": "26 AUG 2023",
+      "VALUE DATE": "24 AUG 2023",
+      "DESCRIPTION": "POS Settlement SDG DubaiPay DUBAI AED 10",
+      "DEBIT": "10.0",
+      "CREDIT": "",
+      "BALANCE": "211.36"
+    },
+    {
+      "DATE": "26 AUG 2023",
+      "VALUE DATE": "24 AUG 2023",
+      "DESCRIPTION": "POS Settlement SDG DubaiPay DUBAI AED 10",
+      "DEBIT": "10.0",
+      "CREDIT": "",
+      "BALANCE": "201.36"
+    },
+    {
+      "DATE": "28 AUG 2023",
+      "VALUE DATE": "25 AUG 2023",
+      "DESCRIPTION": "POS Settlement www.instashop.com Dubai A",
+      "DEBIT": "120.21",
+      "CREDIT": "",
+      "BALANCE": "81.15"
+    }
+  ]
+}

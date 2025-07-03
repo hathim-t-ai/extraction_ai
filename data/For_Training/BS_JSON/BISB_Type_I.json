@@ -1,0 +1,340 @@
+{
+  "transactions": [
+    {
+      "Transaction Date": "16 Sep 22",
+      "Description": "BPA2301166989723-Fawri+ Payment From IBAN: BH71BBKU00200007843471-97333125665",
+      "Debit Amount": "0",
+      "Credit Amount": "5.0",
+      "Balance": "5.0"
+    },
+    {
+      "Transaction Date": "18 Sep 22",
+      "Description": "BP1674047546Q8DI-FAWRI+ Payment to BH83BIBB00100000893861-97337514614",
+      "Debit Amount": "3.0",
+      "Credit Amount": "0",
+      "Balance": "2.0"
+    },
+    {
+      "Transaction Date": "18 Sep 22",
+      "Description": "BIB 103HRE0059HGI-Fawri+ Payment From IBAN: BH83BIBB00100000893861-97339551764",
+      "Debit Amount": "0",
+      "Credit Amount": "2.7",
+      "Balance": "4.7"
+    },
+    {
+      "Transaction Date": "18 Sep 22",
+      "Description": "BP1674051896JN1F-FAWRI+ Payment to BH69KFHO00602000027232-97337514614",
+      "Debit Amount": "0.1",
+      "Credit Amount": "0",
+      "Balance": "4.6"
+    },
+    {
+      "Transaction Date": "18 Sep 22",
+      "Description": "BP16740690568T8U-FAWRI+ Payment to BH10BIBB00100001162216-97337514614",
+      "Debit Amount": "0.6",
+      "Credit Amount": "0",
+      "Balance": "4.0"
+    },
+    {
+      "Transaction Date": "19 Sep 22",
+      "Description": "BP1674095708D6WT-FAWRI+ Payment to BH85BIBB00200001720066-97337514614",
+      "Debit Amount": "0.1",
+      "Credit Amount": "0",
+      "Balance": "3.9"
+    },
+    {
+      "Transaction Date": "19 Sep 22",
+      "Description": "BP16740959064JUR-FAW RI+ Payment to BH10BIBB00100001162216-973375146 14",
+      "Debit Amount": "0.3",
+      "Credit Amount": "0",
+      "Balance": "3.6"
+    },
+    {
+      "Transaction Date": "19 Sep 22",
+      "Description": "BP167409650709ZM-FAWRI+ Payment to BH10BIBB00100001162216-97337514614",
+      "Debit Amount": "0.5",
+      "Credit Amount": "0",
+      "Balance": "3.1"
+    },
+    {
+      "Transaction Date": "19 Sep 22",
+      "Description": "BP1674114032X3TH-FAWRI+ Payment to BH33BIBB00100001360652-97337514614",
+      "Debit Amount": "0.2",
+      "Credit Amount": "0",
+      "Balance": "2.9"
+    },
+    {
+      "Transaction Date": "19 Sep 22",
+      "Description": "BP1674138903DAHY-FAWRI+ Payment to BH86ABCO55651069101001-97337514614",
+      "Debit Amount": "0.1",
+      "Credit Amount": "0",
+      "Balance": "2.8"
+    },
+    {
+      "Transaction Date": "20 Sep 22",
+      "Description": "Purchases & Services- NESTO HYPERMARKET - S BAHRAIN BH",
+      "Debit Amount": "1.45",
+      "Credit Amount": "0",
+      "Balance": "1.35"
+    },
+    {
+      "Transaction Date": "20 Sep 22",
+      "Description": "BP16742299893XBW-FAWRI+ Payment to BH10BIBB00100001162216-97337514614",
+      "Debit Amount": "0.6",
+      "Credit Amount": "0",
+      "Balance": "0.75"
+    },
+    {
+      "Transaction Date": "22 Sep 22",
+      "Description": "BP16744061683WGZ-FAWRI+ Payment to BH85BIBB00200001720066-97337514614",
+      "Debit Amount": "0.3",
+      "Credit Amount": "0",
+      "Balance": "0.45"
+    },
+    {
+      "Transaction Date": "31 Sep 22",
+      "Description": "NBB310123ON4KIQS-Fawri+ Payment From IBAN: BH34NBOB00001025138805-97334013174",
+      "Debit Amount": "0",
+      "Credit Amount": "53.0",
+      "Balance": "53.45"
+    },
+    {
+      "Transaction Date": "31 Sep 22",
+      "Description": "BP1675166653MGBQ-FAWRI+ Payment to BH27GULF00039900030261-97337514614",
+      "Debit Amount": "6.0",
+      "Credit Amount": "0",
+      "Balance": "47.45"
+    },
+    {
+      "Transaction Date": "31 Sep 22",
+      "Description": "BP1675167476H8TN-FAWRI+ Payment to BH34NBOB00000259256196-97337514614",
+      "Debit Amount": "0.9",
+      "Credit Amount": "0",
+      "Balance": "46.55"
+    },
+    {
+      "Transaction Date": "31 Sep 22",
+      "Description": "BP167517884872LA-FAWRI+ Payment to BH71BBKU00200007843471-97337514614",
+      "Debit Amount": "20.0",
+      "Credit Amount": "0",
+      "Balance": "26.55"
+    },
+    {
+      "Transaction Date": "01 Oct 22",
+      "Description": "NBB0102230 N4T8HZ-Fawri+ Payment From IBAN: BH34NBOB00001025138805-97334013174",
+      "Debit Amount": "0",
+      "Credit Amount": "30.0",
+      "Balance": "56.55"
+    },
+    {
+      "Transaction Date": "01 Oct 22",
+      "Description": "BP1675275584DL1J-FAWRI+ Payment to BH34NBOB00001025138805-97337514614",
+      "Debit Amount": "30.0",
+      "Credit Amount": "0",
+      "Balance": "26.55"
+    },
+    {
+      "Transaction Date": "01 Oct 22",
+      "Description": "BP167527720311XH-FAW RI+ Payment to BH34NBOB00001025138805-97337514614",
+      "Debit Amount": "25.0",
+      "Credit Amount": "0",
+      "Balance": "1.55"
+    },
+    {
+      "Transaction Date": "01 Oct 22",
+      "Description": "BP1675277828FGT3-FAWRI+ Payment to BH33BIBB00100001360652-97337514614",
+      "Debit Amount": "0.15",
+      "Credit Amount": "0",
+      "Balance": "1.4"
+    },
+    {
+      "Transaction Date": "04 Nov 22",
+      "Description": "BP1675480149Q7KY-FAWRI+ Payment to BH10BIBB00100001162216-97337514614",
+      "Debit Amount": "0.5",
+      "Credit Amount": "0",
+      "Balance": "0.9"
+    },
+    {
+      "Transaction Date": "04 Nov 22",
+      "Description": "ΒΡΑ2302040233617-Fawri+ Payment From IBAN: BH71BBKU00200007843471-97333125665",
+      "Debit Amount": "0",
+      "Credit Amount": "30.0",
+      "Balance": "30.9"
+    },
+    {
+      "Transaction Date": "04 Nov 22",
+      "Description": "BP16755392040NMA-FAWRI+ Payment to BH32ALSA00642197150000-97337514614",
+      "Debit Amount": "0.9",
+      "Credit Amount": "0",
+      "Balance": "30.0"
+    },
+    {
+      "Transaction Date": "06 Dec 22",
+      "Description": "BP1675671751G2KA-FAWRI+ Payment to BH71BBKU00200007843471-97337514614",
+      "Debit Amount": "30.0",
+      "Credit Amount": "0",
+      "Balance": "0.0"
+    },
+    {
+      "Transaction Date": "06 Dec 22",
+      "Description": "ΒΡΑ2302060481605-Fawri+ Payment From IBAN: BH71BBKU00200007843471-97333125665",
+      "Debit Amount": "0",
+      "Credit Amount": "30.0",
+      "Balance": "30.0"
+    },
+    {
+      "Transaction Date": "07 Dec 22",
+      "Description": "BP1675790576QOX6-FAWRI+ Payment to BH71BBKU00200007843471-97337514614",
+      "Debit Amount": "30.0",
+      "Credit Amount": "0",
+      "Balance": "0.0"
+    },
+    {
+      "Transaction Date": "10 Jan 23",
+      "Description": "ALS103HS100200EF-Fawri+ Payment From IBAN: BH90ALSA00721181150000-97337764450",
+      "Debit Amount": "0",
+      "Credit Amount": "8.0",
+      "Balance": "8.0"
+    },
+    {
+      "Transaction Date": "10 Jan 23",
+      "Description": "BP1676031562EPOR-FAWRI+ Payment to BH32ALSA00642197150000-97337514614",
+      "Debit Amount": "8.0",
+      "Credit Amount": "0",
+      "Balance": "0.0"
+    },
+    {
+      "Transaction Date": "01 Feb 23",
+      "Description": "Deposit-BISB MAIN DEPOSIT >BAHRAIN DEFAUBH",
+      "Debit Amount": "0",
+      "Credit Amount": "111.0",
+      "Balance": "111.0"
+    },
+    {
+      "Transaction Date": "01 Feb 23",
+      "Description": "Current A/C Minimum Balance 01 Feb 23",
+      "Debit Amount": "1.1",
+      "Credit Amount": "0",
+      "Balance": "109.9"
+    },
+    {
+      "Transaction Date": "23 Mar 23",
+      "Description": "BP1679571361BARQ-FAWRI+ Payment to BH92BBKU00200004837451-97337514614",
+      "Debit Amount": "2.5",
+      "Credit Amount": "0",
+      "Balance": "107.4"
+    },
+    {
+      "Transaction Date": "23 Mar 23",
+      "Description": "BP1679571809VSTI-FAWRI+ Payment to BH13AUBB00020296900300-97337514614",
+      "Debit Amount": "0.7",
+      "Credit Amount": "0",
+      "Balance": "106.7"
+    },
+    {
+      "Transaction Date": "23 Mar 23",
+      "Description": "BP16795810837EVT-FAWRI+ Payment to BH34NBOB00001025138805-97337514614",
+      "Debit Amount": "3.0",
+      "Credit Amount": "0",
+      "Balance": "103.7"
+    },
+    {
+      "Transaction Date": "23 Mar 23",
+      "Description": "BP1679588703BVHU-FAWRI+ Payment to BH37BIBB00100000923595-97337514614",
+      "Debit Amount": "1.0",
+      "Credit Amount": "0",
+      "Balance": "102.7"
+    },
+    {
+      "Transaction Date": "23 Mar 23",
+      "Description": "BP1679602018WMIA-FAWRI+ Payment to BH43BBKU00200008169507-97337514614",
+      "Debit Amount": "3.4",
+      "Credit Amount": "0",
+      "Balance": "99.3"
+    },
+    {
+      "Transaction Date": "24 Mar 23",
+      "Description": "Withdrawal- NBB-BFC MΑΝΑΜΑ-9927 Manama BH",
+      "Debit Amount": "50.0",
+      "Credit Amount": "0",
+      "Balance": "49.3"
+    },
+    {
+      "Transaction Date": "24 Mar 23",
+      "Description": "BP1679662761K6BG-FAWRI+ Payment to BH18BIBB00100001375375-97337514614",
+      "Debit Amount": "48.0",
+      "Credit Amount": "0",
+      "Balance": "1.3"
+    },
+    {
+      "Transaction Date": "26 Mar 23",
+      "Description": "BP1679858964A81B-FAWRI+ Payment to BH10BIBB00100001162216-97337514614",
+      "Debit Amount": "0.3",
+      "Credit Amount": "0",
+      "Balance": "1.0"
+    },
+    {
+      "Transaction Date": "27 Mar 23",
+      "Description": "BP16799473158GJ2-FAWRI+ Payment to BH33BIBB00100001360652-97337514614",
+      "Debit Amount": "0.2",
+      "Credit Amount": "0",
+      "Balance": "0.8"
+    },
+    {
+      "Transaction Date": "28 Mar 23",
+      "Description": "BP1679964229IK0B-FAWRI+ Payment to BH10BIBB00100001162216-97337514614",
+      "Debit Amount": "0.5",
+      "Credit Amount": "0",
+      "Balance": "0.3"
+    },
+    {
+      "Transaction Date": "28 Mar 23",
+      "Description": "BP168003051243WH-FAWRI+ Payment to BH39ABCO55408859101001-97337514614",
+      "Debit Amount": "0.3",
+      "Credit Amount": "0",
+      "Balance": "0.0"
+    },
+    {
+      "Transaction Date": "30 Mar 23",
+      "Description": "NBB3003230 NFE000-Fawri+ Payment From IBAN: BH34NBOB00001025138805-97334013174",
+      "Debit Amount": "0",
+      "Credit Amount": "27.0",
+      "Balance": "27.0"
+    },
+    {
+      "Transaction Date": "30 Mar 23",
+      "Description": "NBB300323ONFGBKL-Fawri+ Payment From IBAN: BH62NBOB00000290342252-97339624605",
+      "Debit Amount": "0",
+      "Credit Amount": "187.0",
+      "Balance": "214.0"
+    },
+    {
+      "Transaction Date": "30 Mar 23",
+      "Description": "Withdrawal-NBB-LULU RAOD ATM-249ΜΑΝΑΜΑ ΒΗ",
+      "Debit Amount": "100.0",
+      "Credit Amount": "",
+      "Balance": "114.0"
+    },
+    {
+      "Transaction Date": "31 Mar 23",
+      "Description": "BP1680265579TR0S-FAWRI+ Payment to BH21KFHO00602000488264-97337514614",
+      "Debit Amount": "18.0",
+      "Credit Amount": "",
+      "Balance": "96.0"
+    },
+    {
+      "Transaction Date": "31 Mar 23",
+      "Description": "Deposit-BISB MAIN DEPOSIT >BAHRAIN DEFAUBH",
+      "Debit Amount": "",
+      "Credit Amount": "100.0",
+      "Balance": "196.0"
+    },
+    {
+      "Transaction Date": "31 Mar 23",
+      "Description": "BP1680270968MZNO-FAWRI+ Payment to BH14CITI00006000680138-97337514614",
+      "Debit Amount": "169.0",
+      "Credit Amount": "",
+      "Balance": "27.0"
+    }
+  ]
+}

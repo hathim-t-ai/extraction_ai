@@ -1,0 +1,100 @@
+{
+  "transactions": [
+    {
+      "Transaction Date": "02-12-2022",
+      "Value Date": "02-12-2022",
+      "Description": "PAYROLL BSF CREDIT /PAY-BSF HEAD-OFFICE ALMAATHAR ST. RIYADH /Ref#PP00152789/13:40/SAR15218 /REM: AQUAT FOOD INDUSTRIES CO.LTD. /BSFR",
+      "Debit": "",
+      "Credit": "15218.0",
+      "Balance": "16026.5"
+    },
+    {
+      "Transaction Date": "04-12-2022",
+      "Value Date": "04-12-2022",
+      "Description": "Outward Transfer - Local - Instant Payment BSF/MBK-168-Digital services - Fransi Mobile /REF#168TT1ADF2876/IPS REF#IPSA#20228475SABSFRBSFR2MHYTR8 1609227518/ Transaction Initiated Date and Time: 04-12-2023 12:30 /SAR1,800.00",
+      "Debit": "1800.0",
+      "Credit": "",
+      "Balance": "14226.5"
+    },
+    {
+      "Transaction Date": "05-12-2022",
+      "Value Date": "05-12-2022",
+      "Description": "MOI SNB ST:4743051792 B:2547013579 B/S:090/004",
+      "Debit": "200.0",
+      "Credit": "",
+      "Balance": "14026.5"
+    },
+    {
+      "Transaction Date": "11-12-2022",
+      "Value Date": "11-12-2022",
+      "Description": "ATM WITHDDRAWAL\\\\JEDDAH KSA /SA /POS#82842679/RAJB-AL RAJHI BANK /Ref#025715/ Transaction Initiated Date and Time: 11/12/2022 22:48/Date (Debit):11-12-2022",
+      "Debit": "11000.0",
+      "Credit": "",
+      "Balance": "3026.5"
+    },
+    {
+      "Transaction Date": "25-12-2022",
+      "Value Date": "25-12-2022",
+      "Description": "SPAN PUR POS-23175183 000 BSF 440647xxxxxx6167 R:221851375 AWFARR SRORES COMMERCI\\\\JEDDAH ‫ يبلا طاقن نايس ءارش‬63024857 36578 :4406470525478565 ‫ةراشلا‬",
+      "Debit": "100.8",
+      "Credit": "",
+      "Balance": "2926.5"
+    },
+    {
+      "Transaction Date": "30-12-2022",
+      "Value Date": "30-12-2022",
+      "Description": "MADA Internet Purchase /SAR379.00 ExRate 1/BSF Mada Card No#**167 /Mobily Pay \\\\Riyadh KSA /POS#25718569 /SNB BANK /Ref#004929/ Transaction Initiated Date and Time: 30/12/2022 9:33/ Due Date(Debit):30-12-2022/ Due Date(Credit):30-12-2022",
+      "Debit": "378.8",
+      "Credit": "",
+      "Balance": "2547.7"
+    },
+    {
+      "Transaction Date": "02-01-2023",
+      "Value Date": "02-01-2023",
+      "Description": "PAYROLL BSF CREDIT /PAY-BSF HEAD-OFFICE ALMAATHAR ST.- RIYADH /Ref#PP00407776 /14:09 /SAR15,218 /REM: AQUAT FOOD INDUSTRIES CO.LTD. /BSFR",
+      "Debit": "",
+      "Credit": "15218.0",
+      "Balance": "17765.7"
+    },
+    {
+      "Transaction Date": "05-01-2023",
+      "Value Date": "05-01-2023",
+      "Description": "Outward Transfer - Local - Instant Payment BSF/MBK-168-Digital services - Fransi Mobile /REF#168TT1ADF2623/IPS REF#IPSA#20230706SABSFRBSFR2BMBK11609258612 / Transaction Initiated Date and Time: 05-01-2023 16:11 /SAR5,750.00",
+      "Debit": "5750.5",
+      "Credit": "",
+      "Balance": "12015.2"
+    },
+    {
+      "Transaction Date": "16-01-2023",
+      "Value Date": "16-01-2023",
+      "Description": "MOI SNB ST:4743063623 B:2547518809 B/S:090/004",
+      "Debit": "200.0",
+      "Credit": "",
+      "Balance": "11815.5"
+    },
+    {
+      "Transaction Date": "20-01-2023",
+      "Value Date": "20-01-2023",
+      "Description": "SPAN PUR POS-SABS2103 000 BSF 440647xxxxxx6167 R:315369871258 STC ‫طاقن تابس ءارش‬ ‫ عيبلا‬21034406470077506167 04966 :‫ةراشلا‬",
+      "Debit": "2255.0",
+      "Credit": "",
+      "Balance": "9560.5"
+    },
+    {
+      "Transaction Date": "27-01-2023",
+      "Value Date": "27-01-2023",
+      "Description": "SPAN PUR POS- 000 BSF 440647xxxxxx6167 R:65278524972 AWFARR SRORES COMMERCI\\JEDDAH ‫ عيبلا طاقن تايس ءارش‬63028957 36578 :4406470077506167 ‫ةراشلا‬",
+      "Debit": "505.5",
+      "Credit": "",
+      "Balance": "9055.0"
+    },
+    {
+      "Transaction Date": "02-02-2023",
+      "Value Date": "02-02-2023",
+      "Description": "PAYROLL BSF CREDIT /PAY-BSF HEAD-OFFICE ALMAATHAR ST.- RIYADH /Ref#PP00253489 /15:30 /SAR15,218 /REM: AQUAT FOOD INDUSTRIES CO.LTD. /BSFR",
+      "Debit": "",
+      "Credit": "15218.0",
+      "Balance": "24273.65"
+    }
+  ]
+}

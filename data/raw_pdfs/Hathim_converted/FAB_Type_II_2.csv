@@ -1,0 +1,33 @@
+closing_balance,30465.38
+opening_balance,42456.81
+page_number,2.0
+statement_end_date,11 SEP 2023
+statement_start_date,01 SEP 2023
+SearchablePDF.name,FAB_Type_II_2.png_searchable.pdf
+SearchablePDF.url,https://api.parseur.com/document/9VZXt8GCbik36wmGT6E0iJ97rFltvCgTysVjD1FfYI9wk_lgUDa.D0qnv1pPCF_1/searchable_pdf/FAB_Type_II_2.png_searchable.pdf
+SearchablePDF.content_type,application/pdf
+SearchablePDF.size,257103
+Template,
+ParsingEngine,AI
+
+transactions
+balance,debit,description,transaction_date,credit
+42456.81,12.0,Debit Card Transaction-AL GHAZAL TRANSPORT Abu Dhabi,04 SEP 2023,
+42374.49,82.32,Debit Card Transaction-AL MADINA FRESH MART Abu Dhabi,05 SEP 2023,
+42249.58,124.91,Debit Card Transaction-AL MADINA FRESH MART Abu Dhabi,05 SEP 2023,
+42237.58,12.0,Debit Card Transaction-NATIONAL TAXI Abu Dhabi,05 SEP 2023,
+42214.58,23.0,Debit Card Transaction-BAQALA SAFARI ABU DHABI,05 SEP 2023,
+41963.89,250.69,Utility Payment-0554205770-MBL,08 SEP 2023,
+41010.7,953.19,Utility Payment-7169001018-MBL,08 SEP 2023,
+40581.25,429.45,Utility Payment-024436811-MBL,08 SEP 2023,
+40891.25,,Inward IPI Payment-IPI Ref: IPI23090803VWNYK Remitter Info: MOHAMMAD ZIAD HALLOUSH Sender: ABDIAEAD Value Date: 08-09-2,08 SEP 2023,310.0
+31291.25,9600.0,ATM Cash Withdrawal-FAB,09 SEP 2023,
+30991.25,300.0,ATM Cash Withdrawal-FAB,10 SEP 2023,
+30971.25,20.0,Debit Card Transaction-AD SPECIALITY HOSPITAL Abu Dhabi,11 SEP 2023,
+30959.25,12.0,Debit Card Transaction-CARS TAXI Abu Dhabi,11 SEP 2023,
+30939.25,20.0,Debit Card Transaction-AD SPECIALITY HOSPITAL Abu Dhabi,11 SEP 2023,
+30894.73,44.52,Debit Card Transaction-NPCL Abu Dhabi,11 SEP 2023,
+30739.38,155.35,Debit Card Transaction- LULUHYPERMARKET MADINA ABU DHABI,11 SEP 2023,
+30727.38,12.0,Debit Card Transaction-TAWASUL TRANSPORT LLC Abu Dhabi,11 SEP 2023,
+30715.38,12.0,Debit Card Transaction-AL GHAZAL TRANSPORT Abu Dhabi,11 SEP 2023,
+30465.38,250.0,Debit Card Transaction-ABU DHABI HEALTH SER. ABU DHABI,11 SEP 2023,

@@ -1,0 +1,144 @@
+{
+  "transactions": [
+    {
+      "Date": "02-02-2024",
+      "Description": "DR ATM TRANSACTION CARD ΝΟ.4439110143664282 9087 02-02-2024 12:11:31 E4010774",
+      "Debits": "100.0",
+      "Credits": "0.0",
+      "Balance": "20115.15"
+    },
+    {
+      "Date": "05-02-2024",
+      "Description": "POS-PURCHASE CARD NO.4439110143664282 REDSPRINGS ROSE CATERING ABU DHABI:AE",
+      "Debits": "90.0",
+      "Credits": "0.0",
+      "Balance": "20025.15"
+    },
+    {
+      "Date": "09-02-2024",
+      "Description": "DR ATM TRANSACTION CARD ΝΟ.4439110143664282 5793 09-02-2024 09:24:45 E4010857",
+      "Debits": "200.0",
+      "Credits": "0.0",
+      "Balance": "19825.15"
+    },
+    {
+      "Date": "14-02-2024",
+      "Description": "DR ATM TRANSACTION CARD NO.44391101436642827713 14-02-2024 08:01:33 E4010774",
+      "Debits": "300.0",
+      "Credits": "0.0",
+      "Balance": "19525.15"
+    },
+    {
+      "Date": "17-02-2024",
+      "Description": "POS-PURCHASE CARD NO.4439110143664282 VIVA DUBAI: AE 140723 17-02-2024 12:52",
+      "Debits": "50.0",
+      "Credits": "0.0",
+      "Balance": "19475.15"
+    },
+    {
+      "Date": "20-02-2024",
+      "Description": "SERVICE CHGS-ATM CARD ΝΟ. 498779XXXXXXX1396 00000000004282 20-02-2024 07:24",
+      "Debits": "2.0",
+      "Credits": "0.0",
+      "Balance": "19473.15"
+    },
+    {
+      "Date": "23-02-2024",
+      "Description": "POS-PURCHASE CARD ΝΟ. 4439110143664282 TABAQ ALHEJAZI AL RAQI RE SHARAJAH",
+      "Debits": "100.0",
+      "Credits": "0.0",
+      "Balance": "19373.45"
+    },
+    {
+      "Date": "25-02-2024",
+      "Description": "SALARY CREDIT SALARY From 0000000746383 For the Month 012024 For 026231010093403",
+      "Debits": "0.0",
+      "Credits": "6500.0",
+      "Balance": "25873.15"
+    },
+    {
+      "Date": "26-02-2024",
+      "Description": "BANKNET PYMT-TEL ETISALAT ΝΟ: -067460948 TXNID- 08467687798348937424 BNK",
+      "Debits": "150.0",
+      "Credits": "0.0",
+      "Balance": "25723.15"
+    },
+    {
+      "Date": "27-02-2024",
+      "Description": "POS-PURCHASE CARD ΝΟ. 4439110143664282 ADNOC SHAHAMAS/S482 ABU DHABI: AE",
+      "Debits": "100.0",
+      "Credits": "0.0",
+      "Balance": "25623.15"
+    },
+    {
+      "Date": "28-02-2024",
+      "Description": "UAE SWITCH WDL 000000000004282 28-02-2024 07:48:23 SHARJAH AE N40000404",
+      "Debits": "200.0",
+      "Credits": "0.0",
+      "Balance": "25423.15"
+    },
+    {
+      "Date": "03-03-2024",
+      "Description": "POS-PURCHASE CARD ΝΟ. 4439110143664282 VIVA DUBAI: AE140723 03-03-2024 12.04",
+      "Debits": "67.0",
+      "Credits": "0.0",
+      "Balance": "25356.15"
+    },
+    {
+      "Date": "05-03-2024",
+      "Description": "DR ATM TRANSACTION CARD NO.4439110143664282 5793 05-03-2024 12:10:18 E4010774",
+      "Debits": "100.0",
+      "Credits": "0.0",
+      "Balance": "25256.15"
+    },
+    {
+      "Date": "08-03-2024",
+      "Description": "POS-PURCHASE CARD ΝΟ. 4439110143664282 REDSPRINGS ROSE CATERING ABU DHABI:AE",
+      "Debits": "50.0",
+      "Credits": "0.0",
+      "Balance": "25206.15"
+    },
+    {
+      "Date": "11-03-2024",
+      "Description": "DR ATM TRANSACTION CARD ΝΟ.4439110143664282 5113 11-03-2024 09:24:45 E406879",
+      "Debits": "200.0",
+      "Credits": "0.0",
+      "Balance": "25006.15"
+    },
+    {
+      "Date": "12-03-2024",
+      "Description": "SERVICE CHGS-ATM CARD ΝΟ. 498779XXXXXXX1396 000000000009578 12-03-2024 09:30",
+      "Debits": "2.0",
+      "Credits": "0.0",
+      "Balance": "25004.15"
+    },
+    {
+      "Date": "15-03-2024",
+      "Description": "POS-PURCHASE CARD ΝΟ. 4439110143664282 TABAQ ALHEJAZI AL RAQI RE SHARAJAH",
+      "Debits": "133.67",
+      "Credits": "0.0",
+      "Balance": "24870.48"
+    },
+    {
+      "Date": "18-03-2024",
+      "Description": "DR ATM TRANSACTION CARD ΝΟ.4439110143664282 5849 18-03-2024 10:45:52 E4010774",
+      "Debits": "400.0",
+      "Credits": "0.0",
+      "Balance": "24470.48"
+    },
+    {
+      "Date": "19-03-2024",
+      "Description": "BANKNET PYMT-TEL ETISALAT ΝΟ: -067460948 TXNID- 0004378682657889859 BNK",
+      "Debits": "150.0",
+      "Credits": "0.0",
+      "Balance": "24320.48"
+    },
+    {
+      "Date": "21-03-2024",
+      "Description": "DR ATM TRANSACTION CARD NO.4439110143664282 6613 21-03-2024 09:24:45 E4010857",
+      "Debits": "100.0",
+      "Credits": "0.0",
+      "Balance": "24220.48"
+    }
+  ]
+}

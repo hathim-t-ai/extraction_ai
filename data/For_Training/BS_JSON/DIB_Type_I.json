@@ -1,0 +1,193 @@
+{
+  "transactions": [
+    {
+      "Trans Date": "14/09/2021",
+      "Value Date": "14/09/2021",
+      "Chq/Ref No": "997001n212572816",
+      "Particulars": "ELECTRON DEBIT CARD TRANSACTION BIN AZZI GROCERY Abu Dhabi AE 456835XXXXXX1344",
+      "Debit": "5.0",
+      "Credit": "",
+      "Balance": "0.54"
+    },
+    {
+      "Trans Date": "27/09/2021",
+      "Value Date": "27/09/2021",
+      "Chq/Ref No": "001MBFT212702269",
+      "Particulars": "MB Fund Transfer Credit FROM 044520172051801 ΤΟ 010520175098501:FROM 044520172051801 ΤΟ 010520175098501:friend",
+      "Debit": "",
+      "Credit": "50.0",
+      "Balance": "50.54"
+    },
+    {
+      "Trans Date": "01/10/2021",
+      "Value Date": "01/10/2021",
+      "Chq/Ref No": "99700h9212746410",
+      "Particulars": "ELECTRON DEBIT CARD TRANSACTION EMIRATES DRAW LLC DXB ΑΕ 456835XXXXXX1344",
+      "Debit": "50.0",
+      "Credit": "",
+      "Balance": "0.54"
+    },
+    {
+      "Trans Date": "06/10/2021",
+      "Value Date": "06/10/2021",
+      "Chq/Ref No": "997086c212790424",
+      "Particulars": "SALARY WPS SALARY[2021/09/01-2021/09/30-024 0240000000001276121003575062.F AF-024211006145030.PRC-1002610 8975809-100810101-AL MARIAH UNITED GROUP]",
+      "Debit": "",
+      "Credit": "4011.0",
+      "Balance": "4011.54"
+    },
+    {
+      "Trans Date": "07/10/2021",
+      "Value Date": "07/10/2021",
+      "Chq/Ref No": "999ZATM212800UQT",
+      "Particulars": "ATM CASH WITHDRAWAL 20211007 06:54:27 PM - 00008761- 8761           DIB DEERFIELDS MALL BR ABU DHABI AE? - 128018507636",
+      "Debit": "3800.0",
+      "Credit": "",
+      "Balance": "211.54"
+    },
+    {
+      "Trans Date": "12/10/2021",
+      "Value Date": "12/10/2021",
+      "Chq/Ref No": "999ZATM2128506B5",
+      "Particulars": "SWITCH ATM CASH WITHDRAWAL 20211012 10:18:28 - 784564141 - ADCB               - ADCB ABU DHABI UAEAE - 000000008292",
+      "Debit": "102.0",
+      "Credit": "",
+      "Balance": "109.54"
+    },
+    {
+      "Trans Date": "16/10/2021",
+      "Value Date": "16/10/2021",
+      "Chq/Ref No": "044MBFT212890136",
+      "Particulars": "MB Fund Transfer Credit FROM 044520172051801 ΤΟ 010520175098501:friend",
+      "Debit": "",
+      "Credit": "50.0",
+      "Balance": "159.54"
+    },
+    {
+      "Trans Date": "19/10/2021",
+      "Value Date": "19/10/2021",
+      "Chq/Ref No": "997001w212921751",
+      "Particulars": "ELECTRON DEBIT CARD TRANSACTION EMIRATES DRAW LLC DXB ΑΕ 456835XXXXXX1344",
+      "Debit": "50.0",
+      "Credit": "",
+      "Balance": "109.54"
+    },
+    {
+      "Trans Date": "26/10/2021",
+      "Value Date": "26/10/2021",
+      "Chq/Ref No": "001MBFT212991860",
+      "Particulars": "MB Fund Transfer Debit FROM 010520175098501 ΤΟ 044520172051801:FROM 010520175098501 ΤΟ 044520172051801:family friend",
+      "Debit": "102.0",
+      "Credit": "",
+      "Balance": "7.54"
+    },
+    {
+      "Trans Date": "29/10/2021",
+      "Value Date": "29/10/2021",
+      "Chq/Ref No": "997001e213025350",
+      "Particulars": "ELECTRON DEBIT CARD TRANSACTION BIN AZZI GROCERY Abu Dhabi       AE 456835XXXXXX1344",
+      "Debit": "7.0",
+      "Credit": "",
+      "Balance": "0.54"
+    },
+    {
+      "Trans Date": "04/11/2021",
+      "Value Date": "04/11/2021",
+      "Chq/Ref No": "99705ez213080429",
+      "Particulars": "SALARY WPS SALARY[2021/10/01-2021/10/31-024 0240000000001276121003945551.P AF-024211104121331.PRC-1002610 8975809-100810101-AL MARIAH UNITED GROUP]",
+      "Debit": "",
+      "Credit": "1569.0",
+      "Balance": "1569.54"
+    },
+    {
+      "Trans Date": "04/11/2021",
+      "Value Date": "04/11/2021",
+      "Chq/Ref No": "999ZATM213080JFB",
+      "Particulars": "SWITCH ATM CASH WITHDRAWAL 20211104 02:38:20 - 784564141 - ADCB              - ADCB ABU DHABI UAEAE - 000000008841",
+      "Debit": "202.0",
+      "Credit": "",
+      "Balance": "1367.54"
+    },
+    {
+      "Trans Date": "05/11/2021",
+      "Value Date": "05/11/2021",
+      "Chq/Ref No": "997BECU212991598",
+      "Particulars": "ATM BALANCE ENQUIRY CHARGE 20211026 11:01:53 784564141 - 000000008522 - ADCB ABU DHABI UAEAE",
+      "Debit": "1.0",
+      "Credit": "",
+      "Balance": "1366.54"
+    },
+    {
+      "Trans Date": "05/11/2021",
+      "Value Date": "05/11/2021",
+      "Chq/Ref No": "997DTCU212991089",
+      "Particulars": "ATM DECLINE TRANSACTION CHARGE 20211026 10:04:32 - 784564141 - 000000008519-ADCB ABU DHABI UAEAE",
+      "Debit": "1.0",
+      "Credit": "",
+      "Balance": "1365.54"
+    },
+    {
+      "Trans Date": "05/11/2021",
+      "Value Date": "05/11/2021",
+      "Chq/Ref No": "997DTCU212991090",
+      "Particulars": "ATM DECLINE TRANSACTION CHARGE 20211026 10:04:56 784564141 - 000000008520 - ADCB ABU DHABI UAEAE",
+      "Debit": "1.0",
+      "Credit": "",
+      "Balance": "1364.54"
+    },
+    {
+      "Trans Date": "05/11/2021",
+      "Value Date": "05/11/2021",
+      "Chq/Ref No": "997DTCU212991091",
+      "Particulars": "ATM DECLINE TRANSACTION CHARGE 20211026 11:02:13-784564141 - 000000008523 - ADCB ABU DHABI UAEAE",
+      "Debit": "1.0",
+      "Credit": "",
+      "Balance": "1363.54"
+    },
+    {
+      "Trans Date": "05/11/2021",
+      "Value Date": "05/11/2021",
+      "Chq/Ref No": "997DTCU212991092",
+      "Particulars": "ATM DECLINE TRANSACTION CHARGE 20211026 11:58:49 784564141 - 000000008524 - ADCB ABU DHABI UAEAE",
+      "Debit": "1.0",
+      "Credit": "",
+      "Balance": "1362.54"
+    },
+    {
+      "Trans Date": "05/11/2021",
+      "Value Date": "05/11/2021",
+      "Chq/Ref No": "997DTCU212991093",
+      "Particulars": "ATM DECLINE TRANSACTION CHARGE 20211026 11:59:10-784564141 - 000000008525 - ADCB ABU DHABI UAEAE",
+      "Debit": "1.0",
+      "Credit": "",
+      "Balance": "1361.54"
+    },
+    {
+      "Trans Date": "06/11/2021",
+      "Value Date": "06/11/2021",
+      "Chq/Ref No": "999ZATM213100KRM",
+      "Particulars": "SWITCH ATM CASH WITHDRAWAL 20211106 03:28:30- 784564141 - ADCB               - ADCB ABU DHABI UAEAE-000000008897",
+      "Debit": "102.0",
+      "Credit": "",
+      "Balance": "1259.54"
+    },
+    {
+      "Trans Date": "09/11/2021",
+      "Value Date": "09/11/2021",
+      "Chq/Ref No": "997001m213132090",
+      "Particulars": "ELECTRON DEBIT CARD TRANSACTION BANIYAS COOP SOCIETY Abu Dhabi AE 456835XXXXXX1344",
+      "Debit": "44.9",
+      "Credit": "",
+      "Balance": "1214.64"
+    },
+    {
+      "Trans Date": "12/11/2021",
+      "Value Date": "12/11/2021",
+      "Chq/Ref No": "999ZATM213160LCC",
+      "Particulars": "SWITCH ATM CASH WITHDRAWAL 20211112 05:48:35-784450905 - E4011649            - EMIRATES BANK INTL ABU DHABI AUHAE- 000000004907",
+      "Debit": "202.0",
+      "Credit": "",
+      "Balance": "1012.64"
+    }
+  ]
+}

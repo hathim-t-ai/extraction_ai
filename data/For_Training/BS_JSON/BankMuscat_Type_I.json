@@ -1,0 +1,249 @@
+{
+  "transactions": [
+    {
+      "Date": "25/12/2023",
+      "Remarks": "Transfer JAWAHER SULAIMAN HARITH ALRAWAHI",
+      "Amount": "OMR 10.000",
+      "Type": "CR",
+      "Balance": "OMR 10.060"
+    },
+    {
+      "Date": "25/12/2023",
+      "Remarks": "POS 760774-AL MAHA - 110 PO BOX 5MCT",
+      "Amount": "-OMR 3.000",
+      "Type": "DR",
+      "Balance": "OMR 7.060"
+    },
+    {
+      "Date": "26/12/2023",
+      "Remarks": "Wallet Trx BMCT005725436830 ABDUL JABBAR THALICHALAM MUNDAKUNDIL",
+      "Amount": "-OMR 0.100",
+      "Type": "DR",
+      "Balance": "OMR 6.960"
+    },
+    {
+      "Date": "26/12/2023",
+      "Remarks": "POS 887120-STAFF CAFETERIA PO BOX SEEB",
+      "Amount": "-OMR 1.800",
+      "Type": "DR",
+      "Balance": "OMR 5.160"
+    },
+    {
+      "Date": "26/12/2023",
+      "Remarks": "POS 318661-AMJAD AL SAROOJ TRAD LL",
+      "Amount": "-OMR 1.200",
+      "Type": "DR",
+      "Balance": "OMR 3.960"
+    },
+    {
+      "Date": "26/12/2023",
+      "Remarks": "POS 199354-STAFF CAFETERIA PO BOX SEEB",
+      "Amount": "-OMR 1.260",
+      "Type": "DR",
+      "Balance": "OMR 2.700"
+    },
+    {
+      "Date": "27/12/2023",
+      "Remarks": "POS 669286-MCT AIRPORT CAR PARK (T",
+      "Amount": "-OMR 0.010",
+      "Type": "DR",
+      "Balance": "OMR 2.690"
+    },
+    {
+      "Date": "27/12/2023",
+      "Remarks": "POS 694256-MCT AIRPORT CAR PARK (T",
+      "Amount": "-OMR 0.010",
+      "Type": "DR",
+      "Balance": "OMR 2.680"
+    },
+    {
+      "Date": "27/12/2023",
+      "Remarks": "POS 604821-STAFF CAFETERIA PO BOX SEEB",
+      "Amount": "-OMR 0.945",
+      "Type": "DR",
+      "Balance": "OMR 1.735"
+    },
+    {
+      "Date": "27/12/2023",
+      "Remarks": "POS 608051-STAFF CAFETERIA PO BOX SEEB",
+      "Amount": "-OMR 0.210",
+      "Type": "DR",
+      "Balance": "OMR 1.525"
+    },
+    {
+      "Date": "28/12/2023",
+      "Remarks": "SALARY SALA MONTHLY SALARY - TAV OPERATION SERV",
+      "Amount": "OMR 818.000",
+      "Type": "CR",
+      "Balance": "OMR 819.525"
+    },
+    {
+      "Date": "28/12/2023",
+      "Remarks": "Wallet Trx BMCT005744303164 MAHDI NAMEER MAHMOOD",
+      "Amount": "-OMR 183.000",
+      "Type": "DR",
+      "Balance": "OMR 636.525"
+    },
+    {
+      "Date": "28/12/2023",
+      "Remarks": "Transfer MAHDI NAMEER MAHMOOD",
+      "Amount": "OMR 30.000",
+      "Type": "CR",
+      "Balance": "OMR 666.525"
+    },
+    {
+      "Date": "28/12/2023",
+      "Remarks": "Wallet Trx ■■■■005744370059 JAWAHER SULAIMAN HARITH ALRAWAHI",
+      "Amount": "-OMR 10.000",
+      "Type": "DR",
+      "Balance": "OMR 656.525"
+    },
+    {
+      "Date": "28/12/2023",
+      "Remarks": "Wallet Trx BMCT005744428974 KHALIL IBRAHIM MOHAMMED ABDULLAH AL",
+      "Amount": "-OMR 10.000",
+      "Type": "DR",
+      "Balance": "OMR 646.525"
+    },
+    {
+      "Date": "28/12/2023",
+      "Remarks": "POS 629001-thw-Vodafone",
+      "Amount": "-OMR 12.000",
+      "Type": "DR",
+      "Balance": "OMR 634.525"
+    },
+    {
+      "Date": "28/12/2023",
+      "Remarks": "POS 629690-thw-Vodafone",
+      "Amount": "-OMR 4.000",
+      "Type": "DR",
+      "Balance": "OMR 630.525"
+    },
+    {
+      "Date": "28/12/2023",
+      "Remarks": "Transfer HOUD SULAIMAN HARITH MOHAMMED AL RA",
+      "Amount": "-OMR 260.000",
+      "Type": "DR",
+      "Balance": "OMR 370.525"
+    },
+    {
+      "Date": "28/12/2023",
+      "Remarks": "Transfer HOUD SULAIMAN HARITH MOHAMMED AL RA",
+      "Amount": "-OMR 300.000",
+      "Type": "DR",
+      "Balance": "OMR 70.525"
+    },
+    {
+      "Date": "28/12/2023",
+      "Remarks": "POS 787479-AL MAHНА - 110 PO BOX 5MCT",
+      "Amount": "-OMR 9.100",
+      "Type": "DR",
+      "Balance": "OMR 61.425"
+    },
+    {
+      "Date": "31/12/2023",
+      "Remarks": "POS 198709-ALI SALIM SHAMIS AL NADOM",
+      "Amount": "-OMR 4.800",
+      "Type": "DR",
+      "Balance": "OMR 56.625"
+    },
+    {
+      "Date": "31/12/2023",
+      "Remarks": "POS 198998-ALI SALIM SHAMIS AL NADOM",
+      "Amount": "-OMR 1.300",
+      "Type": "DR",
+      "Balance": "OMR 55.325"
+    },
+    {
+      "Date": "31/12/2023",
+      "Remarks": "Transfer HOUD SULAIMAN HARITH MOHAMMED AL RA",
+      "Amount": "-OMR 55.000",
+      "Type": "DR",
+      "Balance": "OMR 0.325"
+    },
+    {
+      "Date": "31/12/2023",
+      "Remarks": "Transfer HOUD SULAIMAN HARITH MOHAMMED AL RA",
+      "Amount": "OMR 30.000",
+      "Type": "CR",
+      "Balance": "OMR 30.325"
+    },
+    {
+      "Date": "31/12/2023",
+      "Remarks": "Transfer AHAD ABDALLAH ARAFAT AL RAHBI",
+      "Amount": "-OMR 30.000",
+      "Type": "DR",
+      "Balance": "OMR 0.325"
+    },
+    {
+      "Date": "31/12/2023",
+      "Remarks": "Transfer HOUD SULAIMAN HARITH MOHAMMED AL RA",
+      "Amount": "OMR 0.300",
+      "Type": "CR",
+      "Balance": "OMR 0.625"
+    },
+    {
+      "Date": "31/12/2023",
+      "Remarks": "Wallet Trx BMCT005754384533 THAIKKAT FAISAL MUNEER",
+      "Amount": "-OMR 0.500",
+      "Type": "DR",
+      "Balance": "OMR 0.125"
+    },
+    {
+      "Date": "31/12/2023",
+      "Remarks": "Transfer HOUD SULAIMAN HARITH MOHAMMED AL RA",
+      "Amount": "OMR 15.000",
+      "Type": "CR",
+      "Balance": "OMR 15.125"
+    },
+    {
+      "Date": "31/12/2023",
+      "Remarks": "Wallet Trx BMCT005754573203 ABDUL MANNAN",
+      "Amount": "-OMR 15.000",
+      "Type": "DR",
+      "Balance": "OMR 0.125"
+    },
+    {
+      "Date": "31/12/2023",
+      "Remarks": "Transfer HOUD SULAIMAN HARITH MOHAMMED AL RA",
+      "Amount": "OMR 30.000",
+      "Type": "CR",
+      "Balance": "OMR 30.125"
+    },
+    {
+      "Date": "31/12/2023",
+      "Remarks": "Wallet Trx BMCT005754794876 DAWOOD SULAIMAN",
+      "Amount": "-OMR 30.000",
+      "Type": "DR",
+      "Balance": "OMR 0.125"
+    },
+    {
+      "Date": "31/12/2023",
+      "Remarks": "Transfer HOUD SULAIMAN HARITH MOHAMMED AL RA",
+      "Amount": "OMR 5.000",
+      "Type": "CR",
+      "Balance": "OMR 5.125"
+    },
+    {
+      "Date": "31/12/2023",
+      "Remarks": "Transfer HOUD SULAIMAN HARITH MOHAMMED AL RA",
+      "Amount": "OMR 5.000",
+      "Type": "CR",
+      "Balance": "OMR 10.125"
+    },
+    {
+      "Date": "31/12/2023",
+      "Remarks": "Transfer HOUD SULAIMAN HARITH MOHAMMED AL RA",
+      "Amount": "OMR 5.000",
+      "Type": "CR",
+      "Balance": "OMR 15.125"
+    },
+    {
+      "Date": "31/12/2023",
+      "Remarks": "Oman Value Added Tax ATMAT312702 12:54:31",
+      "Amount": "-OMR 0.005",
+      "Type": "DR",
+      "Balance": "OMR 15.120"
+    }
+  ]
+}

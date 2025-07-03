@@ -1,0 +1,74 @@
+{
+  "transactions": [
+    {
+      "Date": "2021/11/15",
+      "Transaction Details": "Transfer",
+      "Debit": "SAR 0.00",
+      "Credit": "SAR 300.00",
+      "Balance": "SAR 323.52"
+    },
+    {
+      "Date": "2021/11/15",
+      "Transaction Details": "Transfer",
+      "Debit": "SAR 0.00",
+      "Credit": "SAR 375.00",
+      "Balance": "SAR 698.52"
+    },
+    {
+      "Date": "2021/11/15",
+      "Transaction Details": "Transfer",
+      "Debit": "SAR 0.00",
+      "Credit": "SAR 100.00",
+      "Balance": "SAR 798.52"
+    },
+    {
+      "Date": "2021/11/19",
+      "Transaction Details": "Transfer",
+      "Debit": "SAR 0.00",
+      "Credit": "SAR 100.00",
+      "Balance": "SAR 898.52"
+    },
+    {
+      "Date": "2021/11/19",
+      "Transaction Details": "Transfer",
+      "Debit": "SAR 0.00",
+      "Credit": "SAR 50.00",
+      "Balance": "SAR 948.52"
+    },
+    {
+      "Date": "2021/11/19",
+      "Transaction Details": "Outward IPS Credit Transfer",
+      "Debit": "SAR 500.00",
+      "Credit": "SAR 0.00",
+      "Balance": "SAR 448.52"
+    },
+    {
+      "Date": "2021/11/19",
+      "Transaction Details": "Outward IPS Credit Transaction Charges",
+      "Debit": "SAR 0.58",
+      "Credit": "SAR 0.00",
+      "Balance": "SAR 447.94"
+    },
+    {
+      "Date": "2021/11/23",
+      "Transaction Details": "Inward IPS Credit Transfer",
+      "Debit": "SAR 0.00",
+      "Credit": "SAR 1,500.00",
+      "Balance": "SAR 1,947.94"
+    },
+    {
+      "Date": "2021/11/23",
+      "Transaction Details": "Inward IPS Credit Transfer",
+      "Debit": "SAR 0.00",
+      "Credit": "SAR 375.00",
+      "Balance": "SAR 2,322.94"
+    },
+    {
+      "Date": "2021/11/23",
+      "Transaction Details": "Inward IPS Credit Transfer",
+      "Debit": "SAR 0.00",
+      "Credit": "SAR 500.00",
+      "Balance": "SAR 2,822.94"
+    }
+  ]
+}

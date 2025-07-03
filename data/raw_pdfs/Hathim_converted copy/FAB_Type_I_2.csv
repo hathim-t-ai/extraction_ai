@@ -1,0 +1,41 @@
+account_holder_address,"PO Box 111311 Staybridge hot No1119
+Dubai South Dubai South
+DUBAI, UAE"
+account_holder_name,OLGA MILICHENKOVA
+account_number,164-100-5705675-00-1
+bank_currency,AED
+closing_balance,1281.49
+iban_number,ΑΕ-36-035-164-100-5705675-00-1
+opening_balance,5615.2
+page_number,2.0
+statement_end_date,10 SEP 2023
+statement_start_date,11 AUG 2023
+
+transactions
+balance,debit,description,transaction_date,credit
+5596.44,18.76,POS Settlement NOON.COM DUBAI AED 18.76,16 AUG 2023,
+1883.44,3713.0,"IPI Transfer FAB Ref: CI93918W16533291 0
+utward IPI Payment BeneIBAN: AE2604000003
+32914367001",16 AUG 2023,
+1874.89,8.55,"POS Settlement EPPCO SITE 5558 DUBAI AED
+8.55",17 AUG 2023,
+1824.89,50.0,"POS Settlement CARS TAXI SERVICES CO DUB
+AI AED 50",17 AUG 2023,
+1753.89,71.0,POS Settlement DUBAI TAXI DUBAI AED 71,17 AUG 2023,
+1664.64,89.25,"POS Settlement SERVICE SOUK DMCC DUBAI Α
+ED 89.25",17 AUG 2023,
+1618.91,45.73,"POS Settlement www.instashop.com Dubai A
+ED 45.73",17 AUG 2023,
+1612.91,6.0,"POS Settlement ES TRAINING DMCC Dubai AΑΕ
+D6",17 AUG 2023,
+1562.91,50.0,POS Settlement SDG DubaiPay DUBAI AED 50,17 AUG 2023,
+1798.69,,POS Settlement,17 AUG 2023,235.78
+1738.69,60.0,POS Settlement PLP EVENTS Dubai AED 60,18 AUG 2023,
+1651.53,87.16,"POS Settlement BIG BUY MARKET DMCC Dubai
+AED 87.16",19 AUG 2023,
+1645.53,6.0,"POS Settlement ES TRAINING DMCC Dubai AE
+D6",19 AUG 2023,
+1331.58,313.95,"POS Settlement DU APPLE PAY DUBAI AED 31
+3.95",19 AUG 2023,
+1431.49,,POS Settlement,19 AUG 2023,99.91
+1281.49,150.0,IPI Transfer FAB Ref: CI4396E49GH50428 0,20 AUG 2023,

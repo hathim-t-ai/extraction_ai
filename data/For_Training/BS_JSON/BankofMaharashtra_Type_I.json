@@ -1,0 +1,344 @@
+{
+  "transactions": [
+    {
+      "Date": "22/01/2019",
+      "Type": "Cheque",
+      "Particulars": "SUPREME STEELS",
+      "Cheque/Reference No": "59035",
+      "Debit": "7000.0",
+      "Credit": "",
+      "Balance": "1721.76",
+      "Channel": "1091-null"
+    },
+    {
+      "Date": "22/01/2019",
+      "Type": "Charges",
+      "Particulars": "DUPP STMT CHRGS",
+      "Cheque/Reference No": "",
+      "Debit": "200.0",
+      "Credit": "",
+      "Balance": "1521.76",
+      "Channel": ""
+    },
+    {
+      "Date": "22/01/2019",
+      "Type": "Charges",
+      "Particulars": "GST",
+      "Cheque/Reference No": "",
+      "Debit": "36.0",
+      "Credit": "",
+      "Balance": "1485.76",
+      "Channel": ""
+    },
+    {
+      "Date": "23/01/2019",
+      "Type": "",
+      "Particulars": "TRANSFER TXN",
+      "Cheque/Reference No": "",
+      "Debit": "590.0",
+      "Credit": "",
+      "Balance": "895.76",
+      "Channel": ""
+    },
+    {
+      "Date": "23/01/2019",
+      "Type": "",
+      "Particulars": "REVERSAL OF STATEMENT CHARGES FRM",
+      "Cheque/Reference No": "",
+      "Debit": "",
+      "Credit": "236.0",
+      "Balance": "1131.76",
+      "Channel": ""
+    },
+    {
+      "Date": "24/01/2019",
+      "Type": "Cheque",
+      "Particulars": "BY CLG",
+      "Cheque/Reference No": "204",
+      "Debit": "",
+      "Credit": "41611.0",
+      "Balance": "42742.76",
+      "Channel": "1091-null"
+    },
+    {
+      "Date": "25/01/2019",
+      "Type": "Cheque",
+      "Particulars": "self",
+      "Cheque/Reference No": "59039",
+      "Debit": "10000.0",
+      "Credit": "",
+      "Balance": "32742.76",
+      "Channel": "1655-null"
+    },
+    {
+      "Date": "25/01/2019",
+      "Type": "Cheque",
+      "Particulars": "NEFT MAHBH19025259544 GST",
+      "Cheque/Reference No": "59038",
+      "Debit": "20454.0",
+      "Credit": "",
+      "Balance": "12288.76",
+      "Channel": "1655-null"
+    },
+    {
+      "Date": "25/01/2019",
+      "Type": "Cheque",
+      "Particulars": "NEFT MAHBH19025259544 GST",
+      "Cheque/Reference No": " ",
+      "Debit": "5.0",
+      "Credit": "",
+      "Balance": "12283.76",
+      "Channel": ""
+    },
+    {
+      "Date": "25/01/2019",
+      "Type": "Charges",
+      "Particulars": "NEFT MAHBH19025259544 GST",
+      "Cheque/Reference No": "",
+      "Debit": "0.9",
+      "Credit": "",
+      "Balance": "12282.86",
+      "Channel": ""
+    },
+    {
+      "Date": "29/01/2019",
+      "Type": "Cheque",
+      "Particulars": "BY CLG",
+      "Cheque/Reference No": "608682",
+      "Debit": "",
+      "Credit": "42480.0",
+      "Balance": "54762.86",
+      "Channel": "1091-null"
+    },
+    {
+      "Date": "30/01/2019",
+      "Type": "Cheque",
+      "Particulars": "SELF",
+      "Cheque/Reference No": "59043",
+      "Debit": "30000.0",
+      "Credit": "",
+      "Balance": "24762.86",
+      "Channel": "1655-null"
+    },
+    {
+      "Date": "01/02/2019",
+      "Type": "Cheque",
+      "Particulars": "SUPREME STEELS",
+      "Cheque/Reference No": "59042",
+      "Debit": "9009.0",
+      "Credit": "",
+      "Balance": "15753.86",
+      "Channel": "1091-null"
+    },
+    {
+      "Date": "07/02/2019",
+      "Type": "Cheque",
+      "Particulars": "SELF",
+      "Cheque/Reference No": "59044",
+      "Debit": "5000.0",
+      "Credit": "",
+      "Balance": "10753.86",
+      "Channel": "1655-null"
+    },
+    {
+      "Date": "12/02/2019",
+      "Type": "Cheque",
+      "Particulars": "SELF",
+      "Cheque/Reference No": "59045",
+      "Debit": "5000.0",
+      "Credit": "",
+      "Balance": "5753.86",
+      "Channel": "1655-null"
+    },
+    {
+      "Date": "17/02/2019",
+      "Type": "Charges",
+      "Particulars": "ISSUE OF MICR CA",
+      "Cheque/Reference No": "",
+      "Debit": "250.0",
+      "Credit": "",
+      "Balance": "5503.86",
+      "Channel": ""
+    },
+    {
+      "Date": "17/02/2019",
+      "Type": "Charges",
+      "Particulars": "GST",
+      "Cheque/Reference No": "",
+      "Debit": "45.0",
+      "Credit": "",
+      "Balance": "5458.86",
+      "Channel": ""
+    },
+    {
+      "Date": "21/02/2019",
+      "Type": "Cheque",
+      "Particulars": "BY CLG",
+      "Cheque/Reference No": "809951",
+      "Debit": "",
+      "Credit": "23128.0",
+      "Balance": "28586.86",
+      "Channel": "1091-null"
+    },
+    {
+      "Date": "25/02/2019",
+      "Type": "Cheque",
+      "Particulars": "LOVEKESH SAIN",
+      "Cheque/Reference No": "59046",
+      "Debit": "5000.0",
+      "Credit": "",
+      "Balance": "23586.86",
+      "Channel": "1091-null"
+    },
+    {
+      "Date": "25/02/2019",
+      "Type": "Cheque",
+      "Particulars": "NEFT MAHBH19056058615 GST",
+      "Cheque/Reference No": "59049",
+      "Debit": "4925.0",
+      "Credit": "",
+      "Balance": "18661.86",
+      "Channel": "1655-null"
+    },
+    {
+      "Date": "25/02/2019",
+      "Type": "Charges",
+      "Particulars": "NEFT MAHBH19056058615 GST",
+      "Cheque/Reference No": "",
+      "Debit": "2.0",
+      "Credit": "",
+      "Balance": "18659.86",
+      "Channel": ""
+    },
+    {
+      "Date": "25/02/2019",
+      "Type": "Charges",
+      "Particulars": "NEFT MAHBH19056058615 GST",
+      "Cheque/Reference No": "",
+      "Debit": "0.36",
+      "Credit": "",
+      "Balance": "",
+      "Channel": ""
+    },
+    {
+      "Date": "27/02/2019",
+      "Type": "Cheque",
+      "Particulars": "DK ELECTRIC TOOLS AND H",
+      "Cheque/Reference No": "59047",
+      "Debit": "10000.0",
+      "Credit": "",
+      "Balance": "8659.5",
+      "Channel": "1091-null"
+    },
+    {
+      "Date": "27/02/2019",
+      "Type": "Cheque",
+      "Particulars": "dhbvnl",
+      "Cheque/Reference No": "59048",
+      "Debit": "2113.0",
+      "Credit": "",
+      "Balance": "6546.5",
+      "Channel": "1091-null"
+    },
+    {
+      "Date": "01/03/2019",
+      "Type": "Cheque",
+      "Particulars": "SELF",
+      "Cheque/Reference No": "59050",
+      "Debit": "3000.0",
+      "Credit": "",
+      "Balance": "",
+      "Channel": "1655-null"
+    },
+    {
+      "Date": "15/03/2019",
+      "Type": "Cheque",
+      "Particulars": "BEST KOKI AUTOMOTIVE PVT LTD",
+      "Cheque/Reference No": "2694",
+      "Debit": "",
+      "Credit": "119357.0",
+      "Balance": "122903.5",
+      "Channel": "1091-null"
+    },
+    {
+      "Date": "16/03/2019",
+      "Type": "Cheque",
+      "Particulars": "SELF",
+      "Cheque/Reference No": "63952",
+      "Debit": "110000.0",
+      "Credit": "",
+      "Balance": "12903.5",
+      "Channel": "1655-null"
+    },
+    {
+      "Date": "19/03/2019",
+      "Type": "Cheque",
+      "Particulars": "SUPREME STEELS",
+      "Cheque/Reference No": "63954",
+      "Debit": "10971.0",
+      "Credit": "",
+      "Balance": "1932.5",
+      "Channel": "1091-null"
+    },
+    {
+      "Date": "26/03/2019",
+      "Type": "Cheque",
+      "Particulars": "BY CLG",
+      "Cheque/Reference No": "3618",
+      "Debit": "",
+      "Credit": "51476.0",
+      "Balance": "53408.5",
+      "Channel": "1091-null"
+    },
+    {
+      "Date": "27/03/2019",
+      "Type": "Cheque",
+      "Particulars": "DHBVNL",
+      "Cheque/Reference No": "63958",
+      "Debit": "1244.0",
+      "Credit": "",
+      "Balance": "52164.5",
+      "Channel": "1091-null"
+    },
+    {
+      "Date": "27/03/2019",
+      "Type": "Cheque",
+      "Particulars": "SELF",
+      "Cheque/Reference No": "63960",
+      "Debit": "5000.0",
+      "Credit": "",
+      "Balance": "47164.5",
+      "Channel": "1655-null"
+    },
+    {
+      "Date": "27/03/2019",
+      "Type": "Cheque",
+      "Particulars": "NEFT MAHBH19086004478 GST",
+      "Cheque/Reference No": "63961",
+      "Debit": "10722.0",
+      "Credit": "",
+      "Balance": "",
+      "Channel": "1655-null"
+    },
+    {
+      "Date": "27/03/2019",
+      "Type": "Charges",
+      "Particulars": "NEFT MAHBH19086004478 GST",
+      "Cheque/Reference No": "",
+      "Debit": "5.0",
+      "Credit": "",
+      "Balance": "36437.5",
+      "Channel": ""
+    },
+    {
+      "Date": "27/03/2019",
+      "Type": "Charges",
+      "Particulars": "NEFT MAHBH19086004478 GST",
+      "Cheque/Reference No": "",
+      "Debit": "0.9",
+      "Credit": "",
+      "Balance": "36436.6",
+      "Channel": ""
+    }
+  ]
+}

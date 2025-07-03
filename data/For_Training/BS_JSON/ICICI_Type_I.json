@@ -1,0 +1,740 @@
+{
+  "transactions": [
+    {
+      "DATE": "01-04-2019",
+      "MODE": "",
+      "PARTICULARS": "B/F",
+      "DEPOSITS": "",
+      "WITHDRAWALS": "",
+      "BALANCE": "65731.31"
+    },
+    {
+      "DATE": "02-04-2019",
+      "MODE": "DEBITCARD",
+      "PARTICULARS": "VPS/ACT 201904021337/909208028740/HYDERABAD",
+      "DEPOSITS": "",
+      "WITHDRAWALS": "4377.0",
+      "BALANCE": "61354.31"
+    },
+    {
+      "DATE": "03-04-2019",
+      "MODE": "",
+      "PARTICULARS": "IPS REF DT 31 03 2019 032260 HPCL 0 75 CASHLESS IN",
+      "DEPOSITS": "19.95",
+      "WITHDRAWALS": "",
+      "BALANCE": "61374.26"
+    },
+    {
+      "DATE": "03-04-2019",
+      "MODE": "",
+      "PARTICULARS": "VISA REF SRISAIBABA FILLING S",
+      "DEPOSITS": "15.0",
+      "WITHDRAWALS": "",
+      "BALANCE": "61389.26"
+    },
+    {
+      "DATE": "03-04-2019",
+      "MODE": "MOBILE BANKING",
+      "PARTICULARS": "MMTAMPS /90931881 2658 SHINE HAIR/AXIS BANK LTD",
+      "DEPOSITS": "29600.0",
+      "WITHDRAWALS": "",
+      "BALANCE": "90989.26"
+    },
+    {
+      "DATE": "03-04-2019",
+      "MODE": "",
+      "PARTICULARS": "UPI/909319915190/UPIħus sa inmushtaq 7 State Bank Of I/",
+      "DEPOSITS": "",
+      "WITHDRAWALS": "1600.0",
+      "BALANCE": "89389.26"
+    },
+    {
+      "DATE": "03-04-2019",
+      "MODE": "",
+      "PARTICULARS": "UPI/909319394564/UPI/patiram es h9@oks/State Bank Of I/",
+      "DEPOSITS": "",
+      "WITHDRAWALS": "5000.0",
+      "BALANCE": "84389.26"
+    },
+    {
+      "DATE": "04-04-2019",
+      "MODE": "",
+      "PARTICULARS": "UPI/909413003784/Ok/satibabu.970095/Andhra Bank",
+      "DEPOSITS": "5000.0",
+      "WITHDRAWALS": "",
+      "BALANCE": "89389.26"
+    },
+    {
+      "DATE": "04-04-2019",
+      "MODE": "",
+      "PARTICULARS": "UP I/909418788274/Car servicing haren9682@okhdfState Bank Of I",
+      "DEPOSITS": "4900.0",
+      "WITHDRAWALS": "",
+      "BALANCE": "94289.26"
+    },
+    {
+      "DATE": "04-04-2019",
+      "MODE": "",
+      "PARTICULARS": "UP I/909419832856/Oil/kalurian il@o khd HDFC BANK LTD",
+      "DEPOSITS": "",
+      "WITHDRAWALS": "4000.0",
+      "BALANCE": "90289.26"
+    },
+    {
+      "DATE": "05-04-2019",
+      "MODE": "",
+      "PARTICULARS": "UPI/909511640301 /UPIśure shlaya5@oka/Axis Bank Ltd.",
+      "DEPOSITS": "1200.0",
+      "WITHDRAWALS": "",
+      "BALANCE": "91489.26"
+    },
+    {
+      "DATE": "09-04-2019",
+      "MODE": "",
+      "PARTICULARS": "UP I/909909280215 UP Ikiran summy@okax/Axis Bank Ltd./",
+      "DEPOSITS": "",
+      "WITHDRAWALS": "3650.0",
+      "BALANCE": "87839.26"
+    },
+    {
+      "DATE": "09-04-2019",
+      "MODE": "",
+      "PARTICULARS": "UPI/909915446877 /UP Isanthoshlone@ok Corporati on Ban/",
+      "DEPOSITS": "",
+      "WITHDRAWALS": "130.0",
+      "BALANCE": "87709.26"
+    },
+    {
+      "DATE": "10-04-2019",
+      "MODE": "",
+      "PARTICULARS": "UPI/910013164216 /UPIħus sa inmu shtaq 7 State Bank Of I/",
+      "DEPOSITS": "",
+      "WITHDRAWALS": "600.0",
+      "BALANCE": "87109.26"
+    },
+    {
+      "DATE": "10-04-2019",
+      "MODE": "",
+      "PARTICULARS": "UPI/910013116748/UPIgoog-payment@ok/Axis Bank Ltd.",
+      "DEPOSITS": "15.0",
+      "WITHDRAWALS": "",
+      "BALANCE": "87124.26"
+    },
+    {
+      "DATE": "10-04-2019",
+      "MODE": "",
+      "PARTICULARS": "UP I910014428195 Parts /hfa khtar@oksbi CHATISG ARH R G/",
+      "DEPOSITS": "",
+      "WITHDRAWALS": "8300.0",
+      "BALANCE": "78824.26"
+    },
+    {
+      "DATE": "10-04-2019",
+      "MODE": "",
+      "PARTICULARS": "UP I/910015254944 /UP Ipa nn irra ju@okax /Bank of India",
+      "DEPOSITS": "850.0",
+      "WITHDRAWALS": "",
+      "BALANCE": "79674.26"
+    },
+    {
+      "DATE": "11-04-2019",
+      "MODE": "",
+      "PARTICULARS": "UP I/910110934510 /UP Iglorio us venkat@ /HDFC BANK LTD",
+      "DEPOSITS": "",
+      "WITHDRAWALS": "700.0",
+      "BALANCE": "78974.26"
+    },
+    {
+      "DATE": "12-04-2019",
+      "MODE": "DEBITCARD ",
+      "PARTICULARS": "VPS RAINBOW HOS/201904121732/910212077446 HYDERABAD",
+      "DEPOSITS": "",
+      "WITHDRAWALS": "800.0",
+      "BALANCE": "78174.26"
+    },
+    {
+      "DATE": "12-04-2019",
+      "MODE": "",
+      "PARTICULARS": "UPI/910220285883/UPIgsprakash@oksbi State Bank Of I",
+      "DEPOSITS": "3800.0",
+      "WITHDRAWALS": "",
+      "BALANCE": "81974.26"
+    },
+    {
+      "DATE": "12-04-2019",
+      "MODE": "",
+      "PARTICULARS": "UPI/910220835195/Parts/hfakhtar@oksbi State Bank Of I/",
+      "DEPOSITS": "",
+      "WITHDRAWALS": "450.0",
+      "BALANCE": "81524.26"
+    },
+    {
+      "DATE": "15-04-2019",
+      "MODE": "DEBITCARD ",
+      "PARTICULARS": "VPS RAINBOW /201904131702/910311563879/HYDER ABAD",
+      "DEPOSITS": "",
+      "WITHDRAWALS": "700.0",
+      "BALANCE": "80824.26"
+    },
+    {
+      "DATE": "15-04-2019",
+      "MODE": "DEBITCARD ",
+      "PARTICULARS": "VPS RAINBOW HOS/201904131756/910312597673 HYDERABAD",
+      "DEPOSITS": "",
+      "WITHDRAWALS": "1235.0",
+      "BALANCE": "79589.26"
+    },
+    {
+      "DATE": "15-04-2019",
+      "MODE": "",
+      "PARTICULARS": "UPI/910521432085/Ors/srina thra 021 sir/Andhra Bank",
+      "DEPOSITS": "",
+      "WITHDRAWALS": "600.0",
+      "BALANCE": "78989.26"
+    },
+    {
+      "DATE": "16-04-2019",
+      "MODE": "DEBITCARD ",
+      "PARTICULARS": "VPS C BHARAT KU/201904161007/910604036570/HYDERABAD",
+      "DEPOSITS": "",
+      "WITHDRAWALS": "370.45",
+      "BALANCE": "78618.81"
+    },
+    {
+      "DATE": "16-04-2019",
+      "MODE": "",
+      "PARTICULARS": "UP I/910613200088 Painting/ssyed1345@okiciACICI Bank/",
+      "DEPOSITS": "",
+      "WITHDRAWALS": "22000.0",
+      "BALANCE": "56618.81"
+    },
+    {
+      "DATE": "17-04-2019",
+      "MODE": "",
+      "PARTICULARS": "UPI/910718110476/Gst/narende r66667@o/Andhra Bank",
+      "DEPOSITS": "",
+      "WITHDRAWALS": "1000.0",
+      "BALANCE": "55618.81"
+    },
+    {
+      "DATE": "18-04-2019",
+      "MODE": "",
+      "PARTICULARS": "APBS BLPGCM7055 DT1704/1023829463",
+      "DEPOSITS": "257.79",
+      "WITHDRAWALS": "",
+      "BALANCE": "55876.6"
+    },
+    {
+      "DATE": "19-04-2019",
+      "MODE": "",
+      "PARTICULARS": "UPI/910918871707 /UPIśyed i4246@oksbi Kotak Mahindra/",
+      "DEPOSITS": "",
+      "WITHDRAWALS": "900.0",
+      "BALANCE": "54976.6"
+    },
+    {
+      "DATE": "22-04-2019",
+      "MODE": "OTHER ATMS ",
+      "PARTICULARS": "NFS/133 30465/CASH WDL/22-04-19",
+      "DEPOSITS": "",
+      "WITHDRAWALS": "3000.0",
+      "BALANCE": "51976.6"
+    },
+    {
+      "DATE": "24-04-2019",
+      "MODE": "",
+      "PARTICULARS": "UPI 911410242881 /UPI■a hukarit@oksbi State Bank Of I",
+      "DEPOSITS": "28000.0",
+      "WITHDRAWALS": "",
+      "BALANCE": "79976.6"
+    },
+    {
+      "DATE": "24-04-2019",
+      "MODE": "",
+      "PARTICULARS": "UPI/911411006757/UPIévercarsindiapv/Adarsh Co-opera/",
+      "DEPOSITS": "",
+      "WITHDRAWALS": "25000.0",
+      "BALANCE": "54976.6"
+    },
+    {
+      "DATE": "24-04-2019",
+      "MODE": "",
+      "PARTICULARS": "UPI/911420686459 UP Isa keth.rex-1@ok/HSBC",
+      "DEPOSITS": "3100.0",
+      "WITHDRAWALS": "",
+      "BALANCE": "58076.6"
+    },
+    {
+      "DATE": "25-04-2019",
+      "MODE": "",
+      "PARTICULARS": "UPI/911517721955/UPIbo ramra jshekar-State Bank Of I/",
+      "DEPOSITS": "",
+      "WITHDRAWALS": "134.0",
+      "BALANCE": "57942.6"
+    },
+    {
+      "DATE": "25-04-2019",
+      "MODE": "DEBITCARD ",
+      "PARTICULARS": "UPI/911520035484/UPI/hfakhtar@oksbi/State Bank Ofl/",
+      "DEPOSITS": "",
+      "WITHDRAWALS": "500.0",
+      "BALANCE": "57442.6"
+    },
+    {
+      "DATE": "29-04-2019",
+      "MODE": "",
+      "PARTICULARS": "UPI/911716155279 Hikas he ttia nji-1@ /Axis Bank Ltd.",
+      "DEPOSITS": "7000.0",
+      "WITHDRAWALS": "",
+      "BALANCE": "64442.6"
+    },
+    {
+      "DATE": "29-04-2019",
+      "MODE": "",
+      "PARTICULARS": "UPI/911914769618 /UPIáshok.n.8738@ok State Bank Of I",
+      "DEPOSITS": "9000.0",
+      "WITHDRAWALS": "",
+      "BALANCE": "73442.6"
+    },
+    {
+      "DATE": "01-05-2019",
+      "MODE": "",
+      "PARTICULARS": "VPS MIDLAND BAK/201905011648/912111931373 /HYDERABAD",
+      "DEPOSITS": "",
+      "WITHDRAWALS": "500.0",
+      "BALANCE": "72942.6"
+    },
+    {
+      "DATE": "02-05-2019",
+      "MODE": "",
+      "PARTICULARS": "BILANFT/001699062716 Pay/CH SRINIVAS RED",
+      "DEPOSITS": "7000.0",
+      "WITHDRAWALS": "",
+      "BALANCE": "79942.6"
+    },
+    {
+      "DATE": "02-05-2019",
+      "MODE": "",
+      "PARTICULARS": "UP I/912219784571 UP Iha rish guduri86@ /Axis Bank Ltd.",
+      "DEPOSITS": "23000.0",
+      "WITHDRAWALS": "",
+      "BALANCE": "102942.6"
+    },
+    {
+      "DATE": "03-05-2019",
+      "MODE": "",
+      "PARTICULARS": "UPI/912318241459/UPI/dismantlingteam/State Bank Of I/",
+      "DEPOSITS": "",
+      "WITHDRAWALS": "10000.0",
+      "BALANCE": "92942.6"
+    },
+    {
+      "DATE": "03-05-2019",
+      "MODE": "",
+      "PARTICULARS": "UPI/912322513164 UP Ivikranthpatel@o HDFC BANK LTD",
+      "DEPOSITS": "",
+      "WITHDRAWALS": "15000.0",
+      "BALANCE": "77942.6"
+    },
+    {
+      "DATE": "04-05-2019",
+      "MODE": "",
+      "PARTICULARS": "UP I/912409802104/UPIáshok.n.8738@okState Bank Of I",
+      "DEPOSITS": "10000.0",
+      "WITHDRAWALS": "",
+      "BALANCE": "87942.6"
+    },
+    {
+      "DATE": "04-05-2019",
+      "MODE": "",
+      "PARTICULARS": "UP I/912413160388 UP Iha rish guduri86@ /Axis Bank Ltd.",
+      "DEPOSITS": "21000.0",
+      "WITHDRAWALS": "",
+      "BALANCE": "108942.6"
+    },
+    {
+      "DATE": "06-05-2019",
+      "MODE": "",
+      "PARTICULARS": "UPI/912514525601 Oilshivakanth9999@ State Bank Of I/",
+      "DEPOSITS": "",
+      "WITHDRAWALS": "17200.0",
+      "BALANCE": "91742.6"
+    },
+    {
+      "DATE": "06-05-2019",
+      "MODE": "",
+      "PARTICULARS": "UPI/912520873361 /UPIśrina thra o 21 sir/Andhra Bank",
+      "DEPOSITS": "",
+      "WITHDRAWALS": "2000.0",
+      "BALANCE": "89742.6"
+    },
+    {
+      "DATE": "06-05-2019",
+      "MODE": "",
+      "PARTICULARS": "UPI/912619480040/Service/manda va.babu@okACICI I Bank",
+      "DEPOSITS": "20370.0",
+      "WITHDRAWALS": "",
+      "BALANCE": "110112.6"
+    },
+    {
+      "DATE": "07-05-2019",
+      "MODE": "",
+      "PARTICULARS": "UPI/912715939849 /UP Inelsonnani66@ok Kotak Mahindra/",
+      "DEPOSITS": "",
+      "WITHDRAWALS": "79.0",
+      "BALANCE": "110033.6"
+    },
+    {
+      "DATE": "07-05-2019",
+      "MODE": "",
+      "PARTICULARS": "UPI/912716284003 /UPIánjikore 9-1@oki/Oriental Bank o/",
+      "DEPOSITS": "",
+      "WITHDRAWALS": "79.0",
+      "BALANCE": "109954.6"
+    },
+    {
+      "DATE": "07-05-2019",
+      "MODE": "",
+      "PARTICULARS": "UPI/912719908088 Prashanth /jp.me ttu@okaxis/And hraBank",
+      "DEPOSITS": "20000.0",
+      "WITHDRAWALS": "",
+      "BALANCE": "129954.6"
+    },
+    {
+      "DATE": "08-05-2019",
+      "MODE": "",
+      "PARTICULARS": "UPI/912814937359/UPIákuma rthive nkat/State Bank Of I/",
+      "DEPOSITS": "",
+      "WITHDRAWALS": "5000.0",
+      "BALANCE": "124954.6"
+    },
+    {
+      "DATE": "09-05-2019",
+      "MODE": "",
+      "PARTICULARS": "UPI/912911930154/UPIhfakhtar@oksbi/State Bank Ofl/",
+      "DEPOSITS": "",
+      "WITHDRAWALS": "20000.0",
+      "BALANCE": "104954.6"
+    },
+    {
+      "DATE": "09-05-2019",
+      "MODE": "",
+      "PARTICULARS": "UPI/912919601879 /UP Isa tibabu.970095/Andhra Bank",
+      "DEPOSITS": "",
+      "WITHDRAWALS": "130.0",
+      "BALANCE": "104824.6"
+    },
+    {
+      "DATE": "09-05-2019",
+      "MODE": "",
+      "PARTICULARS": "UPI/912920741634/Toing raj636361@oksbi State Bank Of I/",
+      "DEPOSITS": "",
+      "WITHDRAWALS": "1800.0",
+      "BALANCE": "103024.6"
+    },
+    {
+      "DATE": "09-05-2019",
+      "MODE": "",
+      "PARTICULARS": "UPI/912920752046/UPIgoog-payment@ok/Axis Bank Ltd.",
+      "DEPOSITS": "13.0",
+      "WITHDRAWALS": "",
+      "BALANCE": "103037.6"
+    },
+    {
+      "DATE": "10-05-2019",
+      "MODE": "",
+      "PARTICULARS": "UPI/913016682267/Parts/hfakhtar@oksbi State Bank Of I/",
+      "DEPOSITS": "",
+      "WITHDRAWALS": "15050.0",
+      "BALANCE": "87987.6"
+    },
+    {
+      "DATE": "10-05-2019",
+      "MODE": "",
+      "PARTICULARS": "UPI/913016914160 UP Ikulluru.harikri/State Bank Of I/",
+      "DEPOSITS": "",
+      "WITHDRAWALS": "66.0",
+      "BALANCE": "87921.6"
+    },
+    {
+      "DATE": "10-05-2019",
+      "MODE": "",
+      "PARTICULARS": "UPI/913020394104/UPIśa i.ma vuluri-2@ ACICI Ba nk",
+      "DEPOSITS": "5500.0",
+      "WITHDRAWALS": "",
+      "BALANCE": "93421.6"
+    },
+    {
+      "DATE": "11-05-2019",
+      "MODE": "MOBILE BANKING ",
+      "PARTICULARS": "MMTAMPS/913117388778 /Jetta /ARUN RAMA HDFC BANK LTD",
+      "DEPOSITS": "6000.0",
+      "WITHDRAWALS": "",
+      "BALANCE": "99421.6"
+    },
+    {
+      "DATE": "11-05-2019",
+      "MODE": "",
+      "PARTICULARS": "BILANFT001706641520/Friends/M RAGHAVENDER R",
+      "DEPOSITS": "14000.0",
+      "WITHDRAWALS": "",
+      "BALANCE": "113421.6"
+    },
+    {
+      "DATE": "11-05-2019",
+      "MODE": "DEBITCARD ",
+      "PARTICULARS": "VPS MIRRA HOS PI/201905120406/9131 22775121 HYDERABAD",
+      "DEPOSITS": "",
+      "WITHDRAWALS": "2377.0",
+      "BALANCE": "111044.6"
+    },
+    {
+      "DATE": "13-05-2019",
+      "MODE": "NETBANKING ",
+      "PARTICULARS": "VINCITRUS PAY /201905121254/913207665482/",
+      "DEPOSITS": "",
+      "WITHDRAWALS": "3400.0",
+      "BALANCE": "107644.6"
+    },
+    {
+      "DATE": "13-05-2019",
+      "MODE": "DEBITCARD ",
+      "PARTICULARS": "VPS/THE CHENNAI/201905121959/913214543061 HYDER AB AD",
+      "DEPOSITS": "",
+      "WITHDRAWALS": "15170.0",
+      "BALANCE": "92474.6"
+    },
+    {
+      "DATE": "13-05-2019",
+      "MODE": "",
+      "PARTICULARS": "UPI/913318121511 Car washing/motorbath@okhdf Kotak Mahindra/",
+      "DEPOSITS": "",
+      "WITHDRAWALS": "800.0",
+      "BALANCE": "91674.6"
+    },
+    {
+      "DATE": "13-05-2019",
+      "MODE": "DEBITCARD ",
+      "PARTICULARS": "VPS MERIDIAN RE/201905132112/913315143573 /HYDERABAD",
+      "DEPOSITS": "",
+      "WITHDRAWALS": "1181.0",
+      "BALANCE": "90493.6"
+    },
+    {
+      "DATE": "14-05-2019",
+      "MODE": "",
+      "PARTICULARS": "UPI/913418843082 /UP Latif.hussa in011/Axis Bank Ltd.",
+      "DEPOSITS": "4000.0",
+      "WITHDRAWALS": "",
+      "BALANCE": "94493.6"
+    },
+    {
+      "DATE": "15-05-2019",
+      "MODE": "",
+      "PARTICULARS": "UPI/913522922948/Gst/naren de r66667@o/Andhra Bank",
+      "DEPOSITS": "",
+      "WITHDRAWALS": "4000.0",
+      "BALANCE": "90493.6"
+    },
+    {
+      "DATE": "15-05-2019",
+      "MODE": "",
+      "PARTICULARS": "UPI/913522540209 UP Ivikranthpatel@o HDFC BANK LTD",
+      "DEPOSITS": "",
+      "WITHDRAWALS": "10000.0",
+      "BALANCE": "80493.6"
+    },
+    {
+      "DATE": "15-05-2019",
+      "MODE": "",
+      "PARTICULARS": "UPI/913522545610 UP Ivikranthpatel@o/HDFC BANK LTD",
+      "DEPOSITS": "",
+      "WITHDRAWALS": "3000.0",
+      "BALANCE": "77493.6"
+    },
+    {
+      "DATE": "16-05-2019",
+      "MODE": "",
+      "PARTICULARS": "UPI/913611149662/UPIsha ikmo hiuddini State Bank Of I",
+      "DEPOSITS": "1000.0",
+      "WITHDRAWALS": "",
+      "BALANCE": "78493.6"
+    },
+    {
+      "DATE": "16-05-2019",
+      "MODE": "",
+      "PARTICULARS": "VISA REF DISCOUNTON FUEL PURCHASE",
+      "DEPOSITS": "2.78",
+      "WITHDRAWALS": "",
+      "BALANCE": "78496.38"
+    },
+    {
+      "DATE": "16-05-2019",
+      "MODE": "",
+      "PARTICULARS": "UPI/913622426505 UP Iyyasin 97@okicic/Andhra Bank",
+      "DEPOSITS": "",
+      "WITHDRAWALS": "432.0",
+      "BALANCE": "78064.38"
+    },
+    {
+      "DATE": "17-05-2019",
+      "MODE": "",
+      "PARTICULARS": "UPI/913718115702 /UPIévercars indiap v/HDFC BANK LTD",
+      "DEPOSITS": "11000.0",
+      "WITHDRAWALS": "",
+      "BALANCE": "89064.38"
+    },
+    {
+      "DATE": "18-05-2019",
+      "MODE": "",
+      "PARTICULARS": "UPI/913812206106 /Service/mandava.babu@okICICI Bank",
+      "DEPOSITS": "3000.0",
+      "WITHDRAWALS": "",
+      "BALANCE": "92064.38"
+    },
+    {
+      "DATE": "18-05-2019",
+      "MODE": "",
+      "PARTICULARS": "UPI/913816665898 Washing Ano torba th@ okhdf/Kotak Mahindra/",
+      "DEPOSITS": "",
+      "WITHDRAWALS": "400.0",
+      "BALANCE": "91664.38"
+    },
+    {
+      "DATE": "18-05-2019",
+      "MODE": "",
+      "PARTICULARS": "UPI/913817946519/UPIśwethaalamagand/Andhra Bank",
+      "DEPOSITS": "",
+      "WITHDRAWALS": "1000.0",
+      "BALANCE": "90664.38"
+    },
+    {
+      "DATE": "18-05-2019",
+      "MODE": "",
+      "PARTICULARS": "UPI/913818493241 UPI pra me sh 1897@oks/State Bank Of I/",
+      "DEPOSITS": "",
+      "WITHDRAWALS": "133.0",
+      "BALANCE": "90531.38"
+    },
+    {
+      "DATE": "18-05-2019",
+      "MODE": "DEBITCARD ",
+      "PARTICULARS": "VPS BHARAT PETR/201905182042/91381545 2410 HYDERABAD",
+      "DEPOSITS": "",
+      "WITHDRAWALS": "320.0",
+      "BALANCE": "90211.38"
+    },
+    {
+      "DATE": "18-05-2019",
+      "MODE": "",
+      "PARTICULARS": "UPI/913820122852 /UPI/psankineni2@oks/State Bank Of I/",
+      "DEPOSITS": "",
+      "WITHDRAWALS": "795.0",
+      "BALANCE": "89416.38"
+    },
+    {
+      "DATE": "21-05-2019",
+      "MODE": "",
+      "PARTICULARS": "UP I/914114554377 /UP Ikart he eks un kari/Kotak Mahindra/",
+      "DEPOSITS": "",
+      "WITHDRAWALS": "161.0",
+      "BALANCE": "89255.38"
+    },
+    {
+      "DATE": "22-05-2019",
+      "MODE": "",
+      "PARTICULARS": "VISA REF BHARATPETROLEUM CORP O",
+      "DEPOSITS": "2.4",
+      "WITHDRAWALS": "",
+      "BALANCE": "89257.78"
+    },
+    {
+      "DATE": "22-05-2019",
+      "MODE": "",
+      "PARTICULARS": "UPI/914218873149 Car/jithender. merug ACICI Ba nk",
+      "DEPOSITS": "11000.0",
+      "WITHDRAWALS": "",
+      "BALANCE": "100257.78"
+    },
+    {
+      "DATE": "22-05-2019",
+      "MODE": "",
+      "PARTICULARS": "UPI/914218850750/UPIgoog-payment@ok/Axis Bank Ltd.",
+      "DEPOSITS": "13.0",
+      "WITHDRAWALS": "",
+      "BALANCE": "100270.78"
+    },
+    {
+      "DATE": "23-05-2019",
+      "MODE": "",
+      "PARTICULARS": "UPI/914316262381 /UPIprem loc@okaxis/Yes Bank Ltd",
+      "DEPOSITS": "",
+      "WITHDRAWALS": "550.0",
+      "BALANCE": "99720.78"
+    },
+    {
+      "DATE": "24-05-2019",
+      "MODE": "",
+      "PARTICULARS": "UP I/914412792429 Cash take.b vs r@okiciACICI Ba nk",
+      "DEPOSITS": "15000.0",
+      "WITHDRAWALS": "",
+      "BALANCE": "114720.78"
+    },
+    {
+      "DATE": "24-05-2019",
+      "MODE": "",
+      "PARTICULARS": "BY CASH-MARKAPUR",
+      "DEPOSITS": "30000.0",
+      "WITHDRAWALS": "",
+      "BALANCE": "144720.78"
+    },
+    {
+      "DATE": "27-05-2019",
+      "MODE": "DEBITCARD ",
+      "PARTICULARS": "VPS METROFUEL P/201905251130/914506782132 HYDERABAD",
+      "DEPOSITS": "",
+      "WITHDRAWALS": "1240.0",
+      "BALANCE": "143480.78"
+    },
+    {
+      "DATE": "27-05-2019",
+      "MODE": "DEBITCARD",
+      "PARTICULARS": "VPS SPICY RES TA/201905251317/914507362575 HYDERABAD",
+      "DEPOSITS": "",
+      "WITHDRAWALS": "440.0",
+      "BALANCE": "143040.78"
+    },
+    {
+      "DATE": "27-05-2019",
+      "MODE": "",
+      "PARTICULARS": "UPI/914517206855 UP Ivikranthpatel@o/HDFC BANK LTD",
+      "DEPOSITS": "",
+      "WITHDRAWALS": "20000.0",
+      "BALANCE": "123040.78"
+    },
+    {
+      "DATE": "27-05-2019",
+      "MODE": "",
+      "PARTICULARS": "UPI/914520435936 /UPIhus sa inmu shtaq 7 State Bank Of I/",
+      "DEPOSITS": "",
+      "WITHDRAWALS": "4000.0",
+      "BALANCE": "119040.78"
+    },
+    {
+      "DATE": "27-05-2019",
+      "MODE": "DEBITCARD ",
+      "PARTICULARS": "VPS FUTURE LIFE/201905270220/9146 20929338 HYDERABAD",
+      "DEPOSITS": "",
+      "WITHDRAWALS": "4200.0",
+      "BALANCE": "114840.78"
+    },
+    {
+      "DATE": "27-05-2019",
+      "MODE": "DEBITCARD",
+      "PARTICULARS": "VPS LIFE STYLE 201905262125/914615180943 /HYDERABAD",
+      "DEPOSITS": "",
+      "WITHDRAWALS": "399.0",
+      "BALANCE": "114441.78"
+    }
+  ]
+}

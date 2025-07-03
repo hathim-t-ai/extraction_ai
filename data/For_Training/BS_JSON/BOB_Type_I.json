@@ -1,0 +1,202 @@
+{
+  "transactions": [
+    {
+      "Value Date": "25/08/22",
+      "Post Date": "25/08/22",
+      "Details": "BY TRF. IMPSP2A022017322033 ANANT THAKUR",
+      "Chq.No.": "",
+      "Debit": "",
+      "Credit": "1000.0",
+      "Balance": "10176.9"
+    },
+    {
+      "Value Date": "28/08/22",
+      "Post Date": "28/08/22",
+      "Details": "BY CASH BY CASH EAST_CHAMPAR TRF FROM 57045026843",
+      "Chq.No.": "",
+      "Debit": "",
+      "Credit": "2000.0",
+      "Balance": "12176.9"
+    },
+    {
+      "Value Date": "31/08/22",
+      "Post Date": "31/08/22",
+      "Details": "INT ON SB",
+      "Chq.No.": "",
+      "Debit": "",
+      "Credit": "19.0",
+      "Balance": "12195.9"
+    },
+    {
+      "Value Date": "01/09/22",
+      "Post Date": "01/09/22",
+      "Details": "BY TRF. UPI/RRN 02205422857/ Payment from PhoneP",
+      "Chq.No.": "",
+      "Debit": "",
+      "Credit": "1000.0",
+      "Balance": "13195.9"
+    },
+    {
+      "Value Date": "01/09/22",
+      "Post Date": "01/09/22",
+      "Details": "BY TRF. UPI/RRN 022310833767 Hcxj Mrs. DEEPA VERM",
+      "Chq.No.": "",
+      "Debit": "",
+      "Credit": "1.0",
+      "Balance": "13196.9"
+    },
+    {
+      "Value Date": "09/09/22",
+      "Post Date": "09/09/22",
+      "Details": "BY TRF. UPI/RRN 022310978356 UPI Mr AVINASH KUMAR",
+      "Chq.No.": "",
+      "Debit": "",
+      "Credit": "5000.0",
+      "Balance": "18196.9"
+    },
+    {
+      "Value Date": "10/09/22",
+      "Post Date": "10/09/22",
+      "Details": "TO CASH EAST_CHAMPAR TRF FROM 57045289364",
+      "Chq.No.": "",
+      "Debit": "",
+      "Credit": "4000.0",
+      "Balance": "22196.9"
+    },
+    {
+      "Value Date": "20/09/22",
+      "Post Date": "20/09/22",
+      "Details": "CASH FRM EAST_CHAMPA SELF",
+      "Chq.No.": "",
+      "Debit": "",
+      "Credit": "1000.0",
+      "Balance": "23196.9"
+    },
+    {
+      "Value Date": "25/09/22",
+      "Post Date": "25/09/22",
+      "Details": "TO CASH EAST_CHAMPAR SELF",
+      "Chq.No.": "",
+      "Debit": "5000.0",
+      "Credit": "",
+      "Balance": "18196.9"
+    },
+    {
+      "Value Date": "29/09/22",
+      "Post Date": "29/09/22",
+      "Details": "BY TRF ADHAR PAY ONUS CASH PAYMENT022815374360",
+      "Chq.No.": "",
+      "Debit": "",
+      "Credit": "1.0",
+      "Balance": "18197.9"
+    },
+    {
+      "Value Date": "29/09/22",
+      "Post Date": "29/09/22",
+      "Details": "TO TRF. ADHAR PAY ONUS CASH PAYMENT022815374360",
+      "Chq.No.": "",
+      "Debit": "1.0",
+      "Credit": "",
+      "Balance": "18196.9"
+    },
+    {
+      "Value Date": "31/09/22",
+      "Post Date": "31/09/22",
+      "Details": "INT ON SB",
+      "Chq.No.": "",
+      "Debit": "",
+      "Credit": "19.0",
+      "Balance": "18215.9"
+    },
+    {
+      "Value Date": "01/10/22",
+      "Post Date": "01/10/22",
+      "Details": "BY TRF. UPI/RRN 023026417035/ Payment from PhoneP",
+      "Chq.No.": "",
+      "Debit": "",
+      "Credit": "5000.0",
+      "Balance": "23215.9"
+    },
+    {
+      "Value Date": "02/10/22",
+      "Post Date": "02/10/22",
+      "Details": "BY CASH BY CASH EAST CHAMPAR TRF FROM 57044316843",
+      "Chq.No.": "",
+      "Debit": "",
+      "Credit": "5000.0",
+      "Balance": "28215.9"
+    },
+    {
+      "Value Date": "06/10/22",
+      "Post Date": "06/10/22",
+      "Details": "TO TRF. DD ISS HAJIPU HAJIPU E E RWD WOR82010",
+      "Chq.No.": "",
+      "Debit": "12060.0",
+      "Credit": "",
+      "Balance": "16155.9"
+    },
+    {
+      "Value Date": "16/10/22",
+      "Post Date": "16/10/22",
+      "Details": "BY TRF. UPI/RRN 023517953984/ UPI Mr AVINASH KUMAR",
+      "Chq.No.": "",
+      "Debit": "",
+      "Credit": "9000.0",
+      "Balance": "25155.9"
+    },
+    {
+      "Value Date": "27/10/22",
+      "Post Date": "27/10/22",
+      "Details": "TO TRF. ΤΟ 3309094115",
+      "Chq.No.": "",
+      "Debit": "4000.0",
+      "Credit": "",
+      "Balance": "21155.9"
+    },
+    {
+      "Value Date": "30/10/22",
+      "Post Date": "30/10/22",
+      "Details": "INT ON SB",
+      "Chq.No.": "",
+      "Debit": "",
+      "Credit": "21",
+      "Balance": "21176.9"
+    },
+    {
+      "Value Date": "04/11/22",
+      "Post Date": "04/11/22",
+      "Details": "Cash Withdrawal: to SELF at EAST_CHAMPAR",
+      "Chq.No.": "",
+      "Debit": "5000.0",
+      "Credit": "",
+      "Balance": "16176.9"
+    },
+    {
+      "Value Date": "07/11/22",
+      "Post Date": "07/11/22",
+      "Details": "IMPS Transfer: from ANANT THAKUR, Reference: IMPSP2A024310259974",
+      "Chq.No.": "",
+      "Debit": "",
+      "Credit": "10000.0",
+      "Balance": "26176.9"
+    },
+    {
+      "Value Date": "10/11/22",
+      "Post Date": "10/11/22",
+      "Details": "Cash Withdrawal: to SELF at EAST_CHAMPAR",
+      "Chq.No.": "",
+      "Debit": "4000.0",
+      "Credit": "",
+      "Balance": "22176.9"
+    },
+    {
+      "Value Date": "18/11/22",
+      "Post Date": "18/11/22",
+      "Details": "Cash Withdrawal: to SELF at EAST CHAMPAR",
+      "Chq.No.": "",
+      "Debit": "5000.0",
+      "Credit": "",
+      "Balance": "17176.9"
+    }
+  ]
+}

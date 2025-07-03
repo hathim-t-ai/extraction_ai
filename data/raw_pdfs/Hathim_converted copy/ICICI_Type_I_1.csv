@@ -1,0 +1,43 @@
+account_holder_address,13-1-55/AT/4 PLOT NO 4 AVANTHI NGR THOTA NR POCHAMMA TEMPLE MOTHI NGR BALANAGAR SANATNGR REDDY TELANGANA INDIA 500018
+account_holder_name,MR.KAS ULABADA PRASHANTH
+account_number,020201563824
+bank_currency,INR
+closing_balance,274724.85
+opening_balance,65731.31
+page_number,1.0
+statement_end_date,"March 31, 2020"
+statement_start_date,"April 01, 2019"
+total_credit_amount,45399.95
+total_credit_transactions,9.0
+total_debit_amount,29607.0
+total_debit_transactions,11.0
+SearchablePDF.name,ICICI_Type_I_1.png_searchable.pdf
+SearchablePDF.url,https://api.parseur.com/document/AxBL-eMiNtJBRUqUQbkYwsi55dOywzv8_x3uG6az-gUwanrKe3qiG8HNEGxDLA-G/searchable_pdf/ICICI_Type_I_1.png_searchable.pdf
+SearchablePDF.content_type,application/pdf
+SearchablePDF.size,289045
+Template,
+ParsingEngine,AI
+
+transactions
+balance,description,transaction_date,debit,credit
+65731.31,B/F,01-04-2019,,
+61354.31,DEBITCARD VPS/ACT 201904021337/909208028740/HYDERABAD,02-04-2019,4377.0,
+61374.26,IPS REF DT 31 03 2019 032260 HPCL 0 75 CASHLESS IN,03-04-2019,,19.95
+61389.26,VISA REF SRISAIBABA FILLING S,03-04-2019,,15.0
+90989.26,MOBILE BANKING MMTAMPS /90931881 2658 SHINE HAIR/AXIS BANK LTD,03-04-2019,,29600.0
+89389.26,UPI/909319915190/UPIħus sa inmushtaq 7 State Bank Of I/,03-04-2019,1600.0,
+84389.26,UPI/909319394564/UPI/patiram es h9@oks/State Bank Of I/,03-04-2019,5000.0,
+89389.26,UPI/909413003784/Ok/satibabu.970095/Andhra Bank,04-04-2019,,5000.0
+94289.26,UP I/909418788274/Car servicing haren9682@okhdfState Bank Of I,04-04-2019,,4900.0
+90289.26,UP I/909419832856/Oil/kalurian il@o khd HDFC BANK LTD,04-04-2019,4000.0,
+91489.26,UPI/909511640301 /UPIśure shlaya5@oka/Axis Bank Ltd.,05-04-2019,,1200.0
+87839.26,UP I/909909280215 UP Ikiran summy@okax/Axis Bank Ltd./,09-04-2019,3650.0,
+87709.26,UPI/909915446877 /UP Isanthoshlone@ok Corporati on Ban/,09-04-2019,130.0,
+87109.26,UPI/910013164216 /UPIħus sa inmu shtaq 7 State Bank Of I/,10-04-2019,600.0,
+87124.26,UPI/910013116748/UPIgoog-payment@ok/Axis Bank Ltd.,10-04-2019,,15.0
+78824.26,UP I910014428195 Parts /hfa khtar@oksbi CHATISG ARH R G/,10-04-2019,8300.0,
+79674.26,UP I/910015254944 /UP Ipa nn irra ju@okax /Bank of India,10-04-2019,,850.0
+78974.26,UP I/910110934510 /UP Iglorio us venkat@ /HDFC BANK LTD,11-04-2019,700.0,
+78174.26,DEBITCARD VPS RAINBOW HOS/201904121732/910212077446 HYDERABAD,12-04-2019,800.0,
+81974.26,UPI/910220285883/UPIgsprakash@oksbi State Bank Of I,12-04-2019,,3800.0
+81524.26,UPI/910220835195/Parts/hfakhtar@oksbi State Bank Of I/,12-04-2019,450.0,

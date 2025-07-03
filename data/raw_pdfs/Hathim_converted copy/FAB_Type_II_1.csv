@@ -1,0 +1,39 @@
+account_holder_address,"P.O.BOX 5498
+ABU DHABI,ΑΕ
+AE"
+account_holder_name,MR ALAA E G HEJJI
+account_number,143-100-3073983-01-9
+bank_currency,AED
+closing_balance,31633.03
+iban_number,ΑΕ-76-035-143-100-3073983-01-9
+opening_balance,32367.35
+page_number,1.0
+statement_end_date,05 NOV 2023
+statement_start_date,01 SEP 2023
+total_credit_amount,100326.59
+total_credit_transactions,14.0
+total_debit_amount,101060.91
+total_debit_transactions,155.0
+SearchablePDF.name,FAB_Type_II_1.png_searchable.pdf
+SearchablePDF.url,https://api.parseur.com/document/rAhac8OR.IYaoqV.qMtSMAsscDIht1p41Z84LSRBNGNUH-7wuNVFksM4xfB4ChFh/searchable_pdf/FAB_Type_II_1.png_searchable.pdf
+SearchablePDF.content_type,application/pdf
+SearchablePDF.size,243878
+Template,
+ParsingEngine,AI
+
+transactions
+balance,description,debit,transaction_date,credit
+32367.35,Opening balance,,,
+23706.35,UADDS Cr Trf-501PY-71200001962022000023289000013,8661.0,01 SEP 2023,
+19306.35,ATM Cash Withdrawal-FAB,4400.0,02 SEP 2023,
+19326.94,Debit Card Transaction-SHEIN Dubai,,02 SEP 2023,20.59
+43326.94,Salary Transfer-Salary Transfer from PARSONS INTERN,,04 SEP 2023,24000.0
+43314.94,Debit Card Transaction-AL GHAZAL TRANSPORT Abu Dhabi,12.0,04 SEP 2023,
+43302.94,Debit Card Transaction-NATIONAL TAXI Abu Dhabi,12.0,04 SEP 2023,
+43237.94,Debit Card Transaction-SAROUJA ROASTERY LLC ABU DHABI,65.0,04 SEP 2023,
+43220.04,Debit Card Transaction-LULU HYPERMARKET- WTC ABU DHABI,17.9,04 SEP 2023,
+43128.81,Debit Card Transaction-INSTANBUL FOODSTUFF Abu Dhabi,91.23,04 SEP 2023,
+43108.81,Debit Card Transaction-ORGANIC FLOUR MILL Abu Dhabi,20.0,04 SEP 2023,
+43096.81,Debit Card Transaction-TAWASUL TRANSPORT LLC Abu Dhabi,12.0,04 SEP 2023,
+43067.81,Debit Card Transaction-Zaytooneh General Trad Abu,29.0,04 SEP 2023,
+42468.81,Debit Card Transaction-LULU HYPERMARKET LLC B ABU DHABI,599.0,04 SEP 2023,

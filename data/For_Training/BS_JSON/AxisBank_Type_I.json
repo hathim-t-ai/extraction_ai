@@ -1,0 +1,553 @@
+{
+  "transactions": [
+    {
+      "Date": "02-01-2020",
+      "Chq No": "",
+      "Transaction Details": "POS/SANAT NAGAR, HYDERABAD/020120/15:40",
+      "Debit": "1110.00",
+      "Credit": "",
+      "Balance": "13605.00",
+      "Init. Br": ""
+    },
+    {
+      "Date": "06-01-2020",
+      "Chq No": "",
+      "Transaction Details": "BY SALARY",
+      "Debit": "",
+      "Credit": "49730.00",
+      "Balance": "63335.00",
+      "Init. Br": "227"
+    },
+    {
+      "Date": "06-01-2020",
+      "Chq No": "",
+      "Transaction Details": "VISA MERCH Refund/02-JAN-20/SANAT NAGAR SERVICE S",
+      "Debit": "",
+      "Credit": "8.33",
+      "Balance": "63343.33",
+      "Init. Br": "227"
+    },
+    {
+      "Date": "06-01-2020",
+      "Chq No": "",
+      "Transaction Details": "POS/BABA WINES/HYDERABAD/060120/15:13",
+      "Debit": "300.00",
+      "Credit": "",
+      "Balance": "63043.33",
+      "Init. Br": "100"
+    },
+    {
+      "Date": "07-01-2020",
+      "Chq No": "",
+      "Transaction Details": "ATM-CASH/IBSLPLOT NO29/HYDERABAD/070120",
+      "Debit": "3000.00",
+      "Credit": "",
+      "Balance": "60043.33",
+      "Init. Br": "227"
+    },
+    {
+      "Date": "07-01-2020",
+      "Chq No": "",
+      "Transaction Details": "POS/MAXWELL HOSPITAL/HYDERABAD/070120/12:35",
+      "Debit": "300.00",
+      "Credit": "",
+      "Balance": "59743.33",
+      "Init. Br": "227"
+    },
+    {
+      "Date": "08-01-2020",
+      "Chq No": "",
+      "Transaction Details": "Issuance/ET0000166498/TS08EE6118",
+      "Debit": "400.00",
+      "Credit": "",
+      "Balance": "59343.33",
+      "Init. Br": "227"
+    },
+    {
+      "Date": "08-01-2020",
+      "Chq No": "",
+      "Transaction Details": "ECOM PUR/Clubfactory I/NewDelhi/080120/13:10",
+      "Debit": "328.69",
+      "Credit": "",
+      "Balance": "59014.64",
+      "Init. Br": "227"
+    },
+    {
+      "Date": "09-01-2020",
+      "Chq No": "",
+      "Transaction Details": "NEFT/MB/AXMB200099183282/archanachocolat e",
+      "Debit": "100.00",
+      "Credit": "",
+      "Balance": "58914.64",
+      "Init. Br": "227"
+    },
+    {
+      "Date": "09-01-2020",
+      "Chq No": "",
+      "Transaction Details": "ATM-CASH- AXIS/DPRH192202/310/090120/HYDERABAD",
+      "Debit": "2000.00",
+      "Credit": "",
+      "Balance": "56914.64",
+      "Init. Br": "227"
+    },
+    {
+      "Date": "09-01-2020",
+      "Chq No": "",
+      "Transaction Details": "ECOM PUR/RAZORPAY- RBL/GALURU ΚΑ/090120/12:29",
+      "Debit": "13843.42",
+      "Credit": "",
+      "Balance": "43071.22",
+      "Init. Br": "227"
+    },
+    {
+      "Date": "10-01-2020",
+      "Chq No": "",
+      "Transaction Details": "POS/SHANTHI SERVICE S/BANGALORE/100120/14:01",
+      "Debit": "2942.47",
+      "Credit": "",
+      "Balance": "40128.75",
+      "Init. Br": "227"
+    },
+    {
+      "Date": "11-01-2020",
+      "Chq No": "",
+      "Transaction Details": "GST @18% on Charge",
+      "Debit": "0.90",
+      "Credit": "",
+      "Balance": "40127.85",
+      "Init. Br": "227"
+    },
+    {
+      "Date": "11-01-2020",
+      "Chq No": "",
+      "Transaction Details": "Consolidated Charges for A/c",
+      "Debit": "5.00",
+      "Credit": "",
+      "Balance": "40122.85",
+      "Init. Br": "227"
+    },
+    {
+      "Date": "13-01-2020",
+      "Chq No": "",
+      "Transaction Details": "POS/LAKSHMI NARASIMHA/HYDERABAD/130120/06:37",
+      "Debit": "1110.00",
+      "Credit": "",
+      "Balance": "39012.85",
+      "Init. Br": "227"
+    },
+    {
+      "Date": "14-01-2020",
+      "Chq No": "",
+      "Transaction Details": "VISA MERCH Refund/10-JAN-20/SHANTHI SERVICE STATI",
+      "Debit": "",
+      "Credit": "22.07",
+      "Balance": "39034.92",
+      "Init. Br": "227"
+    },
+    {
+      "Date": "16-01-2020",
+      "Chq No": "",
+      "Transaction Details": "VISA MERCH Refund/13-JAN-20/LAKSHMI NARASIMHA FIL",
+      "Debit": "",
+      "Credit": "8.33",
+      "Balance": "39043.25",
+      "Init. Br": "100"
+    },
+    {
+      "Date": "17-01-2020",
+      "Chq No": "",
+      "Transaction Details": "UPI/P2A/001712131113/Katru Sh/State Ban/UPI",
+      "Debit": "2400.00",
+      "Credit": "",
+      "Balance": "36643.25",
+      "Init. Br": "100"
+    },
+    {
+      "Date": "18-01-2020",
+      "Chq No": "",
+      "Transaction Details": "POS/SREE MATHA WINES/K V RANGAREDD/180120/14:17",
+      "Debit": "350.00",
+      "Credit": "",
+      "Balance": "36293.25",
+      "Init. Br": "227"
+    },
+    {
+      "Date": "18-01-2020",
+      "Chq No": "",
+      "Transaction Details": "UPI/P2A/001820090339/KARTHIK P/Vijaya Ba/All per",
+      "Debit": "8000.00",
+      "Credit": "",
+      "Balance": "28293.25",
+      "Init. Br": "227"
+    },
+    {
+      "Date": "18-01-2020",
+      "Chq No": "",
+      "Transaction Details": "UPI/P2A/001821802288/A VENKATA/Andhra Ba/UPI",
+      "Debit": "200.00",
+      "Credit": "",
+      "Balance": "28093.25",
+      "Init. Br": "227"
+    },
+    {
+      "Date": "19-01-2020",
+      "Chq No": "",
+      "Transaction Details": "UPI/P2A/001909291560/G ARCHANA/HDFC BANK/UPI",
+      "Debit": "20000.00",
+      "Credit": "",
+      "Balance": "8093.25",
+      "Init. Br": "227"
+    },
+    {
+      "Date": "19-01-2020",
+      "Chq No": "",
+      "Transaction Details": "POS/M J WINES/HYDERABAD/190120/10:10",
+      "Debit": "1428.00",
+      "Credit": "",
+      "Balance": "6665.25",
+      "Init. Br": "227"
+    },
+    {
+      "Date": "19-01-2020",
+      "Chq No": "",
+      "Transaction Details": "POS/SHASHI WINES/HYDERABAD/190120/15:04",
+      "Debit": "255.00",
+      "Credit": "",
+      "Balance": "6410.25",
+      "Init. Br": "227"
+    },
+    {
+      "Date": "20-01-2020",
+      "Chq No": "",
+      "Transaction Details": "UPI/P2A/002019386555/KANTE MU/State Ban/UPI",
+      "Debit": "300.00",
+      "Credit": "",
+      "Balance": "6110.25",
+      "Init. Br": "227"
+    },
+    {
+      "Date": "20-01-2020",
+      "Chq No": "",
+      "Transaction Details": "ECOM PUR/PAYTM/Noida/200120/19:18",
+      "Debit": "999.00",
+      "Credit": "",
+      "Balance": "5111.25",
+      "Init. Br": "227"
+    },
+    {
+      "Date": "21-01-2020",
+      "Chq No": "",
+      "Transaction Details": "UPI/P2A/002119721128/MOHAMMED /Paytm Pay/UPI",
+      "Debit": "110.00",
+      "Credit": "",
+      "Balance": "5001.25",
+      "Init. Br": "227"
+    },
+    {
+      "Date": "21-01-2020",
+      "Chq No": "",
+      "Transaction Details": "UPI/P2A/002122279638/BHARATH S/IDBI Bank/UPI",
+      "Debit": "200.00",
+      "Credit": "",
+      "Balance": "4801.25",
+      "Init. Br": "227"
+    },
+    {
+      "Date": "22-01-2020",
+      "Chq No": "",
+      "Transaction Details": "UPI/P2M/002210706586/Green Baw/Paytm Pay/UPI",
+      "Debit": "60.00",
+      "Credit": "",
+      "Balance": "4741.25",
+      "Init. Br": "227"
+    },
+    {
+      "Date": "22-01-2020",
+      "Chq No": "",
+      "Transaction Details": "UPI/P2A/002222297908/MOHAMMED /Paytm Pay/UPI",
+      "Debit": "70.00",
+      "Credit": "",
+      "Balance": "4671.25",
+      "Init. Br": "227"
+    },
+    {
+      "Date": "23-01-2020",
+      "Chq No": "",
+      "Transaction Details": "UPI/P2A/002311334728/MOHAMMED/Paytm Pay/UPI",
+      "Debit": "60.00",
+      "Credit": "",
+      "Balance": "4611.25",
+      "Init. Br": "227"
+    },
+    {
+      "Date": "23-01-2020",
+      "Chq No": "",
+      "Transaction Details": "ATM-CASH/+SVSS Nivas Cz/ngareddy TS/230120",
+      "Debit": "1000.00",
+      "Credit": "",
+      "Balance": "3611.25",
+      "Init. Br": "227"
+    },
+    {
+      "Date": "23-01-2020",
+      "Chq No": "",
+      "Transaction Details": "UPI/P2A/002319850074/KANTE MU/State Ban/UPI",
+      "Debit": "300.00",
+      "Credit": "",
+      "Balance": "3311.25",
+      "Init. Br": "227"
+    },
+    {
+      "Date": "24-01-2020",
+      "Chq No": "",
+      "Transaction Details": "UPI/P2M/002412380384/SANATHNAG/Yes Bank/UPI",
+      "Debit": "210.00",
+      "Credit": "",
+      "Balance": "3101.25",
+      "Init. Br": "227"
+    },
+    {
+      "Date": "24-01-2020",
+      "Chq No": "",
+      "Transaction Details": "UPI/P2A/002413821674/G GOURI S/Citibank/UPI",
+      "Debit": "500.00",
+      "Credit": "",
+      "Balance": "2601.25",
+      "Init. Br": "227"
+    },
+    {
+      "Date": "24-01-2020",
+      "Chq No": "",
+      "Transaction Details": "UPI/P2A/002420699140/BOLISHETT/Kotak Mah/UPI",
+      "Debit": "200.00",
+      "Credit": "",
+      "Balance": "2401.25",
+      "Init. Br": "227"
+    },
+    {
+      "Date": "25-01-2020",
+      "Chq No": "",
+      "Transaction Details": "UPI/P2A/002519150244/KANTE MU/State Ban/UPI",
+      "Debit": "300.00",
+      "Credit": "",
+      "Balance": "2101.25",
+      "Init. Br": "227"
+    },
+    {
+      "Date": "25-01-2020",
+      "Chq No": "",
+      "Transaction Details": "UPI/P2A/002520952369/AJAY BABU/ICICI Ban/UPI",
+      "Debit": "700.00",
+      "Credit": "",
+      "Balance": "1401.25",
+      "Init. Br": "227"
+    },
+    {
+      "Date": "25-01-2020",
+      "Chq No": "",
+      "Transaction Details": "UPI/P2A/002521287048/G APPARAO/HDFC BANK/UPI",
+      "Debit": "930.00",
+      "Credit": "",
+      "Balance": "471.25",
+      "Init. Br": "227"
+    },
+    {
+      "Date": "27-01-2020",
+      "Chq No": "",
+      "Transaction Details": "UPI/P2A/002711775055/MOHAMMED/Paytm Pay/UPI",
+      "Debit": "60.00",
+      "Credit": "",
+      "Balance": "411.25",
+      "Init. Br": "227"
+    },
+    {
+      "Date": "27-01-2020",
+      "Chq No": "",
+      "Transaction Details": "POS/SRI VENKATESHWARA/HYDERABAD/270120/17: 44",
+      "Debit": "390.00",
+      "Credit": "",
+      "Balance": "21.25",
+      "Init. Br": "227"
+    },
+    {
+      "Date": "05-02-2020",
+      "Chq No": "",
+      "Transaction Details": "BY TRANSFER",
+      "Debit": "",
+      "Credit": "49750.00",
+      "Balance": "49771.25",
+      "Init. Br": "227"
+    },
+    {
+      "Date": "05-02-2020",
+      "Chq No": "",
+      "Transaction Details": "UPI/P2A/003620953186/Mr. MD WA/Central B/UPI",
+      "Debit": "100.00",
+      "Credit": "",
+      "Balance": "49671.25",
+      "Init. Br": "227"
+    },
+    {
+      "Date": "05-02-2020",
+      "Chq No": "",
+      "Transaction Details": "UPI/P2A/003621140609/BHARATH S/IDBI Bank/UPI",
+      "Debit": "1600.00",
+      "Credit": "",
+      "Balance": "48071.25",
+      "Init. Br": "227"
+    },
+    {
+      "Date": "05-02-2020",
+      "Chq No": "",
+      "Transaction Details": "UPI/P2A/003621686626/MOHAMMAD ICICI Ban/UPI",
+      "Debit": "1100.00",
+      "Credit": "",
+      "Balance": "46971.25",
+      "Init. Br": "227"
+    },
+    {
+      "Date": "07-02-2020",
+      "Chq No": "",
+      "Transaction Details": "POS/MUMTAZ AHMED SERV/HYDERABAD/070220/13:51",
+      "Debit": "2495.40",
+      "Credit": "",
+      "Balance": "44475.85",
+      "Init. Br": "227"
+    },
+    {
+      "Date": "07-02-2020",
+      "Chq No": "",
+      "Transaction Details": "POS/MAHA LAXMI WINES/HYDERABAD/070220/19:53",
+      "Debit": "1900.00",
+      "Credit": "",
+      "Balance": "42575.85",
+      "Init. Br": "227"
+    },
+    {
+      "Date": "08-02-2020",
+      "Chq No": "",
+      "Transaction Details": "POS/VIVERA HOTELS AND/NALGONDA/080220/13:42",
+      "Debit": "774.00",
+      "Credit": "",
+      "Balance": "41801.85",
+      "Init. Br": "227"
+    },
+    {
+      "Date": "08-02-2020",
+      "Chq No": "",
+      "Transaction Details": "UPI/P2A/003920242982/G ARCHANA/HDFC BANK/UPI",
+      "Debit": "40000.00",
+      "Credit": "",
+      "Balance": "1801.85",
+      "Init. Br": "227"
+    },
+    {
+      "Date": "11-02-2020",
+      "Chq No": "",
+      "Transaction Details": "UPI/P2A/004217721702/SHAHJAHAN/State Ban/UPI",
+      "Debit": "400.00",
+      "Credit": "",
+      "Balance": "1401.85",
+      "Init. Br": "227"
+    },
+    {
+      "Date": "15-02-2020",
+      "Chq No": "",
+      "Transaction Details": "POS/BABA WINES/HYDERABAD/150220/14:35",
+      "Debit": "520.00",
+      "Credit": "",
+      "Balance": "881.85",
+      "Init. Br": "227"
+    },
+    {
+      "Date": "16-02-2020",
+      "Chq No": "",
+      "Transaction Details": "POS/SANAT NAGAR SERVI/HYDERABAD/160220/14:13",
+      "Debit": "406.92",
+      "Credit": "",
+      "Balance": "474.93",
+      "Init. Br": "227"
+    },
+    {
+      "Date": "22-02-2020",
+      "Chq No": "",
+      "Transaction Details": "UPI/P2M/005312567266/SHERTON P/Paytm Pay/UPI",
+      "Debit": "32.00",
+      "Credit": "",
+      "Balance": "442.93",
+      "Init. Br": "227"
+    },
+    {
+      "Date": "22-02-2020",
+      "Chq No": "",
+      "Transaction Details": "UPI/P2M/005318457775/BharatpeM/ICICI Ban/Verifie",
+      "Debit": "70.00",
+      "Credit": "",
+      "Balance": "372.93",
+      "Init. Br": "227"
+    },
+    {
+      "Date": "25-02-2020",
+      "Chq No": "",
+      "Transaction Details": "ATM- CASH/+FATEHNAGAR/HYDERABAD/250220",
+      "Debit": "300.00",
+      "Credit": "",
+      "Balance": "72.93",
+      "Init. Br": "227"
+    },
+    {
+      "Date": "27-02-2020",
+      "Chq No": "",
+      "Transaction Details": "UPI/P2M/005809284495/K SIVALIN/Paytm Pay/UPI",
+      "Debit": "24.00",
+      "Credit": "",
+      "Balance": "48.93",
+      "Init. Br": "227"
+    },
+    {
+      "Date": "28-02-2020",
+      "Chq No": "",
+      "Transaction Details": "NEFT/KKBKH20059770323/LXL IDEAS PRIVATE LIMITED/P",
+      "Debit": "",
+      "Credit": "17058.00",
+      "Balance": "17106.93",
+      "Init. Br": "248"
+    },
+    {
+      "Date": "29-02-2020",
+      "Chq No": "",
+      "Transaction Details": "UPI/P2A/006011972530/SRI SAI B/Syndicate/UPI",
+      "Debit": "10000.00",
+      "Credit": "",
+      "Balance": "7106.93",
+      "Init. Br": "227"
+    },
+    {
+      "Date": "29-02-2020",
+      "Chq No": "",
+      "Transaction Details": "UPI/P2A/006011983918/KANTE MU/State Ban/UPI",
+      "Debit": "3000.00",
+      "Credit": "",
+      "Balance": "4106.93",
+      "Init. Br": "227"
+    },
+    {
+      "Date": "02-03-2020",
+      "Chq No": "",
+      "Transaction Details": "UPI/P2A/006221487902/MOBIN/Vijaya Ba/UPI",
+      "Debit": "300.00",
+      "Credit": "",
+      "Balance": "3806.93",
+      "Init. Br": "227"
+    },
+    {
+      "Date": "02-03-2020",
+      "Chq No": "",
+      "Transaction Details": "UPI/P2A/006223752919/MOHAMMED ICICI Ban/UPI",
+      "Debit": "650.00",
+      "Credit": "",
+      "Balance": "3156.93",
+      "Init. Br": "227"
+    }
+  ]
+}

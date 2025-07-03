@@ -1,0 +1,26 @@
+account_holder_address,"305 WEST END WAY, APT 304 ALBANY, CALIFORNIA 94706"
+account_holder_name,MRS AISWARYA MURALEEDHARAN ULANAT
+account_number,011-111167-001
+bank_currency,IDR
+closing_balance,6545.5
+opening_balance,7775.5
+page_number,2.0
+statement_end_date,03 AUG 2024
+total_credit_amount,1800.0
+total_credit_transactions,1.0
+total_debit_amount,3010.0
+total_debit_transactions,4.0
+SearchablePDF.name,HSBC_Type_I_2.png_searchable.pdf
+SearchablePDF.url,https://api.parseur.com/document/1bZfT_swz4QWjCZVVAMu9wnbx1HvRL75H.AZe89AV7RJ5SIw.QV.Qr3EPI.7j6Ov/searchable_pdf/HSBC_Type_I_2.png_searchable.pdf
+SearchablePDF.content_type,application/pdf
+SearchablePDF.size,150278
+Template,
+ParsingEngine,AI
+
+transactions
+balance,debit,description,transaction_date,credit
+7545.5,210.0,HIB-21305BX2884 NAYANA SR 239266765600 CRP REF YIB1-050,,
+6745.5,800.0,AEV280460KAWBOE8 HIB-213058X500 NAYANA SR 5213140112010 CRP REF YIB1-09951,,
+5745.5,1000.0,ATMA803 18:18 09 REF A803-00042,03 Jun 24,
+7545.5,,SALARY May 2024 F,04 Oct 2024,1800.0
+6545.5,1000.0,REPAY 011-5165-159 REF ZLSI-027681,04 Oct 2024,

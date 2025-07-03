@@ -1,0 +1,11 @@
+Date,Transaction Details,Debit,Credit,Balance
+2021/11/15,Transfer,SAR 0.00,SAR 300.00,SAR 323.52
+2021/11/15,Transfer,SAR 0.00,SAR 375.00,SAR 698.52
+2021/11/15,Transfer,SAR 0.00,SAR 100.00,SAR 798.52
+2021/11/19,Transfer,SAR 0.00,SAR 100.00,SAR 898.52
+2021/11/19,Transfer,SAR 0.00,SAR 50.00,SAR 948.52
+2021/11/19,Outward IPS Credit Transfer,SAR 500.00,SAR 0.00,SAR 448.52
+2021/11/19,Outward IPS Credit Transaction Charges,SAR 0.58,SAR 0.00,SAR 447.94
+2021/11/23,Inward IPS Credit Transfer,SAR 0.00,"SAR 1,500.00","SAR 1,947.94"
+2021/11/23,Inward IPS Credit Transfer,SAR 0.00,SAR 375.00,"SAR 2,322.94"
+2021/11/23,Inward IPS Credit Transfer,SAR 0.00,SAR 500.00,"SAR 2,822.94"

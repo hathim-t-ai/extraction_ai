@@ -1,0 +1,1093 @@
+{
+  "transactions": [
+    {
+      "SI No": "1",
+      "Txn Date": "01-06-2017",
+      "Description": "CWDR//342599/MS09047",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "2500.00",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "14021.83"
+    },
+    {
+      "SI No": "2",
+      "Txn Date": "02-06-2017",
+      "Description": "MEDR/CC Avenue dr/491068/",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "100.00",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "13921.83"
+    },
+    {
+      "SI No": "3",
+      "Txn Date": "04-06-2017",
+      "Description": "MEDR/R T KADAM /843855/",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "300.00",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "13621.83"
+    },
+    {
+      "SI No": "4",
+      "Txn Date": "05-06-2017",
+      "Description": "MEDR/RPSL /652674/",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "50.00",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "13571.83"
+    },
+    {
+      "SI No": "5",
+      "Txn Date": "06-06-2017",
+      "Description": "NACH/HDFC BANK LIMITED",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "11955.00",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "1616.83"
+    },
+    {
+      "SI No": "6",
+      "Txn Date": "08-06-2017",
+      "Description": "CWDR//342222/MS09047",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "1000.00",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "616.83"
+    },
+    {
+      "SI No": "7",
+      "Txn Date": "10-06-2017",
+      "Description": "MEDR/RPSL /422206/",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "100.00",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "516.83"
+    },
+    {
+      "SI No": "8",
+      "Txn Date": "12-06-2017",
+      "Description": "REV MERV//843855/R01/REFUND",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "",
+      "Deposits (in Rs.)": "2.25",
+      "Balance (in Rs.)": "519.08"
+    },
+    {
+      "SI No": "9",
+      "Txn Date": "16-06-2017",
+      "Description": "MEDR/RPSL /435610/",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "50.00",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "469.08"
+    },
+    {
+      "SI No": "10",
+      "Txn Date": "16-06-2017",
+      "Description": "CWDR//330720/TPCN1257",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "400.00",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "69.08"
+    },
+    {
+      "SI No": "11",
+      "Txn Date": "19-06-2017",
+      "Description": "MEDR/RPSL /697204/",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "50.00",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "19.08"
+    },
+    {
+      "SI No": "12",
+      "Txn Date": "27-06-2017",
+      "Description": "MEDR/RPSL /642542/",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "10.00",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "9.08"
+    },
+    {
+      "SI No": "13",
+      "Txn Date": "04-07-2017",
+      "Description": "bit salary",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "",
+      "Deposits (in Rs.)": "43002.00",
+      "Balance (in Rs.)": "43011.08"
+    },
+    {
+      "SI No": "14",
+      "Txn Date": "04-07-2017",
+      "Description": "loan rec",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "10624.00",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "32387.08"
+    },
+    {
+      "SI No": "15",
+      "Txn Date": "04-07-2017",
+      "Description": "MEDR/RPSL /780235/",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "322.00",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "32065.08"
+    },
+    {
+      "SI No": "16",
+      "Txn Date": "04-07-2017",
+      "Description": "CWDR//342509/MS09047",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "5000.00",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "27065.08"
+    },
+    {
+      "SI No": "17",
+      "Txn Date": "05-07-2017",
+      "Description": "NACH/HDFC BANK LIMITED",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "11955.00",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "15110.08"
+    },
+    {
+      "SI No": "18",
+      "Txn Date": "06-07-2017",
+      "Description": "NEFT-MSBTE PUNE",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "",
+      "Deposits (in Rs.)": "8089.00",
+      "Balance (in Rs.)": "23199.08"
+    },
+    {
+      "SI No": "19",
+      "Txn Date": "06-07-2017",
+      "Description": "CWDR//315906/CSO9013",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "2000.00",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "21199.08"
+    },
+    {
+      "SI No": "20",
+      "Txn Date": "07-07-2017",
+      "Description": "MEDR/PAYTM APP /4534/",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "100.00",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "21099.08"
+    },
+    {
+      "SI No": "21",
+      "Txn Date": "07-07-2017",
+      "Description": "MEDR/RPSL /402598/",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "50.00",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "21049.08"
+    },
+    {
+      "SI No": "22",
+      "Txn Date": "07-07-2017",
+      "Description": "MEDR/IRCTC /199507/",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "102.12",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "20946.96"
+    },
+    {
+      "SI No": "23",
+      "Txn Date": "08-07-2017",
+      "Description": "MEDR/IRCTC /576879/",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "102.12",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "20844.84"
+    },
+    {
+      "SI No": "24",
+      "Txn Date": "08-07-2017",
+      "Description": "CWDR//813813/1FDSOL02",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "1000.00",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "19844.84"
+    },
+    {
+      "SI No": "25",
+      "Txn Date": "10-07-2017",
+      "Description": "MEDR/RPSL /309584/",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "2790.00",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "17054.84"
+    },
+    {
+      "SI No": "26",
+      "Txn Date": "10-07-2017",
+      "Description": "MEDR/RPSL /245615/",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "50.00",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "17004.84"
+    },
+    {
+      "SI No": "27",
+      "Txn Date": "11-07-2017",
+      "Description": "CWDR//400298/S1ANBS05",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "5000.00",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "12004.84"
+    },
+    {
+      "SI No": "28",
+      "Txn Date": "12-07-2017",
+      "Description": "CWDR//525090/CS046112",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "1000.00",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "11004.84"
+    },
+    {
+      "SI No": "29",
+      "Txn Date": "13-07-2017",
+      "Description": "MEDR/RPSL /145853/",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "69.00",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "10935.84"
+    },
+    {
+      "SI No": "30",
+      "Txn Date": "13-07-2017",
+      "Description": "CWDR//342650/MS09047",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "1500.00",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "9435.84"
+    },
+    {
+      "SI No": "31",
+      "Txn Date": "16-07-2017",
+      "Description": "MEDR/SAHYADRI FUE/829419/",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "500.00",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "8935.84"
+    },
+    {
+      "SI No": "32",
+      "Txn Date": "16-07-2017",
+      "Description": "CWDR//19242/CS046112",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "1000.00",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "7935.84"
+    },
+    {
+      "SI No": "33",
+      "Txn Date": "17-07-2017",
+      "Description": "MEDR/RPSL /348881/",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "50.00",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "7885.84"
+    },
+    {
+      "SI No": "34",
+      "Txn Date": "18-07-2017",
+      "Description": "MEDR/RPSL /747107/",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "349.00",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "7536.84"
+    },
+    {
+      "SI No": "35",
+      "Txn Date": "18-07-2017",
+      "Description": "BDIPG/JB5507521129/LICOFINDIA",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "5421.00",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "2115.84"
+    },
+    {
+      "SI No": "36",
+      "Txn Date": "18-07-2017",
+      "Description": "MEDR/RPSL /64092/",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "150.00",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "1965.84"
+    },
+    {
+      "SI No": "37",
+      "Txn Date": "20-07-2017",
+      "Description": "MEDR/RPSL /471426/",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "50.00",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "1915.84"
+    },
+    {
+      "SI No": "38",
+      "Txn Date": "21-07-2017",
+      "Description": "CWDR//474895/TPCN1257",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "700.00",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "1215.84"
+    },
+    {
+      "SI No": "39",
+      "Txn Date": "23-07-2017",
+      "Description": "MEDR/RPSL /746757/",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "100.00",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "1115.84"
+    },
+    {
+      "SI No": "40",
+      "Txn Date": "23-07-2017",
+      "Description": "CWDR//315667/CSO9013",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "600.00",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "515.84"
+    },
+    {
+      "SI No": "41",
+      "Txn Date": "25-07-2017",
+      "Description": "MEDR/PAYTM APP /744037/",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "50.00",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "465.84"
+    },
+    {
+      "SI No": "42",
+      "Txn Date": "26-07-2017",
+      "Description": "REV MERV//829419/R01/REFUND",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "",
+      "Deposits (in Rs.)": "3.75",
+      "Balance (in Rs.)": "469.59"
+    },
+    {
+      "SI No": "43",
+      "Txn Date": "29-07-2017",
+      "Description": "MEDR/RPSL /453658/",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "100.00",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "369.59"
+    },
+    {
+      "SI No": "44",
+      "Txn Date": "29-07-2017",
+      "Description": "MEDR/PAYTM APP /619306/",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "69.00",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "300.59"
+    },
+    {
+      "SI No": "45",
+      "Txn Date": "29-07-2017",
+      "Description": "MEDR/RPSL /357694/",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "50.00",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "250.59"
+    },
+    {
+      "SI No": "46",
+      "Txn Date": "31-07-2017",
+      "Description": "SALARY",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "",
+      "Deposits (in Rs.)": "42970.00",
+      "Balance (in Rs.)": "43220.59"
+    },
+    {
+      "SI No": "47",
+      "Txn Date": "31-07-2017",
+      "Description": "LOAN RECOVERY",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "10624.00",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "32596.59"
+    },
+    {
+      "SI No": "48",
+      "Txn Date": "31-07-2017",
+      "Description": "CWDR//315887/CSO9013",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "1800.00",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "30796.59"
+    },
+    {
+      "SI No": "49",
+      "Txn Date": "01-08-2017",
+      "Description": "MEDR/PAYTM APP /260147/",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "96.00",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "30700.59"
+    },
+    {
+      "SI No": "50",
+      "Txn Date": "02-08-2017",
+      "Description": "CWDR//928757/ID046101",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "7000.00",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "23700.59"
+    },
+    {
+      "SI No": "51",
+      "Txn Date": "02-08-2017",
+      "Description": "SMSCharges QtrAPR17-JUN17+GST@18",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "17.70",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "23682.89"
+    },
+    {
+      "SI No": "52",
+      "Txn Date": "03-08-2017",
+      "Description": "CWDR//223210/CS046112",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "7500.00",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "16182.89"
+    },
+    {
+      "SI No": "53",
+      "Txn Date": "04-08-2017",
+      "Description": "MEDR/RPSL /311794/",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "100.00",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "16082.89"
+    },
+    {
+      "SI No": "54",
+      "Txn Date": "05-08-2017",
+      "Description": "NACH/HDFC BANK LIMITED",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "11955.00",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "4127.89"
+    },
+    {
+      "SI No": "55",
+      "Txn Date": "05-08-2017",
+      "Description": "CWDR//721658/ID046101",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "1000.00",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "3127.89"
+    },
+    {
+      "SI No": "56",
+      "Txn Date": "06-08-2017",
+      "Description": "CWDR//342208/MS09047",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "1000.00",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "2127.89"
+    },
+    {
+      "SI No": "57",
+      "Txn Date": "09-08-2017",
+      "Description": "NEFT-MSBTE PUNE",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "",
+      "Deposits (in Rs.)": "500.00",
+      "Balance (in Rs.)": "2627.89"
+    },
+    {
+      "SI No": "58",
+      "Txn Date": "10-08-2017",
+      "Description": "Int:01-05-2017/31-07-2017",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "",
+      "Deposits (in Rs.)": "92.00",
+      "Balance (in Rs.)": "2719.89"
+    },
+    {
+      "SI No": "59",
+      "Txn Date": "11-08-2017",
+      "Description": "MEDR/RPSL /780867/",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "100.00",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "2619.89"
+    },
+    {
+      "SI No": "60",
+      "Txn Date": "11-08-2017",
+      "Description": "CWDR//961423/CS046112",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "600.00",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "2019.89"
+    },
+    {
+      "SI No": "61",
+      "Txn Date": "12-08-2017",
+      "Description": "MEDR/RPSL /625528/",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "50.00",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "1969.89"
+    },
+    {
+      "SI No": "62",
+      "Txn Date": "13-08-2017",
+      "Description": "CWDR//165162/TPCN1257",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "700.00",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "1269.89"
+    },
+    {
+      "SI No": "63",
+      "Txn Date": "14-08-2017",
+      "Description": "CWDR//881905/NKOL6146",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "520.00",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "749.89"
+    },
+    {
+      "SI No": "64",
+      "Txn Date": "15-08-2017",
+      "Description": "MEDR/RPSL /393736/",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "50.00",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "699.89"
+    },
+    {
+      "SI No": "65",
+      "Txn Date": "17-08-2017",
+      "Description": "MEDR/RPSL /927334/",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "99.00",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "600.89"
+    },
+    {
+      "SI No": "66",
+      "Txn Date": "19-08-2017",
+      "Description": "CWDR//342216/MS09047",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "500.00",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "100.89"
+    },
+    {
+      "SI No": "67",
+      "Txn Date": "23-08-2017",
+      "Description": "MEDR/RPSL /528342/",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "100.00",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "0.89"
+    },
+    {
+      "SI No": "68",
+      "Txn Date": "30-08-2017",
+      "Description": "NEFT-MSBTE",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "",
+      "Deposits (in Rs.)": "375.00",
+      "Balance (in Rs.)": "375.89"
+    },
+    {
+      "SI No": "69",
+      "Txn Date": "30-08-2017",
+      "Description": "NEFT-MSBTE",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "",
+      "Deposits (in Rs.)": "800.00",
+      "Balance (in Rs.)": "1175.89"
+    },
+    {
+      "SI No": "70",
+      "Txn Date": "30-08-2017",
+      "Description": "NEFT-MSBTE",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "",
+      "Deposits (in Rs.)": "300.00",
+      "Balance (in Rs.)": "1475.89"
+    },
+    {
+      "SI No": "71",
+      "Txn Date": "31-08-2017",
+      "Description": "CWDR//342203/MS09047",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "400.00",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "1075.89"
+    },
+    {
+      "SI No": "72",
+      "Txn Date": "31-08-2017",
+      "Description": "MEDR/RPSL /516710/",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "50.00",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "1025.89"
+    },
+    {
+      "SI No": "73",
+      "Txn Date": "31-08-2017",
+      "Description": "CWDR//450359/CS046112",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "520.00",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "505.89"
+    },
+    {
+      "SI No": "74",
+      "Txn Date": "03-09-2017",
+      "Description": "MEDR/RPSL /127065/",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "100.00",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "405.89"
+    },
+    {
+      "SI No": "75",
+      "Txn Date": "04-09-2017",
+      "Description": "MEDR/RPSL /758515/",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "200.00",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "205.89"
+    },
+    {
+      "SI No": "76",
+      "Txn Date": "04-09-2017",
+      "Description": "salary",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "",
+      "Deposits (in Rs.)": "42995.00",
+      "Balance (in Rs.)": "43200.89"
+    },
+    {
+      "SI No": "77",
+      "Txn Date": "04-09-2017",
+      "Description": "Loan amt debit",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "10624.00",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "32576.89"
+    },
+    {
+      "SI No": "78",
+      "Txn Date": "04-09-2017",
+      "Description": "CWDR//342525/MS09047",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "3500.00",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "29076.89"
+    },
+    {
+      "SI No": "79",
+      "Txn Date": "05-09-2017",
+      "Description": "CWDR//229893/TPCN1257",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "500.00",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "28576.89"
+    },
+    {
+      "SI No": "80",
+      "Txn Date": "06-09-2017",
+      "Description": "MEDR/RPSL /531022/",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "2110.00",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "26466.89"
+    },
+    {
+      "SI No": "81",
+      "Txn Date": "06-09-2017",
+      "Description": "BUPI/7249099 25612/06-09-2017 09:26:03/UPI",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "4000.00",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "22466.89"
+    },
+    {
+      "SI No": "82",
+      "Txn Date": "06-09-2017",
+      "Description": "NACH/HDFC BANK LIMITED",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "11955.00",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "10511.89"
+    },
+    {
+      "SI No": "83",
+      "Txn Date": "06-09-2017",
+      "Description": "MEDR/RPSL /134746/",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "60.00",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "10451.89"
+    },
+    {
+      "SI No": "84",
+      "Txn Date": "07-09-2017",
+      "Description": "CWDR//315869/CSO9013",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "2500.00",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "7951.89"
+    },
+    {
+      "SI No": "85",
+      "Txn Date": "09-09-2017",
+      "Description": "MEDR/RPSL /149239/",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "100.00",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "7851.89"
+    },
+    {
+      "SI No": "86",
+      "Txn Date": "13-09-2017",
+      "Description": "CWDR//774704/CS046112",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "2500.00",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "5351.89"
+    },
+    {
+      "SI No": "87",
+      "Txn Date": "13-09-2017",
+      "Description": "CWRR//774704/CS046112",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "",
+      "Deposits (in Rs.)": "2500.00",
+      "Balance (in Rs.)": "7851.89"
+    },
+    {
+      "SI No": "88",
+      "Txn Date": "13-09-2017",
+      "Description": "CWDR//915436/TPCN1257",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "2500.00",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "5351.89"
+    },
+    {
+      "SI No": "89",
+      "Txn Date": "13-09-2017",
+      "Description": "CWDR//181031/TPCN1257",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "4000.00",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "1351.89"
+    },
+    {
+      "SI No": "90",
+      "Txn Date": "15-09-2017",
+      "Description": "MEDR/RPSL /853680/",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "100.00",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "1251.89"
+    },
+    {
+      "SI No": "91",
+      "Txn Date": "15-09-2017",
+      "Description": "CWDR//342558/MS09047",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "700.00",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "551.89"
+    },
+    {
+      "SI No": "92",
+      "Txn Date": "16-09-2017",
+      "Description": "CWDR//880858/NKOL6146",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "500.00",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "51.89"
+    },
+    {
+      "SI No": "93",
+      "Txn Date": "21-09-2017",
+      "Description": "MEDR/RPSL /99057/",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "50.00",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "1.89"
+    },
+    {
+      "SI No": "94",
+      "Txn Date": "29-09-2017",
+      "Description": "BIT SAL",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "",
+      "Deposits (in Rs.)": "43002.00",
+      "Balance (in Rs.)": "43003.89"
+    },
+    {
+      "SI No": "95",
+      "Txn Date": "29-09-2017",
+      "Description": "loan rec",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "10624.00",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "32379.89"
+    },
+    {
+      "SI No": "96",
+      "Txn Date": "30-09-2017",
+      "Description": "CWDR//342342/MS09047",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "2500.00",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "29879.89"
+    },
+    {
+      "SI No": "97",
+      "Txn Date": "04-10-2017",
+      "Description": "CWDR//342233/MSO9047",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "3000.00",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "26879.89"
+    },
+    {
+      "SI No": "98",
+      "Txn Date": "04-10-2017",
+      "Description": "BUPI/727752803073/04-10-2017 13:27:04/UPI",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "50.00",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "26829.89"
+    },
+    {
+      "SI No": "99",
+      "Txn Date": "05-10-2017",
+      "Description": "NACH DR INW - HDFC BANK LIMITED 0099400705/AGL",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "11955.00",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "14874.89"
+    },
+    {
+      "SI No": "100",
+      "Txn Date": "05-10-2017",
+      "Description": "CWDR//843402/TPCN1257",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "7500.0",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "7374.89"
+    },
+    {
+      "SI No": "101",
+      "Txn Date": "06-10-2017",
+      "Description": "MEDR/RN DHAGE PET/346428/",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "301.5",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "7073.39"
+    },
+    {
+      "SI No": "102",
+      "Txn Date": "07-10-2017",
+      "Description": "BUPI/728044848900/07-10-2017 11:09:21/UPI",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "85.0",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "6988.39"
+    },
+    {
+      "SI No": "103",
+      "Txn Date": "07-10-2017",
+      "Description": "CWDR//259809/TPCN1257",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "500.0",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "6488.39"
+    },
+    {
+      "SI No": "104",
+      "Txn Date": "07-10-2017",
+      "Description": "CWDR//448349/TPCN1257",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "500.0",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "5988.39"
+    },
+    {
+      "SI No": "105",
+      "Txn Date": "07-10-2017",
+      "Description": "CWRR//259809/TPCN1257",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "",
+      "Deposits (in Rs.)": "500.0",
+      "Balance (in Rs.)": "6488.39"
+    },
+    {
+      "SI No": "106",
+      "Txn Date": "08-10-2017",
+      "Description": "BUPI/728132934815/08-10-2017 08:55:27/UPI",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "1000.0",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "5488.39"
+    },
+    {
+      "SI No": "107",
+      "Txn Date": "08-10-2017",
+      "Description": "BUPI/728134608834/08-10-2017 17:24:40/UPI",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "830.0",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "4658.39"
+    },
+    {
+      "SI No": "108",
+      "Txn Date": "11-10-2017",
+      "Description": "REV MERV//346428/R02/TIPS-SURG",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "2.67",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "4655.72"
+    },
+    {
+      "SI No": "109",
+      "Txn Date": "11-10-2017",
+      "Description": "BUPI/728416921779/11-10-2017 16:25:06/UPI",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "51.0",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "4604.72"
+    },
+    {
+      "SI No": "110",
+      "Txn Date": "11-10-2017",
+      "Description": "BUPI/728416922574/11-10-2017 16:26:54/UPI",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "",
+      "Deposits (in Rs.)": "51.0",
+      "Balance (in Rs.)": "4655.72"
+    },
+    {
+      "SI No": "111",
+      "Txn Date": "12-10-2017",
+      "Description": "BUPI/728515280096/12-10-2017 15:27:18/UPI",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "51.0",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "4604.72"
+    },
+    {
+      "SI No": "112",
+      "Txn Date": "12-10-2017",
+      "Description": "BUPI/728515281048/12-10-2017 15:29:50/UPI",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "",
+      "Deposits (in Rs.)": "51.0",
+      "Balance (in Rs.)": "4655.72"
+    },
+    {
+      "SI No": "113",
+      "Txn Date": "12-10-2017",
+      "Description": "MEDR/MIRA PETROLE/53178/",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "500.0",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "4155.72"
+    },
+    {
+      "SI No": "114",
+      "Txn Date": "12-10-2017",
+      "Description": "BUPI/728519367182/12-10-2017 19:17:18/UPI",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "51.0",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "4104.72"
+    },
+    {
+      "SI No": "115",
+      "Txn Date": "15-10-2017",
+      "Description": "BDIPG/JB5738620209/RPSL",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "399.0",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "3705.72"
+    },
+    {
+      "SI No": "116",
+      "Txn Date": "15-10-2017",
+      "Description": "MEDR/VARDHAMAN HO/843576/",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "650.0",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "3055.72"
+    },
+    {
+      "SI No": "117",
+      "Txn Date": "15-10-2017",
+      "Description": "MEDR/Priydarshni /352829/",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "650.0",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "2405.72"
+    },
+    {
+      "SI No": "118",
+      "Txn Date": "16-10-2017",
+      "Description": "CWDR//504106/TPCN1257",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "2000.0",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "405.72"
+    },
+    {
+      "SI No": "119",
+      "Txn Date": "19-10-2017",
+      "Description": "BUPI/729232752185/19-10-2017 16:45:05/UPI",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "300.0",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "105.72"
+    },
+    {
+      "SI No": "120",
+      "Txn Date": "20-10-2017",
+      "Description": "BUPI/729307567831/20-10-2017 07:57:13/UPI",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "51.0",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "54.72"
+    },
+    {
+      "SI No": "121",
+      "Txn Date": "21-10-2017",
+      "Description": "REV MERV//053178/R02/TIPS-SURG",
+      "Cheque No": "",
+      "Withdrawal (in Rs.)": "4.43",
+      "Deposits (in Rs.)": "",
+      "Balance (in Rs.)": "50.29"
+    }
+  ]
+}

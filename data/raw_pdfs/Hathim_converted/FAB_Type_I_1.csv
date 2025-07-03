@@ -1,0 +1,37 @@
+account_holder_address,"PO Box 111311 Staybridge hot No1119
+Dubai South Dubai South
+DUBAI, UAE
+UAE"
+account_holder_name,OLGA MILICHENKOVA
+account_number,164-100-5705675-00-1
+bank_currency,AED
+closing_balance,1428.61
+debit_interest,0.0
+iban_number,ΑΕ-36-035-164-100-5705675-00-1
+opening_balance,384.86
+page_number,1.0
+statement_end_date,10 SEP 2023
+statement_start_date,11 AUG 2023
+total_credit_amount,14140.91
+total_credit_transactions,9.0
+total_debit_amount,13097.16
+total_debit_transactions,75.0
+
+transactions
+balance,credit,description,transaction_date,debit
+7384.86,7000.0,ATM Cash Deposit P32-7191 CDM MOE Branch ATM CASH DEPOSIT,11 AUG 2023,
+7160.61,,POS Settlement NAMSHI DUBAI AED 224.25,11 AUG 2023,224.25
+7136.61,,POS Settlement ES TRAINING DMCC Dubai AΑΕ D 24,11 AUG 2023,24.0
+7106.61,,POS Settlement SDG DubaiPay DUBAI AED 30,11 AUG 2023,30.0
+7086.62,,POS Settlement APPLE.COM BILL ITUNES.COM AED 19.99,11 AUG 2023,19.99
+7009.07,,POS Settlement DELIVEROO ABU DHABI AED 77.55,12 AUG 2023,77.55
+7002.82,,POS Settlement EPPCO SITE 5558 DUBAI AED 6.25,12 AUG 2023,6.25
+6920.47,,POS Settlement CARREFOUR-MOE DUBAI AED 82.35,14 AUG 2023,82.35
+6870.47,,POS Settlement SMART DUBAI GOVERNMENT DUBAI AED 50,14 AUG 2023,50.0
+6825.1,,POS Settlement www.instashop.com Dubai AED 45.37,14 AUG 2023,45.37
+6791.15,,POS Settlement DELIVEROO ABU DHABI AED 33.95,14 AUG 2023,33.95
+6719.7,,POS Settlement DELIVEROO ABU DHABI AED 71.45,15 AUG 2023,71.45
+6414.57,,POS Settlement NAMSHI DUBAI AED 305.13,15 AUG 2023,305.13
+5951.11,,POS Settlement NAMSHI DUBAI AED 463.46,15 AUG 2023,463.46
+5820.36,,POS Settlement DAY TO DAY HYPERMARKET DUBAI AED 130.75,16 AUG 2023,130.75
+5615.2,,POS Settlement NAMSHI DUBAI AED 205.16,16 AUG 2023,205.16

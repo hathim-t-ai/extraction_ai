@@ -1,0 +1,14 @@
+transactions
+balance,credit_amount,date,details,debit_amount
+5301000.0,467000.0,09/03/2017,TechMech Pvt. Ltd,
+5768000.0,467000.0,09/04/2017,TechMech Pvt. Ltd,
+6000000.0,132000.0,25/04/2017,Xinpin Sol.,
+5900000.0,,28/04/2017,TechMech Pvt. Ltd,100000.0
+6367000.0,467000.0,09/05/2017,TechMech Pvt. Ltd,
+6834000.0,467000.0,09/06/2017,TechMech Pvt. Ltd,
+6900000.0,66000.0,13/06/2017,Alibaba Ltd.,
+7367000.0,467000.0,09/07/2017,TechMech Pvt. Ltd,
+7400000.0,33000.0,25/08/2017,Chingping Ltd.,
+7500000.0,100000.0,14/09/2017,Despacito Ltd.,
+7400000.0,,23/10/2017,Jey Ltd,100000.0
+7300000.0,,08/12/2017,Mahindra Ltd.,100000.0

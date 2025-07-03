@@ -1,0 +1,260 @@
+{
+  "transactions": [
+    {
+      "DATE": "01 SEP 2023",
+      "VALUE DATE": "01 SEP 2023",
+      "DESCRIPTION": "UADDS Cr Trf-501PY-71200001962022000023289000013",
+      "DEBIT": "8661.0",
+      "CREDIT": "",
+      "BALANCE": "23706.35"
+    },
+    {
+      "DATE": "02 SEP 2023",
+      "VALUE DATE": "02 SEP 2023",
+      "DESCRIPTION": "ATM Cash Withdrawal-FAB",
+      "DEBIT": "4400.0",
+      "CREDIT": "",
+      "BALANCE": "19306.35"
+    },
+    {
+      "DATE": "02 SEP 2023",
+      "VALUE DATE": "30 AUG 2023",
+      "DESCRIPTION": "Debit Card Transaction-SHEIN Dubai",
+      "DEBIT": "",
+      "CREDIT": "20.59",
+      "BALANCE": "19326.94"
+    },
+    {
+      "DATE": "04 SEP 2023",
+      "VALUE DATE": "04 SEP 2023",
+      "DESCRIPTION": "Salary Transfer-Salary Transfer from PARSONS INTERN",
+      "DEBIT": "",
+      "CREDIT": "24000.0",
+      "BALANCE": "43326.94"
+    },
+    {
+      "DATE": "04 SEP 2023",
+      "VALUE DATE": "02 SEP 2023",
+      "DESCRIPTION": "Debit Card Transaction-AL GHAZAL TRANSPORT Abu Dhabi",
+      "DEBIT": "12.0",
+      "CREDIT": "",
+      "BALANCE": "43314.94"
+    },
+    {
+      "DATE": "04 SEP 2023",
+      "VALUE DATE": "02 SEP 2023",
+      "DESCRIPTION": "Debit Card Transaction-NATIONAL TAXI Abu Dhabi",
+      "DEBIT": "12.0",
+      "CREDIT": "",
+      "BALANCE": "43302.94"
+    },
+    {
+      "DATE": "04 SEP 2023",
+      "VALUE DATE": "02 SEP 2023",
+      "DESCRIPTION": "Debit Card Transaction-SAROUJA ROASTERY LLC ABU DHABI",
+      "DEBIT": "65.0",
+      "CREDIT": "",
+      "BALANCE": "43237.94"
+    },
+    {
+      "DATE": "04 SEP 2023",
+      "VALUE DATE": "02 SEP 2023",
+      "DESCRIPTION": "Debit Card Transaction-LULU HYPERMARKET- WTC ABU DHABI",
+      "DEBIT": "17.9",
+      "CREDIT": "",
+      "BALANCE": "43220.04"
+    },
+    {
+      "DATE": "04 SEP 2023",
+      "VALUE DATE": "02 SEP 2023",
+      "DESCRIPTION": "Debit Card Transaction-INSTANBUL FOODSTUFF Abu Dhabi",
+      "DEBIT": "91.23",
+      "CREDIT": "",
+      "BALANCE": "43128.81"
+    },
+    {
+      "DATE": "04 SEP 2023",
+      "VALUE DATE": "02 SEP 2023",
+      "DESCRIPTION": "Debit Card Transaction-ORGANIC FLOUR MILL Abu Dhabi",
+      "DEBIT": "20.0",
+      "CREDIT": "",
+      "BALANCE": "43108.81"
+    },
+    {
+      "DATE": "04 SEP 2023",
+      "VALUE DATE": "02 SEP 2023",
+      "DESCRIPTION": "Debit Card Transaction-TAWASUL TRANSPORT LLC Abu Dhabi",
+      "DEBIT": "12.0",
+      "CREDIT": "",
+      "BALANCE": "43096.81"
+    },
+    {
+      "DATE": "04 SEP 2023",
+      "VALUE DATE": "01 SEP 2023",
+      "DESCRIPTION": "Debit Card Transaction-Zaytooneh General Trad Abu",
+      "DEBIT": "29.0",
+      "CREDIT": "",
+      "BALANCE": "43067.81"
+    },
+    {
+      "DATE": "04 SEP 2023",
+      "VALUE DATE": "02 SEP 2023",
+      "DESCRIPTION": "Debit Card Transaction-LULU HYPERMARKET LLC B ABU DHABI",
+      "DEBIT": "599.0",
+      "CREDIT": "",
+      "BALANCE": "42468.81"
+    },
+    {
+      "DATE": "04 SEP 2023",
+      "VALUE DATE": "02 SEP 2023",
+      "DESCRIPTION": "Debit Card Transaction-AL GHAZAL TRANSPORT Abu Dhabi",
+      "DEBIT": "12.0",
+      "CREDIT": "",
+      "BALANCE": "42456.81"
+    },
+    {
+      "DATE": "05 SEP 2023",
+      "VALUE DATE": "02 SEP 2023",
+      "DESCRIPTION": "Debit Card Transaction-AL MADINA FRESH MART Abu Dhabi",
+      "DEBIT": "82.32",
+      "CREDIT": "",
+      "BALANCE": "42374.49"
+    },
+    {
+      "DATE": "05 SEP 2023",
+      "VALUE DATE": "02 SEP 2023",
+      "DESCRIPTION": "Debit Card Transaction-AL MADINA FRESH MART Abu Dhabi",
+      "DEBIT": "124.91",
+      "CREDIT": "",
+      "BALANCE": "42249.58"
+    },
+    {
+      "DATE": "05 SEP 2023",
+      "VALUE DATE": "02 SEP 2023",
+      "DESCRIPTION": "Debit Card Transaction-NATIONAL TAXI Abu Dhabi",
+      "DEBIT": "12.0",
+      "CREDIT": "",
+      "BALANCE": "42237.58"
+    },
+    {
+      "DATE": "05 SEP 2023",
+      "VALUE DATE": "01 SEP 2023",
+      "DESCRIPTION": "Debit Card Transaction-BAQALA SAFARI ABU DHABI",
+      "DEBIT": "23.0",
+      "CREDIT": "",
+      "BALANCE": "42214.58"
+    },
+    {
+      "DATE": "08 SEP 2023",
+      "VALUE DATE": "08 SEP 2023",
+      "DESCRIPTION": "Utility Payment-0554205770-MBL",
+      "DEBIT": "250.69",
+      "CREDIT": "",
+      "BALANCE": "41963.89"
+    },
+    {
+      "DATE": "08 SEP 2023",
+      "VALUE DATE": "08 SEP 2023",
+      "DESCRIPTION": "Utility Payment-7169001018-MBL",
+      "DEBIT": "953.19",
+      "CREDIT": "",
+      "BALANCE": "41010.7"
+    },
+    {
+      "DATE": "08 SEP 2023",
+      "VALUE DATE": "08 SEP 2023",
+      "DESCRIPTION": "Utility Payment-024436811-MBL",
+      "DEBIT": "429.45",
+      "CREDIT": "",
+      "BALANCE": "40581.25"
+    },
+    {
+      "DATE": "08 SEP 2023",
+      "VALUE DATE": "08 SEP 2023",
+      "DESCRIPTION": "Inward IPI Payment-IPI Ref: IPI23090803VWNYK Remitter Info: MOHAMMAD ZIAD HALLOUSH Sender: ABDIAEAD Value Date: 08-09-2",
+      "DEBIT": "",
+      "CREDIT": "310.0",
+      "BALANCE": "40891.25"
+    },
+    {
+      "DATE": "09 SEP 2023",
+      "VALUE DATE": "09 SEP 2023",
+      "DESCRIPTION": "ATM Cash Withdrawal-FAB",
+      "DEBIT": "9600.0",
+      "CREDIT": "",
+      "BALANCE": "31291.25"
+    },
+    {
+      "DATE": "10 SEP 2023",
+      "VALUE DATE": "09 SEP 2023",
+      "DESCRIPTION": "ATM Cash Withdrawal-FAB",
+      "DEBIT": "300.0",
+      "CREDIT": "",
+      "BALANCE": "30991.25"
+    },
+    {
+      "DATE": "11 SEP 2023",
+      "VALUE DATE": "09 SEP 2023",
+      "DESCRIPTION": "Debit Card Transaction-AD SPECIALITY HOSPITAL Abu Dhabi",
+      "DEBIT": "20.0",
+      "CREDIT": "",
+      "BALANCE": "30971.25"
+    },
+    {
+      "DATE": "11 SEP 2023",
+      "VALUE DATE": "09 SEP 2023",
+      "DESCRIPTION": "Debit Card Transaction-CARS TAXI Abu Dhabi",
+      "DEBIT": "12.0",
+      "CREDIT": "",
+      "BALANCE": "30959.25"
+    },
+    {
+      "DATE": "11 SEP 2023",
+      "VALUE DATE": "09 SEP 2023",
+      "DESCRIPTION": "Debit Card Transaction-AD SPECIALITY HOSPITAL Abu Dhabi",
+      "DEBIT": "20.0",
+      "CREDIT": "",
+      "BALANCE": "30939.25"
+    },
+    {
+      "DATE": "11 SEP 2023",
+      "VALUE DATE": "09 SEP 2023",
+      "DESCRIPTION": "Debit Card Transaction-NPCL Abu Dhabi",
+      "DEBIT": "44.52",
+      "CREDIT": "",
+      "BALANCE": "30894.73"
+    },
+    {
+      "DATE": "11 SEP 2023",
+      "VALUE DATE": "08 SEP 2023",
+      "DESCRIPTION": "Debit Card Transaction- LULUHYPERMARKET MADINA ABU DHABI",
+      "DEBIT": "155.35",
+      "CREDIT": "",
+      "BALANCE": "30739.38"
+    },
+    {
+      "DATE": "11 SEP 2023",
+      "VALUE DATE": "09 SEP 2023",
+      "DESCRIPTION": "Debit Card Transaction-TAWASUL TRANSPORT LLC Abu Dhabi",
+      "DEBIT": "12.0",
+      "CREDIT": "",
+      "BALANCE": "30727.38"
+    },
+    {
+      "DATE": "11 SEP 2023",
+      "VALUE DATE": "08 SEP 2023",
+      "DESCRIPTION": "Debit Card Transaction-AL GHAZAL TRANSPORT Abu Dhabi",
+      "DEBIT": "12.0",
+      "CREDIT": "",
+      "BALANCE": "30715.38"
+    },
+    {
+      "DATE": "11 SEP 2023",
+      "VALUE DATE": "09 SEP 2023",
+      "DESCRIPTION": "Debit Card Transaction-ABU DHABI HEALTH SER. ABU DHABI",
+      "DEBIT": "250.0",
+      "CREDIT": "",
+      "BALANCE": "30465.38"
+    }
+  ]
+}

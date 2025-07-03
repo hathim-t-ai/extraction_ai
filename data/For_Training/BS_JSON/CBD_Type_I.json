@@ -1,0 +1,284 @@
+{
+  "transactions": [
+    {
+      "Date": "01/04/2024",
+      "Description": "CHEQUE DEPOSIT-ENBD-HOF314",
+      "Value Date": "01/04/2024",
+      "Debit": "",
+      "Credit": "50192.31",
+      "Balance": "1175676.2"
+    },
+    {
+      "Date": "02/04/2024",
+      "Description": "CHEQUE DEPOSIT-NBF-HOF13657",
+      "Value Date": "02/04/2024",
+      "Debit": "",
+      "Credit": "24059.7",
+      "Balance": "1199735.9"
+    },
+    {
+      "Date": "02/04/2024",
+      "Description": "CHEQUE DEPOSIT-ENBD-HOF25021",
+      "Value Date": "02/04/2024",
+      "Debit": "",
+      "Credit": "51752.03",
+      "Balance": "1251487.93"
+    },
+    {
+      "Date": "03/04/2024",
+      "Description": "TRF CHEQUE DEPOSIT-CBD-HOF2260",
+      "Value Date": "03/04/2024",
+      "Debit": "",
+      "Credit": "4470.2",
+      "Balance": "1255958.13"
+    },
+    {
+      "Date": "03/04/2024",
+      "Description": "TRF CHEQUE DEPOSIT-CBD-HOF2228",
+      "Value Date": "03/04/2024",
+      "Debit": "",
+      "Credit": "4470.2",
+      "Balance": "1260428.33"
+    },
+    {
+      "Date": "03/04/2024",
+      "Description": "TRF CHEQUE DEPOSIT-CBD-HOF2261",
+      "Value Date": "03/04/2024",
+      "Debit": "",
+      "Credit": "9063.84",
+      "Balance": "1269492.17"
+    },
+    {
+      "Date": "03/04/2024",
+      "Description": "TRF CHEQUE DEPOSIT-CBD-HOF2229",
+      "Value Date": "03/04/2024",
+      "Debit": "",
+      "Credit": "9009.68",
+      "Balance": "1278501.85"
+    },
+    {
+      "Date": "04/04/2024",
+      "Description": "CHEQUE DEPOSIT-DIB-HOF102771",
+      "Value Date": "04/04/2024",
+      "Debit": "",
+      "Credit": "740.88",
+      "Balance": "1279242.73"
+    },
+    {
+      "Date": "04/04/2024",
+      "Description": "CHEQUE DEPOSIT-HBAG-HOF19",
+      "Value Date": "04/04/2024",
+      "Debit": "",
+      "Credit": "1753.0",
+      "Balance": "1280995.73"
+    },
+    {
+      "Date": "04/04/2024",
+      "Description": "CHEQUE DEPOSIT-HSBC-HOF42337",
+      "Value Date": "04/04/2024",
+      "Debit": "",
+      "Credit": "984.31",
+      "Balance": "1281980.04"
+    },
+    {
+      "Date": "04/04/2024",
+      "Description": "CHEQUE DEPOSIT-ENBD-HOF9737",
+      "Value Date": "04/04/2024",
+      "Debit": "",
+      "Credit": "948.15",
+      "Balance": "1282928.19"
+    },
+    {
+      "Date": "04/04/2024",
+      "Description": "CHEQUE DEPOSIT-ADCB-HOF1890",
+      "Value Date": "04/04/2024",
+      "Debit": "",
+      "Credit": "254.08",
+      "Balance": "1283182.27"
+    },
+    {
+      "Date": "04/04/2024",
+      "Description": "CHEQUE DEPOSIT-ENBD-HOF9715",
+      "Value Date": "04/04/2024",
+      "Debit": "",
+      "Credit": "948.15",
+      "Balance": "1284130.42"
+    },
+    {
+      "Date": "05/04/2024",
+      "Description": "CHEQUE DEPOSIT-UAB-HOF378544",
+      "Value Date": "05/04/2024",
+      "Debit": "",
+      "Credit": "5850.0",
+      "Balance": "1289980.42"
+    },
+    {
+      "Date": "05/04/2024",
+      "Description": "CHEQUE DEPOSIT-ENBD-HOF7593",
+      "Value Date": "05/04/2024",
+      "Debit": "",
+      "Credit": "897.44",
+      "Balance": "1290877.86"
+    },
+    {
+      "Date": "13/04/2024",
+      "Description": "CHEQUE DEPOSIT-EIB-HOF3093",
+      "Value Date": "13/04/2024",
+      "Debit": "",
+      "Credit": "648.72",
+      "Balance": "1291526.58"
+    },
+    {
+      "Date": "13/04/2024",
+      "Description": "CHEQUE DEPOSIT-SCB-HOF290054",
+      "Value Date": "13/04/2024",
+      "Debit": "",
+      "Credit": "1736.44",
+      "Balance": "1293263.02"
+    },
+    {
+      "Date": "13/04/2024",
+      "Description": "CHEQUE DEPOSIT-SCB-HOF290053",
+      "Value Date": "13/04/2024",
+      "Debit": "",
+      "Credit": "870.98",
+      "Balance": "1294134.0"
+    },
+    {
+      "Date": "17/04/2024",
+      "Description": "-OLG2101194-17-PCH003-GUARANTEE ISSUE COMMISSION -HOF",
+      "Value Date": "17/04/2024",
+      "Debit": "600.0",
+      "Credit": "",
+      "Balance": "1293534.0"
+    },
+    {
+      "Date": "17/04/2024",
+      "Description": "-OLG2101194-17-PCH003-VAT CHARGES-HOF",
+      "Value Date": "17/04/2024",
+      "Debit": "30.0",
+      "Credit": "",
+      "Balance": "1293504.0"
+    },
+    {
+      "Date": "17/04/2024",
+      "Description": "-OLG2203791-17-PCH003-GUARANTEE ISSUE COMMISSION -HOF",
+      "Value Date": "17/04/2024",
+      "Debit": "746.64",
+      "Credit": "",
+      "Balance": "1292757.36"
+    },
+    {
+      "Date": "17/04/2024",
+      "Description": "-OLG2203791-17-PCH003-VAT CHARGES-HOF",
+      "Value Date": "17/04/2024",
+      "Debit": "37.33",
+      "Credit": "",
+      "Balance": "1292720.03"
+    },
+    {
+      "Date": "19/04/2024",
+      "Description": "1 CHEQUE BOOK(S) CHARGE",
+      "Value Date": "19/04/2024",
+      "Debit": "157.5",
+      "Credit": "",
+      "Balance": "1292562.53"
+    },
+    {
+      "Date": "23/04/2024",
+      "Description": "EPHCOP11303JCB14_FTS-TTS[/REF/T1000122774 124120 125610] NATIONAL SHIPPING SERV -HOF",
+      "Value Date": "23/04/2024",
+      "Debit": "",
+      "Credit": "5677.89",
+      "Balance": "1298240.42"
+    },
+    {
+      "Date": "23/04/2024",
+      "Description": "CHEQUE DEPOSIT-HSBC-HOF7946",
+      "Value Date": "23/04/2024",
+      "Debit": "",
+      "Credit": "6949.76",
+      "Balance": "1305190.18"
+    },
+    {
+      "Date": "23/04/2024",
+      "Description": "CHEQUE DEPOSIT-ADCB-HOF4397",
+      "Value Date": "23/04/2024",
+      "Debit": "",
+      "Credit": "20906.48",
+      "Balance": "1326096.66"
+    },
+    {
+      "Date": "23/04/2024",
+      "Description": "CHEQUE DEPOSIT-NBF-HOF68508",
+      "Value Date": "23/04/2024",
+      "Debit": "",
+      "Credit": "74312.91",
+      "Balance": "1400409.57"
+    },
+    {
+      "Date": "24/04/2024",
+      "Description": "FT24115PZ598_FTS-TTS_[/REF/OTHERS PAYMENT FOR FILE STORAGE] MALABAR GOLD LLC PO-HOF",
+      "Value Date": "24/04/2024",
+      "Debit": "",
+      "Credit": "76206.61",
+      "Balance": "1476616.18"
+    },
+    {
+      "Date": "25/04/2024",
+      "Description": "CASH CHQ WITHDRAWAL-JAL152",
+      "Value Date": "25/04/2024",
+      "Debit": "25637.5",
+      "Credit": "",
+      "Balance": "1450978.68"
+    },
+    {
+      "Date": "26/04/2024",
+      "Description": "0033138304000130_FTS-ITS_[/REFPA YMENT OF DPE OUTSTANDING INVOICES]_DUBAI PETROL-HOF",
+      "Value Date": "26/04/2024",
+      "Debit": "",
+      "Credit": "14413.45",
+      "Balance": "1465392.13"
+    },
+    {
+      "Date": "27/04/2024",
+      "Description": "CHEQUE DEPOSIT-NBQ-HOF30951",
+      "Value Date": "27/04/2024",
+      "Debit": "",
+      "Credit": "3537.24",
+      "Balance": "1468929.37"
+    },
+    {
+      "Date": "27/04/2024",
+      "Description": "CHEQUE DEPOSIT-NBQ-HOF31141",
+      "Value Date": "27/04/2024",
+      "Debit": "",
+      "Credit": "2224.48",
+      "Balance": "1471153.85"
+    },
+    {
+      "Date": "30/04/2024",
+      "Description": "AEA30044BAB365Q8_FTS-INS_[/REF/AEA30044BAB365Q8 000000015134 050195-T1000126803] -HOF",
+      "Value Date": "30/04/2024",
+      "Debit": "",
+      "Credit": "35204.96",
+      "Balance": "1506358.81"
+    },
+    {
+      "Date": "30/04/2024",
+      "Description": "CHEQUE DEPOSIT-HSBC-HOF2082",
+      "Value Date": "30/04/2024",
+      "Debit": "",
+      "Credit": "21874.86",
+      "Balance": "1528233.67"
+    },
+    {
+      "Date": "30/04/2024",
+      "Description": "MT940-MONTHLY CHARGE",
+      "Value Date": "30/04/2024",
+      "Debit": "52.5",
+      "Credit": "",
+      "Balance": "1528181.17"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+transactions
+amount,balance,date,description,record_identifier
+5000.0,16176.9,04/11/22,Cash Withdrawal: to SELF at EAST_CHAMPAR,
+10000.0,26176.9,07/11/22,"IMPS Transfer: from ANANT THAKUR, Reference: IMPSP2A024310259974",
+4000.0,22176.9,10/11/22,Cash Withdrawal: to SELF at EAST_CHAMPAR,
+5000.0,17176.9,18/11/22,Cash Withdrawal: to SELF at EAST CHAMPAR,
